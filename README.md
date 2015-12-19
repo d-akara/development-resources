@@ -1,14 +1,17 @@
-# development resources references
+# Development Resources References
 Collection of useful development resources
 
 ----
 
-## Javascript news and blogs
-*What's happening*
+## News and blogs
+* [Hacker News](https://news.ycombinator.com/news) The firehose of tech news
+* [DZone](https://dzone.com/links) Rankings of current tech news
 
 ### Javascript
 * [Echo JS](http://www.echojs.com) Ranked news and articles
+* [MyBridge JS](http://www.mybridge.co/skills/javascript) Trending news and articles
 * [PonyFoo](http://ponyfoo.com/) Technical articles focused on core language and tools
+* [Google Developers](https://developers.google.com/web/updates/) Google developer news
 * [SitePoint](http://www.sitepoint.com/) Technical articles with broad focus
 * [Mozilla Hacks](https://hacks.mozilla.org/articles/) Technical articles focus on emerging technology
 * [Tuts+](http://code.tutsplus.com/) Web Tech Tutorial articles
@@ -33,8 +36,75 @@ Collection of useful development resources
 * [JS Org Best](http://bestof.js.org/#/home) Categorized JS project rankings on github
 
 ### Weekly in development news
+* [Hacker News](https://hn.algolia.com/?query=javascript&sort=byPopularity&prefix&page=0&dateRange=pastWeek&type=story) Javascript mentions in past week
 * [CSS Weekly](http://css-weekly.com/archives/)
 * [Javascript Weekly](http://javascriptweekly.com/latest)
 * [Web Ops Weekly](http://webopsweekly.com/latest)
 * [Node Weekly](http://nodeweekly.com/latest)
 * [Web Tools Weekly](http://webtoolsweekly.com/#archive)
+
+## Game based learning
+
+### Javascript
+* [Code Craft](http://www.codecraftgame.org/)
+* [Warrior JS](https://github.com/olistic/warriorjs)
+* [Code Combat](http://codecombat.com/)
+* [Battlecode](http://www.battlecode.org/)
+* [Screeps](https://screeps.com/)
+* [Vindinium](http://vindinium.org/)
+* [Empire of Code](https://empireofcode.com/#/)
+* [Untrusted](http://alexnisnevich.github.io/untrusted/)
+* [Fight Code](http://fightcodegame.com/)
+* [Clash JS](http://javierbyte.github.io/clashjs/)
+* [ScriptCraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft)
+* [LearnToMod](http://www.learntomod.com/)
+* [CodinGame](https://www.codingame.com/start)
+* [Code Warriors](http://www.kuatostudios.com/games/hakitzu-elite/)
+* [Code Hunt](https://www.codehunt.com/)
+* [CodeFights](https://codefights.com/)
+* [Card Forest](http://www.cardforest.com/)
+* [StarFighter](http://www.starfighters.io/)
+
+### CSS and Design Games
+* [CSS Diner](http://flukeout.github.io/)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Design Games](http://graphism.fr/games/)
+
+### Assembly Games
+* [Embedded Security CTF](https://microcorruption.com/login)
+* [TIS-100](http://store.steampowered.com/app/370360)
+
+## Competitions
+* [Code Wars](http://www.codewars.com/)
+* [Code Chef](https://www.codechef.com/)
+* [Hacker Rank](https://www.hackerrank.com/)
+* [Top Coder](https://www.topcoder.com/)
+* [Node Knockout](http://nodeknockout.com/)
+* [Coder Byte](http://coderbyte.com/)
+
+## Interactive learning
+* [CodeSchool](https://www.codeschool.com/)
+* [Learn Git](https://try.github.io/levels/1/challenges/1)
+* [Javascript Event Loop](http://latentflip.com/loupe/)
+* [JS Object Playground](http://www.objectplayground.com/)
+* [MetaES](http://metaes.org/) Watch JS interpretation
+* [ES6 Katas](http://es6katas.org/) ES6 focused exercises
+* [Learn Advanced Javascript](http://ejohn.org/apps/learn/)
+* [Challenger](http://rileyjshaw.com/challenger/) Simple JS challenges
+* [Regex One](http://regexone.com/lesson/introduction_abcs)
+* [jQuery](http://try.jquery.com/)
+* [SchemaVerse](https://schemaverse.com/)
+* [Visulator](https://github.com/thlorenz/visulator) x86 Machine instruction simulator
+* [Assembler Simulator](http://schweigi.github.io/assembler-simulator/)
+* [Visual 6502](http://www.visual6502.org/JSSim/index.html)
+* [YASP](http://yasp.me/) Assembler development environment
+* [JS Assessment](https://github.com/rmurphey/js-assessment)
+* [JS Exercises](https://github.com/kolodny/exercises)
+* [Pixar in a box](https://www.khanacademy.org/partner-content/pixar)
+* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+* [Khan Academy CS](https://www.khanacademy.org/computing/computer-science)
+* [JS Udacity](https://www.udacity.com/courses/all?technology=javascript)
+* [Treehouse](https://teamtreehouse.com/library/topic:javascript)
+* [Code Avengers](https://www.codeavengers.com/#parent)
+
+* [Bento.io](https://www.bento.io/) Directory of learning resources
