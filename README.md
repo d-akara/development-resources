@@ -137,21 +137,21 @@ Collection of useful development resources
 * [SourceLair](https://www.sourcelair.com/home)
 
 ## Tools
-[Regex101](https://regex101.com/) Regular expression tester debugger
-[RegexpLint](http://regexp.quaxio.com/) Regular expression linter
-[Regulex](https://jex.im/regulex) Regular expession visualizer
-[Flexy Boxes](http://the-echoplex.net/flexyboxes/) CSS Flexbox generator
-[Tridiv](http://tridiv.com) Create 3D CSS
-[CSS Animate](http://cssanimate.com/) CSS Animation assistant
-[Bounce.js](http://bouncejs.com) CSS Animation assistant
-[Sylie](http://jeremyckahn.github.io/stylie/) CSS Animation assistant
-[EnjoyCSS](http://enjoycss.com/) CSS Generator designer
-[Bezier Curve](http://cubic-bezier.com)
-[Paletton](http://paletton.com/) Pallete designer
-[GridLover](http://www.gridlover.net/) Typography assistant
-[GlyphrStudio](http://glyphrstudio.com/)
-[FontArk](http://fontark.net/farkwp/)
-[Fontastic](http://fontastic.me/)
-[CDN JS](https://cdnjs.com) Search CDN JS library hosting
-[OmniRef](https://www.omniref.com/js) JS Documentation index of github projects
-[HackerSearch.io](http://hackersearch.io/) Search all code on github
+* [Regex101](https://regex101.com/) Regular expression tester debugger
+* [RegexpLint](http://regexp.quaxio.com/) Regular expression linter
+* [Regulex](https://jex.im/regulex) Regular expession visualizer
+* [Flexy Boxes](http://the-echoplex.net/flexyboxes/) CSS Flexbox generator
+* [Tridiv](http://tridiv.com) Create 3D CSS
+* [CSS Animate](http://cssanimate.com/) CSS Animation assistant
+* [Bounce.js](http://bouncejs.com) CSS Animation assistant
+* [Sylie](http://jeremyckahn.github.io/stylie/) CSS Animation assistant
+* [EnjoyCSS](http://enjoycss.com/) CSS Generator designer
+* [Bezier Curve](http://cubic-bezier.com)
+* [Paletton](http://paletton.com/) Pallete designer
+* [GridLover](http://www.gridlover.net/) Typography assistant
+* [GlyphrStudio](http://glyphrstudio.com/)
+* [FontArk](http://fontark.net/farkwp/)
+* [Fontastic](http://fontastic.me/)
+* [CDN JS](https://cdnjs.com) Search CDN JS library hosting
+* [OmniRef](https://www.omniref.com/js) JS Documentation index of github projects
+* [HackerSearch.io](http://hackersearch.io/) Search all code on github
