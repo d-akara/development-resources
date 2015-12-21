@@ -72,6 +72,7 @@ Collection of useful development resources
 * [Nordic.js](https://www.youtube.com/channel/UCTZ3O2cZo1b4JSwvhgBnAbw)
 * [Reactive Conf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
 * [Source Decoded](https://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg)
+* [Web Rebels](https://www.youtube.com/channel/UCM9cTs_C0PmTlHXTNrqTpnw/feed)
 * [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
 * [YOW](https://www.youtube.com/channel/UCAvGvvEemkeX8hurdPXr7hA)
 
@@ -168,6 +169,7 @@ Collection of useful development resources
 * [IDEOne](http://ideone.com/) Multiple language playground
 * [dbgr](https://dbgr.cc/) Multi language debugger
 * [Rust](https://play.rust-lang.org/)
+* [Swift](http://swiftlang.ng.bluemix.net/#/repl)
 
 ## Online tools and development environments
 * [Cloud 9](https://c9.io/)
