@@ -44,6 +44,37 @@ Collection of useful development resources
 * [Node Weekly](http://nodeweekly.com/latest)
 * [Web Tools Weekly](http://webtoolsweekly.com/#archive)
 
+### Video conferences and talks
+* [BocoupLLC](https://www.youtube.com/user/BocoupLLC/videos)
+* [Cascadia JS](https://www.youtube.com/user/cascadiajs/videos)
+* [Christophe Limpalair](https://www.youtube.com/channel/UCzo_FqWUbEH0AYs0NilUWpA)
+* [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
+* [Codegram Technologies](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg/videos)
+* [Confreaks](https://www.youtube.com/user/Confreaks/videos)
+* [Connect JS](https://www.youtube.com/user/connectconfs/feed)
+* [Devoxx 2015](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/feed)
+* [Dot Conferences](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
+* [Dzone Inc](https://www.youtube.com/channel/UC46At8VX7QpjEiGF1-TjPiw)
+* [Fitc events](https://www.youtube.com/user/fitcevents/videos)
+* [Free code camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
+* [Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos)
+* [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
+* [GOTO Conferences](https://www.youtube.com/user/GotoConferences/videos)
+* [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos)
+* [JS Conf](https://www.youtube.com/user/jsconfeu/videos)
+* [JS Confuy](https://www.youtube.com/user/jsconfuy/videos)
+* [Learn Code](https://www.youtube.com/user/learncodeacademy/videos)
+* [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+* [Meteor](https://www.youtube.com/user/MeteorVideos/videos)
+* [NewCircle Training](https://www.youtube.com/user/MarakanaTechTV/videos)
+* [Nodevember](https://www.youtube.com/user/nodevember/videos)
+* [Nordic.js](https://www.youtube.com/channel/UCTZ3O2cZo1b4JSwvhgBnAbw)
+* [Reactive Conf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
+* [Source Decoded](https://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg)
+* [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
+* [YOW](https://www.youtube.com/channel/UCAvGvvEemkeX8hurdPXr7hA)
+
 ## Directories of resources
 * [Libraries.io](https://libraries.io/) Open source discovery service
 * [wwwwhere](http://wwwhere.io/) Categorized directory of resources and other directories
@@ -54,6 +85,9 @@ Collection of useful development resources
 * [AltJS](http://smurfpandey.github.io/altjs/) Languages compilters to JS
 
 ## Game based learning
+
+### Intro to coding
+* [Blockly](https://blockly-games.appspot.com/)
 
 ### Javascript
 * [Code Craft](http://www.codecraftgame.org/)
@@ -95,7 +129,13 @@ Collection of useful development resources
 * [Sphere Online Judge](http://www.spoj.com/)
 
 ## Interactive learning
+
+* [CodeCademy](https://www.codecademy.com/)
 * [CodeSchool](https://www.codeschool.com/)
+* [FreeCodeCamp](http://www.freecodecamp.com)
+* [Treehouse](https://teamtreehouse.com/library/topic:javascript)
+* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) Computer algorithms course
+* [Khan Academy CS](https://www.khanacademy.org/computing/computer-science) Computer science courese
 * [TutorialsPoint](http://www.tutorialspoint.com/codingground.htm) 80+ languages with playgrounds
 * [Learn Git](https://try.github.io/levels/1/challenges/1)
 * [Git Reference](http://www.ndpsoftware.com/git-cheatsheet.html) Visual diagram of git commands
@@ -107,11 +147,9 @@ Collection of useful development resources
 * [JS Assessment](https://github.com/rmurphey/js-assessment)
 * [JS Exercises](https://github.com/kolodny/exercises)
 * [Pixar in a box](https://www.khanacademy.org/partner-content/pixar) 3D Modeling and animation
-* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) Computer algorithms course
-* [Khan Academy CS](https://www.khanacademy.org/computing/computer-science) Computer science courese
 * [JS Udacity](https://www.udacity.com/courses/all?technology=javascript)
-* [Treehouse](https://teamtreehouse.com/library/topic:javascript)
 * [Code Avengers](https://www.codeavengers.com/#parent)
+* [Nodeschool.io](http://nodeschool.io/)
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
