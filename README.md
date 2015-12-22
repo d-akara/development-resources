@@ -43,6 +43,7 @@ Collection of useful development resources
 * [Web Ops Weekly](http://webopsweekly.com/latest)
 * [Node Weekly](http://nodeweekly.com/latest)
 * [Web Tools Weekly](http://webtoolsweekly.com/#archive)
+* [The Changelog](https://changelog.com/)
 
 ### Video conferences and talks
 * [BocoupLLC](https://www.youtube.com/user/BocoupLLC/videos)
@@ -131,6 +132,7 @@ Collection of useful development resources
 
 ## Interactive learning
 
+* [Dash](https://dash.generalassemb.ly/)
 * [CodeCademy](https://www.codecademy.com/)
 * [CodeSchool](https://www.codeschool.com/)
 * [FreeCodeCamp](http://www.freecodecamp.com)
@@ -170,6 +172,38 @@ Collection of useful development resources
 * [dbgr](https://dbgr.cc/) Multi language debugger
 * [Rust](https://play.rust-lang.org/)
 * [Swift](http://swiftlang.ng.bluemix.net/#/repl)
+
+## Books and references
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Speaking JavaScript](http://speakingjs.com/)
+* [JavaScript is Sexy](http://javascriptissexy.com/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+* [Exploring ES6](http://exploringjs.com/es6/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+* [JavaScript Enlightenment](http://javascriptenlightenment.com/)
+* [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+* [DOM Enlightenment](http://domenlightenment.com/)
+* [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/)
+* [Human JavaScript](http://read.humanjavascript.com/)
+* [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) WebGL Shaders
+* [WebGL Fundamentals](http://webglfundamentals.org/) WebGL
+* [Superhero.js](http://superherojs.com/) Learning outline
+* [Odin Project](http://www.theodinproject.com/home) Learning outline
+* [Romesguy JavaScript Links](https://papaly.com/romseguy/eg7St/JavaScript) Learning outline
+* [Thinkster](https://thinkster.io/) Self paced
+* [CSS Triggers](http://csstriggers.com/)
+* [CSS Reference](http://tympanus.net/codrops/css_reference/)
+* [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
+* [JSbooks](http://jsbooks.revolunet.com/) Collection of free books
+* [DevFreeBooks](http://devfreebooks.org/) Collection of free books
+
+
+
 
 ## Online tools and development environments
 * [Cloud 9](https://c9.io/)
