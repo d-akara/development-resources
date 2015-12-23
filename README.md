@@ -69,6 +69,7 @@ Collection of useful development resources
 * [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
 * [Meteor](https://www.youtube.com/user/MeteorVideos/videos)
 * [NewCircle Training](https://www.youtube.com/user/MarakanaTechTV/videos)
+* [Node.js](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ/feed)
 * [Nodevember](https://www.youtube.com/user/nodevember/videos)
 * [Nordic.js](https://www.youtube.com/channel/UCTZ3O2cZo1b4JSwvhgBnAbw)
 * [Reactive Conf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
@@ -81,10 +82,12 @@ Collection of useful development resources
 * [Libraries.io](https://libraries.io/) Open source discovery service
 * [wwwwhere](http://wwwhere.io/) Categorized directory of resources and other directories
 * [Bento.io](https://www.bento.io/) Directory of learning resources
+* [Hackr.io](http://hackr.io/) Directory of learning resources
+* [Hackr.io](http://hackr.io/) Directory of learning resources
 * [Javascripting](http://www.javascripting.com/) Libraries, frameworks and plugins
 * [Awesome](https://github.com/sindresorhus/awesome) The directory of awesome lists
 * [Awesome JS](https://github.com/sorrycc/awesome-javascript) JS Awesome list
-* [AltJS](http://smurfpandey.github.io/altjs/) Languages compilters to JS
+* [AltJS](http://smurfpandey.github.io/altjs/) Languages compilers to JS
 
 ## Game based learning
 
@@ -160,9 +163,11 @@ Collection of useful development resources
 * [JSFiddle](https://jsfiddle.net/) JS playground
 * [RequireBin](http://requirebin.com/) JS playground using NPM
 * [ShaderToy](https://www.shadertoy.com/) Social ranking based WebGL shaders
+* [Shader Frog](http://shaderfrog.com/app/)
 * [Javascript Event Loop](http://latentflip.com/loupe/)
 * [JS Object Playground](http://www.objectplayground.com/)
 * [MetaES](http://metaes.org/) Watch JS interpretation
+* [Apparatus](http://aprt.us/) Graphics editor and programming environment
 * [Jison](http://nolanlawson.github.io/jison-debugger/) Jison AST language builder
 * [Visulator](https://github.com/thlorenz/visulator) x86 Machine instruction simulator
 * [Assembler Simulator](http://schweigi.github.io/assembler-simulator/) 8-bit Assembler simulator
@@ -190,6 +195,7 @@ Collection of useful development resources
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/)
 * [Human JavaScript](http://read.humanjavascript.com/)
+* [JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) WebGL Shaders
 * [WebGL Fundamentals](http://webglfundamentals.org/) WebGL
 * [Superhero.js](http://superherojs.com/) Learning outline
@@ -202,15 +208,14 @@ Collection of useful development resources
 * [JSbooks](http://jsbooks.revolunet.com/) Collection of free books
 * [DevFreeBooks](http://devfreebooks.org/) Collection of free books
 
-
-
-
 ## Online tools and development environments
 * [Cloud 9](https://c9.io/)
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
 
 ## Tools
+* [AST Explorer](http://astexplorer.net/) JavaScript AST Viewer
+* [JSNice](http://www.jsnice.org/#) Deobfuscation
 * [Regex101](https://regex101.com/) Regular expression tester debugger
 * [RegexpLint](http://regexp.quaxio.com/) Regular expression linter
 * [Regulex](https://jex.im/regulex) Regular expession visualizer
