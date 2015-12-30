@@ -8,6 +8,7 @@ Collection of useful development resources
 * [DZone](https://dzone.com/links) Rankings of current tech news
 
 ### Javascript
+* [Twitter](https://twitter.com/search?q=javascript&src=typd) javascript [Twitter](https://twitter.com/search?src=typd&q=%23javascript) #javascript
 * [Echo JS](http://www.echojs.com) Ranked news and articles
 * [MyBridge JS](http://www.mybridge.co/skills/javascript) Trending news and articles
 * [PonyFoo](http://ponyfoo.com/) Technical articles focused on core language and tools
@@ -135,10 +136,12 @@ Collection of useful development resources
 
 ## Interactive learning
 
-* [Dash](https://dash.generalassemb.ly/)
-* [CodeCademy](https://www.codecademy.com/)
-* [CodeSchool](https://www.codeschool.com/)
-* [FreeCodeCamp](http://www.freecodecamp.com)
+* [Scratch](https://scratch.mit.edu/) Introduction to coding for kids
+* [Code Studio](https://studio.code.org/) Introduction to coding for kids
+* [Dash](https://dash.generalassemb.ly/) General introduction to HTML, CSS and JavaScript
+* [CodeCademy](https://www.codecademy.com/) Beginner courses for JavaScript
+* [CodeSchool](https://www.codeschool.com/) Beginner courses for JavaScript, slighly more difficult than CodeCademy
+* [FreeCodeCamp](http://www.freecodecamp.com) Comprehensive courses from novice to advanced
 * [Treehouse](https://teamtreehouse.com/library/topic:javascript)
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) Computer algorithms course
 * [Khan Academy CS](https://www.khanacademy.org/computing/computer-science) Computer science courese
@@ -177,6 +180,7 @@ Collection of useful development resources
 * [dbgr](https://dbgr.cc/) Multi language debugger
 * [Rust](https://play.rust-lang.org/)
 * [Swift](http://swiftlang.ng.bluemix.net/#/repl)
+* [SQLFiddle](http://sqlfiddle.com/)
 
 ## Books and references
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -201,6 +205,7 @@ Collection of useful development resources
 * [Superhero.js](http://superherojs.com/) Learning outline
 * [Odin Project](http://www.theodinproject.com/home) Learning outline
 * [Romesguy JavaScript Links](https://papaly.com/romseguy/eg7St/JavaScript) Learning outline
+* [Eric Elliot's Required Reading](https://github.com/ericelliott/essential-javascript-links#required-reading-online-resources) Learning outline
 * [Thinkster](https://thinkster.io/) Self paced
 * [CSS Triggers](http://csstriggers.com/)
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
@@ -234,3 +239,4 @@ Collection of useful development resources
 * [CDN JS](https://cdnjs.com) Search CDN JS library hosting
 * [OmniRef](https://www.omniref.com/js) JS Documentation index of github projects
 * [HackerSearch.io](http://hackersearch.io/) Search all code on github
+* [BlackDuck](http://code.openhub.net/) Open source code search engine
