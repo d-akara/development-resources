@@ -136,6 +136,7 @@ Collection of useful development resources
 
 ## Interactive learning
 
+* [CS Unplugged](http://csunplugged.org/) Introduction to CS without computers.  Great for kids.
 * [Scratch](https://scratch.mit.edu/) Introduction to coding for kids
 * [Code Studio](https://studio.code.org/) Introduction to coding for kids
 * [Dash](https://dash.generalassemb.ly/) General introduction to HTML, CSS and JavaScript
@@ -159,6 +160,8 @@ Collection of useful development resources
 * [JS Udacity](https://www.udacity.com/courses/all?technology=javascript)
 * [Code Avengers](https://www.codeavengers.com/#parent)
 * [Nodeschool.io](http://nodeschool.io/)
+* [VisuAlgo](http://visualgo.net/) Visualize software algorithms
+* [Visualization Graphics](http://acko.net/files/gltalks/pixelfactory/online.html#0)
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
@@ -174,6 +177,7 @@ Collection of useful development resources
 * [Jison](http://nolanlawson.github.io/jison-debugger/) Jison AST language builder
 * [Visulator](https://github.com/thlorenz/visulator) x86 Machine instruction simulator
 * [Assembler Simulator](http://schweigi.github.io/assembler-simulator/) 8-bit Assembler simulator
+* [Asm86](http://carlosrafaelgn.com.br/Asm86/) Assembly x86 simulator
 * [Visual 6502](http://www.visual6502.org/JSSim/index.html) Machine code and hardware visualization
 * [YASP](http://yasp.me/) Assembler development environment
 * [IDEOne](http://ideone.com/) Multiple language playground
@@ -219,6 +223,7 @@ Collection of useful development resources
 * [SourceLair](https://www.sourcelair.com/home)
 
 ## Tools
+* [Dan's Tools](http://www.danstools.com/) Collection of online tools
 * [AST Explorer](http://astexplorer.net/) JavaScript AST Viewer
 * [JSNice](http://www.jsnice.org/#) Deobfuscation
 * [Regex101](https://regex101.com/) Regular expression tester debugger
