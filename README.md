@@ -40,6 +40,7 @@ Collection of useful development resources
 ### Weekly in development news
 * [Hacker News](https://hn.algolia.com/?query=javascript&sort=byPopularity&prefix&page=0&dateRange=pastWeek&type=story) Javascript mentions in past week
 * [CSS Weekly](http://css-weekly.com/archives/)
+* [Codrops Collective](http://tympanus.net/codrops/collective/)
 * [Javascript Weekly](http://javascriptweekly.com/latest)
 * [Web Ops Weekly](http://webopsweekly.com/latest)
 * [Node Weekly](http://nodeweekly.com/latest)
@@ -81,9 +82,8 @@ Collection of useful development resources
 
 ## Directories of resources
 * [Libraries.io](https://libraries.io/) Open source discovery service
-* [wwwwhere](http://wwwhere.io/) Categorized directory of resources and other directories
+* [wwwhere](http://wwwhere.io/) Categorized directory of resources and other directories
 * [Bento.io](https://www.bento.io/) Directory of learning resources
-* [Hackr.io](http://hackr.io/) Directory of learning resources
 * [Hackr.io](http://hackr.io/) Directory of learning resources
 * [Javascripting](http://www.javascripting.com/) Libraries, frameworks and plugins
 * [Awesome](https://github.com/sindresorhus/awesome) The directory of awesome lists
@@ -148,6 +148,7 @@ Collection of useful development resources
 * [Khan Academy CS](https://www.khanacademy.org/computing/computer-science) Computer science courese
 * [TutorialsPoint](http://www.tutorialspoint.com/codingground.htm) 80+ languages with playgrounds
 * [Learn Git](https://try.github.io/levels/1/challenges/1)
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Git Reference](http://www.ndpsoftware.com/git-cheatsheet.html) Visual diagram of git commands
 * [ES6 Katas](http://es6katas.org/) ES6 focused exercises
 * [Learn Advanced Javascript](http://ejohn.org/apps/learn/)
@@ -185,24 +186,24 @@ Collection of useful development resources
 * [Rust](https://play.rust-lang.org/)
 * [Swift](http://swiftlang.ng.bluemix.net/#/repl)
 * [SQLFiddle](http://sqlfiddle.com/)
+* [Git](http://pcottle.github.io/learnGitBranching/?NODEMO)
 
 ## Books and references
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [Speaking JavaScript](http://speakingjs.com/)
-* [JavaScript is Sexy](http://javascriptissexy.com/)
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [JavaScript Enlightenment](http://javascriptenlightenment.com/)
+* [Speaking JavaScript](http://speakingjs.com/es5/index.html)
+* [Exploring ES6](http://exploringjs.com/es6/)
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 * [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
-* [Exploring ES6](http://exploringjs.com/es6/)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
-* [JavaScript Enlightenment](http://javascriptenlightenment.com/)
 * [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
-* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/)
 * [Human JavaScript](http://read.humanjavascript.com/)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) Focus on less understood parts of JS
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) WebGL Shaders
 * [WebGL Fundamentals](http://webglfundamentals.org/) WebGL
