@@ -189,30 +189,30 @@ Collection of useful development resources
 * [Git](http://pcottle.github.io/learnGitBranching/?NODEMO)
 
 ## Books and references
-* [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [JavaScript Enlightenment](http://javascriptenlightenment.com/)
-* [Speaking JavaScript](http://speakingjs.com/es5/index.html)
-* [Exploring ES6](http://exploringjs.com/es6/)
-* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
-* [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Eloquent JavaScript](http://eloquentjavascript.net/) Getting started with JS programming
+* [JavaScript Enlightenment](http://javascriptenlightenment.com/) Intermediate level introduction to JS
+* [Speaking JavaScript](http://speakingjs.com/es5/index.html) Detailed deep dive into JS language proper
+* [Exploring ES6](http://exploringjs.com/es6/) Detailed deep dive into JS ES6 language proper
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) Intermediate level guide to new parts in ES6
+* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) 
 * [Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
-* [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
-* [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)
+* [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) Javascript and functional programming
+* [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) In depth concepts continuing after 'JavaScript Allongé'
+* [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
-* [DOM Enlightenment](http://domenlightenment.com/)
-* [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/)
-* [Human JavaScript](http://read.humanjavascript.com/)
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) Focus on less understood parts of JS
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) Focus on less understood parts of JS
+* [Human JavaScript](http://read.humanjavascript.com/)
+* [DOM Enlightenment](http://domenlightenment.com/)
 * [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) WebGL Shaders
 * [WebGL Fundamentals](http://webglfundamentals.org/) WebGL
+* [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/) Learning outline
+* [Eric Elliot's Required Reading](https://github.com/ericelliott/essential-javascript-links#required-reading-online-resources) Learning outline
 * [Superhero.js](http://superherojs.com/) Learning outline
 * [Odin Project](http://www.theodinproject.com/home) Learning outline
 * [Romesguy JavaScript Links](https://papaly.com/romseguy/eg7St/JavaScript) Learning outline
-* [Eric Elliot's Required Reading](https://github.com/ericelliott/essential-javascript-links#required-reading-online-resources) Learning outline
-* [Thinkster](https://thinkster.io/) Self paced
-* [CSS Triggers](http://csstriggers.com/)
+* [Thinkster](https://thinkster.io/) Self paced tutorials
+* [CSS Triggers](http://csstriggers.com/) Styles which trigger layout, paint and composite
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
 * [JSbooks](http://jsbooks.revolunet.com/) Collection of free books
