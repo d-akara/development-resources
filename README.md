@@ -50,11 +50,13 @@ Collection of useful development resources
 ### Video conferences and talks
 * [BocoupLLC](https://www.youtube.com/user/BocoupLLC/videos)
 * [Cascadia JS](https://www.youtube.com/user/cascadiajs/videos)
+* [Chaos Computer Club](https://www.youtube.com/user/mediacccde/videos)
 * [Christophe Limpalair](https://www.youtube.com/channel/UCzo_FqWUbEH0AYs0NilUWpA)
 * [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
 * [Codegram Technologies](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg/videos)
 * [Confreaks](https://www.youtube.com/user/Confreaks/videos)
 * [Connect JS](https://www.youtube.com/user/connectconfs/feed)
+* [Def Con](https://www.youtube.com/user/DEFCONConference)
 * [Devoxx 2015](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/feed)
 * [Dot Conferences](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
 * [Dzone Inc](https://www.youtube.com/channel/UC46At8VX7QpjEiGF1-TjPiw)
@@ -76,6 +78,7 @@ Collection of useful development resources
 * [Nordic.js](https://www.youtube.com/channel/UCTZ3O2cZo1b4JSwvhgBnAbw)
 * [Reactive Conf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
 * [Source Decoded](https://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg)
+* [Strange Loop](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw/feed)
 * [Web Rebels](https://www.youtube.com/channel/UCM9cTs_C0PmTlHXTNrqTpnw/feed)
 * [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
 * [YOW](https://www.youtube.com/channel/UCAvGvvEemkeX8hurdPXr7hA)
@@ -166,6 +169,7 @@ Collection of useful development resources
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
+* [Turb0JS](http://www.turb0js.com/) JS playground with online debugger
 * [JSBin](http://jsbin.com) JS playground
 * [JSFiddle](https://jsfiddle.net/) JS playground
 * [RequireBin](http://requirebin.com/) JS playground using NPM
@@ -222,9 +226,11 @@ Collection of useful development resources
 * [Cloud 9](https://c9.io/)
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
+* [Codeanywhere](https://codeanywhere.com/)
 
 ## Tools
 * [Dan's Tools](http://www.danstools.com/) Collection of online tools
+* [Code Beautify](http://codebeautify.org/) Collection of online tools
 * [AST Explorer](http://astexplorer.net/) JavaScript AST Viewer
 * [JSNice](http://www.jsnice.org/#) Deobfuscation
 * [Regex101](https://regex101.com/) Regular expression tester debugger
