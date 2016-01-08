@@ -99,6 +99,9 @@ Collection of useful development resources
 * [Blockly](https://blockly-games.appspot.com/)
 
 ### Javascript
+* [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine)
+* [Glitch Space](http://glitchspace.com/)
+* [Code Spells](http://codespells.org/)
 * [Code Craft](http://www.codecraftgame.org/)
 * [Warrior JS](https://github.com/olistic/warriorjs)
 * [Code Combat](http://codecombat.com/)
@@ -152,6 +155,7 @@ Collection of useful development resources
 * [TutorialsPoint](http://www.tutorialspoint.com/codingground.htm) 80+ languages with playgrounds
 * [Learn Git](https://try.github.io/levels/1/challenges/1)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [CodeCademy Git](https://www.codecademy.com/learn/learn-git)
 * [Git Reference](http://www.ndpsoftware.com/git-cheatsheet.html) Visual diagram of git commands
 * [ES6 Katas](http://es6katas.org/) ES6 focused exercises
 * [Learn Advanced Javascript](http://ejohn.org/apps/learn/)
@@ -203,11 +207,11 @@ Collection of useful development resources
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) Javascript and functional programming
 * [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) In depth concepts continuing after 'JavaScript Allongé'
 * [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) A deeper understanding of how JS really works
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) Focus on less understood parts of JS
-* [Human JavaScript](http://read.humanjavascript.com/)
-* [DOM Enlightenment](http://domenlightenment.com/)
+* [Human JavaScript](http://read.humanjavascript.com/) Book of experience
+* [DOM Enlightenment](http://domenlightenment.com/) Detailed look at the DOM API's
 * [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) WebGL Shaders
 * [WebGL Fundamentals](http://webglfundamentals.org/) WebGL
 * [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/) Learning outline
