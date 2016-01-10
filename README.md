@@ -220,6 +220,7 @@ Collection of useful development resources
 * [Odin Project](http://www.theodinproject.com/home) Learning outline
 * [Romesguy JavaScript Links](https://papaly.com/romseguy/eg7St/JavaScript) Learning outline
 * [Thinkster](https://thinkster.io/) Self paced tutorials
+* [WebGL Fundamentals](http://webglfundamentals.org/)
 * [CSS Triggers](http://csstriggers.com/) Styles which trigger layout, paint and composite
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
@@ -235,6 +236,7 @@ Collection of useful development resources
 ## Tools
 * [Dan's Tools](http://www.danstools.com/) Collection of online tools
 * [Code Beautify](http://codebeautify.org/) Collection of online tools
+* [Pretty Diff](http://prettydiff.com/) Online diff tool
 * [AST Explorer](http://astexplorer.net/) JavaScript AST Viewer
 * [JSNice](http://www.jsnice.org/#) Deobfuscation
 * [Regex101](https://regex101.com/) Regular expression tester debugger
