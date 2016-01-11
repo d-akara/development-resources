@@ -1,12 +1,12 @@
 # Development Resources References
-* [News and blogs](#News and blogs)
-* [Directories of resources](#Directories of resources)
-* [Game based learning](#Game based learning)
-* [Competitions](#Competitions)
-* [Interactive learning](#Interactive learning)
-* [Books and references](#Books and references)
-* [Online development environments](#Online development environments)
-* [Tools](#Tools)
+* [News and blogs](#news-and-blogs)
+* [Directories of resources](#directories-of-resources)
+* [Game based learning](#game-based-learning)
+* [Competitions](#competitions)
+* [Interactive learning](#interactive-learning)
+* [Books and references](#books-and-references)
+* [Online development environments](#online-development-environments)
+* [Tools](#tools)
 
 
 ----
