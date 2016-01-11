@@ -14,11 +14,13 @@
 ## News and blogs
 * [Hacker News](https://news.ycombinator.com/news) The firehose of tech news
 * [DZone](https://dzone.com/links) Rankings of current tech news
+* [Programming on Flipboard](https://flipboard.com/topic/programming)
 
 ### Javascript
 * [Twitter](https://twitter.com/search?q=javascript&src=typd) javascript [Twitter](https://twitter.com/search?src=typd&q=%23javascript) #javascript
 * [Echo JS](http://www.echojs.com) Ranked news and articles
 * [MyBridge JS](http://www.mybridge.co/skills/javascript) Trending news and articles
+* [Javascript on Flipboard](https://flipboard.com/topic/javascript)
 * [PonyFoo](http://ponyfoo.com/) Technical articles focused on core language and tools
 * [Google Developers](https://developers.google.com/web/updates/) Google developer news
 * [SitePoint](http://www.sitepoint.com/) Technical articles with broad focus
@@ -105,11 +107,11 @@
 
 ### Intro to coding
 * [Blockly](https://blockly-games.appspot.com/)
-
-### Javascript
+* [Code Spells](http://codespells.org/) uses blockly, will offer javascript in future
 * [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine)
 * [Glitch Space](http://glitchspace.com/)
-* [Code Spells](http://codespells.org/)
+
+### Javascript
 * [Code Craft](http://www.codecraftgame.org/)
 * [Warrior JS](https://github.com/olistic/warriorjs)
 * [Code Combat](http://codecombat.com/)
@@ -240,6 +242,7 @@
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
 * [Codeanywhere](https://codeanywhere.com/)
+* [CodeEnvy](https://codenvy.com/)
 
 ## Tools
 * [Dan's Tools](http://www.danstools.com/) Collection of online tools
