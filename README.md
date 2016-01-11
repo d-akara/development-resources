@@ -1,5 +1,13 @@
 # Development Resources References
-Collection of useful development resources
+* [News and blogs](#News and blogs)
+* [Directories of resources](#Directories of resources)
+* [Game based learning](#Game based learning)
+* [Competitions](#Competitions)
+* [Interactive learning](#Interactive learning)
+* [Books and references](#Books and references)
+* [Online development environments](#Online development environments)
+* [Tools](#Tools)
+
 
 ----
 
@@ -227,7 +235,7 @@ Collection of useful development resources
 * [JSbooks](http://jsbooks.revolunet.com/) Collection of free books
 * [DevFreeBooks](http://devfreebooks.org/) Collection of free books
 
-## Online tools and development environments
+## Online development environments
 * [Cloud 9](https://c9.io/)
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
