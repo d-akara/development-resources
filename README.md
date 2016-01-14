@@ -80,6 +80,7 @@
 * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos)
 * [JS Conf](https://www.youtube.com/user/jsconfeu/videos)
 * [JS Confuy](https://www.youtube.com/user/jsconfuy/videos)
+* [Kyle Robinson Young](https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg)
 * [Learn Code](https://www.youtube.com/user/learncodeacademy/videos)
 * [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
 * [Meteor](https://www.youtube.com/user/MeteorVideos/videos)
