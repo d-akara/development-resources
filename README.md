@@ -76,6 +76,7 @@
 * [Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos)
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences/videos)
+* [JavaScript Air](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q/feed)
 * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos)
 * [JS Conf](https://www.youtube.com/user/jsconfeu/videos)
 * [JS Confuy](https://www.youtube.com/user/jsconfuy/videos)
