@@ -125,11 +125,11 @@
 * [ScriptCraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft) Javascript
 * [LearnToMod](http://www.learntomod.com/) $ Javascrip
 * [CodinGame](https://www.codingame.com/start) Most Popular Languages
-* [Code Warriors](http://www.kuatostudios.com/games/hakitzu-elite/)
-* [Code Hunt](https://www.codehunt.com/)
-* [CodeFights](https://codefights.com/)
-* [Card Forest](http://www.cardforest.com/)
-* [StarFighter](http://www.starfighters.io/)
+* [Code Warriors](http://www.kuatostudios.com/games/hakitzu-elite/) Javascript
+* [Code Hunt](https://www.codehunt.com/) Java, C#
+* [CodeFights](https://codefights.com/) Javascript
+* [Card Forest](http://www.cardforest.com/) C++
+* [StarFighter](http://www.starfighters.io/) Javascript
 * [SchemaVerse](https://schemaverse.com/)
 
 ### CSS and Design Games
