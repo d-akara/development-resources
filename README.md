@@ -114,24 +114,24 @@
 * [Glitch Space](http://glitchspace.com/)
 
 ### Javascript
-* [Code Craft](http://www.codecraftgame.org/)
-* [Warrior JS](https://github.com/olistic/warriorjs)
-* [Code Combat](http://codecombat.com/)
-* [Battlecode](http://www.battlecode.org/)
-* [Screeps](https://screeps.com/)
-* [Vindinium](http://vindinium.org/)
-* [Empire of Code](https://empireofcode.com/#/)
-* [Untrusted](http://alexnisnevich.github.io/untrusted/)
-* [Fight Code](http://fightcodegame.com/)
-* [Clash JS](http://javierbyte.github.io/clashjs/)
-* [ScriptCraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft)
-* [LearnToMod](http://www.learntomod.com/)
-* [CodinGame](https://www.codingame.com/start)
-* [Code Warriors](http://www.kuatostudios.com/games/hakitzu-elite/)
-* [Code Hunt](https://www.codehunt.com/)
-* [CodeFights](https://codefights.com/)
-* [Card Forest](http://www.cardforest.com/)
-* [StarFighter](http://www.starfighters.io/)
+* [Code Craft](http://www.codecraftgame.org/) Javascript
+* [Warrior JS](https://github.com/olistic/warriorjs) Javascript
+* [Code Combat](http://codecombat.com/) Javascript
+* [Battlecode](http://www.battlecode.org/) Java
+* [Screeps](https://screeps.com/) Javascript
+* [Vindinium](http://vindinium.org/) Almost every language
+* [Empire of Code](https://empireofcode.com/#/) Javascript
+* [Untrusted](http://alexnisnevich.github.io/untrusted/) Javascript
+* [Fight Code](http://fightcodegame.com/) Javascript
+* [Clash JS](http://javierbyte.github.io/clashjs/) Javascript
+* [ScriptCraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft) Javascript
+* [LearnToMod](http://www.learntomod.com/) $ Javascrip
+* [CodinGame](https://www.codingame.com/start) Most Popular Languages
+* [Code Warriors](http://www.kuatostudios.com/games/hakitzu-elite/) Javascript
+* [Code Hunt](https://www.codehunt.com/) Java, C#
+* [CodeFights](https://codefights.com/) Javascript
+* [Card Forest](http://www.cardforest.com/) C++
+* [StarFighter](http://www.starfighters.io/) Javascript
 * [SchemaVerse](https://schemaverse.com/)
 
 ### CSS and Design Games
