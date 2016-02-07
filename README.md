@@ -15,6 +15,7 @@
 * [Hacker News](https://news.ycombinator.com/news) The firehose of tech news
 * [DZone](https://dzone.com/links) Rankings of current tech news
 * [Programming on Flipboard](https://flipboard.com/topic/programming)
+* [Programming on MyBridge](http://www.mybridge.co/skills/software-engineering)
 
 ### Javascript
 * [Twitter](https://twitter.com/search?q=javascript&src=typd) javascript [Twitter](https://twitter.com/search?src=typd&q=%23javascript) #javascript
@@ -52,6 +53,7 @@
 * [CSS Weekly](http://css-weekly.com/archives/)
 * [Codrops Collective](http://tympanus.net/codrops/collective/)
 * [Javascript Weekly](http://javascriptweekly.com/latest)
+* [ES.next News](http://esnextnews.com/)
 * [Web Ops Weekly](http://webopsweekly.com/latest)
 * [Node Weekly](http://nodeweekly.com/latest)
 * [Web Tools Weekly](http://webtoolsweekly.com/#archive)
@@ -151,6 +153,7 @@
 * [Node Knockout](http://nodeknockout.com/)
 * [Coder Byte](http://coderbyte.com/)
 * [Sphere Online Judge](http://www.spoj.com/)
+* [CoderPower](http://coderpower.com/)
 
 ## Interactive learning
 
@@ -189,6 +192,7 @@
 * [JSBin](http://jsbin.com) JS playground
 * [JSFiddle](https://jsfiddle.net/) JS playground
 * [RequireBin](http://requirebin.com/) JS playground using NPM
+* [Tonic](https://tonicdev.com/) Node playground with NPM modules
 * [ShaderToy](https://www.shadertoy.com/) Social ranking based WebGL shaders
 * [Shader Frog](http://shaderfrog.com/app/)
 * [Javascript Event Loop](http://latentflip.com/loupe/)
