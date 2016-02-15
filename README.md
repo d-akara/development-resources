@@ -185,6 +185,7 @@
 * [Nodeschool.io](http://nodeschool.io/)
 * [VisuAlgo](http://visualgo.net/) Visualize software algorithms
 * [Visualization Graphics](http://acko.net/files/gltalks/pixelfactory/online.html#0)
+* [GraphQL](https://learngraphql.com/)
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
