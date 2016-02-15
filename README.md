@@ -250,6 +250,7 @@
 * [SourceLair](https://www.sourcelair.com/home)
 * [Codeanywhere](https://codeanywhere.com/)
 * [CodeEnvy](https://codenvy.com/)
+* [MPLAB](https://mplabxpress.microchip.com/mplabcloud/example/gettingstarted?board=xpress)
 
 ## Tools
 * [Dan's Tools](http://www.danstools.com/) Collection of online tools
