@@ -20,6 +20,7 @@
 ### Javascript
 * [Twitter](https://twitter.com/search?q=javascript&src=typd) javascript [Twitter](https://twitter.com/search?src=typd&q=%23javascript) #javascript
 * [Echo JS](http://www.echojs.com) Ranked news and articles
+* [JavaScript Kicks](http://javascriptkicks.com/) Daily ranked listings of news
 * [MyBridge JS](http://www.mybridge.co/skills/javascript) Trending news and articles
 * [Javascript on Flipboard](https://flipboard.com/topic/javascript)
 * [PonyFoo](http://ponyfoo.com/) Technical articles focused on core language and tools
