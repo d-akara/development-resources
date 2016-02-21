@@ -18,6 +18,7 @@
 * [Programming on MyBridge](http://www.mybridge.co/skills/software-engineering)
 
 ### Javascript
+* [JS Twitter List](https://twitter.com/dakaraphi/lists/js-news)
 * [Twitter](https://twitter.com/search?q=javascript&src=typd) javascript [Twitter](https://twitter.com/search?src=typd&q=%23javascript) #javascript
 * [Echo JS](http://www.echojs.com) Ranked news and articles
 * [JavaScript Kicks](http://javascriptkicks.com/) Daily ranked listings of news
