@@ -201,6 +201,7 @@
 * [Javascript Event Loop](http://latentflip.com/loupe/)
 * [JS Object Playground](http://www.objectplayground.com/)
 * [MetaES](http://metaes.org/) Watch JS interpretation
+* [Python Tutor](http://pythontutor.com/visualize.html#mode=edit) Execution visualizer. Python, Java, JavaScript, TypeScript Ruby
 * [Apparatus](http://aprt.us/) Graphics editor and programming environment
 * [Jison](http://nolanlawson.github.io/jison-debugger/) Jison AST language builder
 * [Visulator](https://github.com/thlorenz/visulator) x86 Machine instruction simulator
