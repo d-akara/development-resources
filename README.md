@@ -121,6 +121,7 @@
 * [Code Craft](http://www.codecraftgame.org/) Javascript
 * [Warrior JS](https://github.com/olistic/warriorjs) Javascript
 * [Code Combat](http://codecombat.com/) Javascript
+* [Slush Smackdown](http://slushsmackdown.com/) Blockly and Javascript
 * [Battlecode](http://www.battlecode.org/) Java
 * [Screeps](https://screeps.com/) Javascript
 * [Vindinium](http://vindinium.org/) Almost every language
