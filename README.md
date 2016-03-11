@@ -197,6 +197,7 @@
 * [JSBin](http://jsbin.com) JS playground
 * [JSFiddle](https://jsfiddle.net/) JS playground
 * [RequireBin](http://requirebin.com/) JS playground using NPM
+* [ESNextbin](http://esnextb.in/) ES6 with NPM
 * [Tonic](https://tonicdev.com/) Node playground with NPM modules
 * [ShaderToy](https://www.shadertoy.com/) Social ranking based WebGL shaders
 * [Shader Frog](http://shaderfrog.com/app/)
