@@ -137,6 +137,7 @@
 * [CodeFights](https://codefights.com/) Javascript
 * [Card Forest](http://www.cardforest.com/) C++
 * [StarFighter](http://www.starfighters.io/) Javascript
+* [Rogue AI Dungeon](http://bovard.github.io/raid/) Javascript
 * [SchemaVerse](https://schemaverse.com/) SQL
 
 ### CSS and Design Games
