@@ -59,6 +59,7 @@
 * [Web Ops Weekly](http://webopsweekly.com/latest)
 * [Node Weekly](http://nodeweekly.com/latest)
 * [Web Tools Weekly](http://webtoolsweekly.com/#archive)
+* [Totally Tooling Tears](https://medium.com/totally-tooling-tears)
 * [The Changelog](https://changelog.com/)
 
 ### Video conferences and talks
