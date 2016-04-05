@@ -264,6 +264,7 @@
 ## Tools
 * [Dan's Tools](http://www.danstools.com/) Collection of online tools
 * [Code Beautify](http://codebeautify.org/) Collection of online tools
+* [XPath](http://www.xpathtester.com/xpath) XPath testing
 * [Pretty Diff](http://prettydiff.com/) Online diff tool
 * [AST Explorer](http://astexplorer.net/) JavaScript AST Viewer
 * [JSNice](http://www.jsnice.org/#) Deobfuscation
