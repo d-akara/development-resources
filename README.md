@@ -52,6 +52,8 @@
 
 ### Weekly in development news
 * [Hacker News](https://hn.algolia.com/?query=javascript&sort=byPopularity&prefix&page=0&dateRange=pastWeek&type=story) Javascript mentions in past week
+* [Hacker News](https://hn.algolia.com/?query=github.io&sort=byPopularity&prefix&page=0&dateRange=pastWeek&type=story) Github project mentions in past week
+* [Pony Foo](https://ponyfoo.com/weekly/history) Trending topics web platform
 * [CSS Weekly](http://css-weekly.com/archives/)
 * [Codrops Collective](http://tympanus.net/codrops/collective/)
 * [Javascript Weekly](http://javascriptweekly.com/latest)
