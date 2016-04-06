@@ -169,6 +169,7 @@
 * [Scratch](https://scratch.mit.edu/) Introduction to coding for kids
 * [Code Studio](https://studio.code.org/) Introduction to coding for kids
 * [Dash](https://dash.generalassemb.ly/) General introduction to HTML, CSS and JavaScript
+* [Devtools Challenger](http://devtoolschallenger.com/) Firefox CSS devtools course
 * [CodeCademy](https://www.codecademy.com/) Beginner courses for JavaScript
 * [CodeSchool](https://www.codeschool.com/) Beginner courses for JavaScript, slighly more difficult than CodeCademy
 * [FreeCodeCamp](http://www.freecodecamp.com) Comprehensive courses from novice to advanced
