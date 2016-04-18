@@ -195,6 +195,7 @@
 * [VisuAlgo](http://visualgo.net/) Visualize software algorithms
 * [Visualization Graphics](http://acko.net/files/gltalks/pixelfactory/online.html#0)
 * [GraphQL](https://learngraphql.com/)
+* [RxMarbles](http://rxmarbles.com/) Visualize how observables operate
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
