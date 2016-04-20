@@ -115,6 +115,7 @@
 ## Game based learning
 
 ### Intro to coding
+* [Lightbot](https://lightbot.com/) Intro to coding starting at age 4
 * [Blockly](https://blockly-games.appspot.com/)
 * [Code Spells](http://codespells.org/) uses blockly, will offer javascript in future
 * [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine)
