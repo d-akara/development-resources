@@ -164,6 +164,7 @@
 * [Coder Byte](http://coderbyte.com/)
 * [Sphere Online Judge](http://www.spoj.com/)
 * [CoderPower](http://coderpower.com/)
+* [JS1k](http://js1k.com/2016-elemental/)
 
 ## Interactive learning
 
