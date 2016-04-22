@@ -228,6 +228,7 @@
 * [SQLFiddle](http://sqlfiddle.com/)
 * [Git](http://pcottle.github.io/learnGitBranching/?NODEMO)
 * [TensorFlow](http://playground.tensorflow.org) Neural network playground
+* [Elm](https://glot.io/new/elm) Elm language playground
 
 ## Books and references
 * [Eloquent JavaScript](http://eloquentjavascript.net/) Getting started with JS programming
