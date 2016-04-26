@@ -143,6 +143,9 @@
 * [StarFighter](http://www.starfighters.io/) Javascript
 * [Rogue AI Dungeon](http://bovard.github.io/raid/) Javascript
 * [SchemaVerse](https://schemaverse.com/) SQL
+* [Check.io](https://checkio.org/) Python
+* [Git Game](http://www.git-game.com/) Git
+* [Vim Adventures](http://vim-adventures.com/) Vim
 
 ### CSS and Design Games
 * [CSS Diner](http://flukeout.github.io/)
