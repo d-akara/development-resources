@@ -1,6 +1,8 @@
 # Web Tech
 
 ## Low level libraries
+* [lodash](https://lodash.com/) General utility library performance focused with FP concepts
+* [Highland](https://github.com/caolan/highland) Utility library using high-level streams seamless async and sync
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
 * [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with broadest browser support
@@ -8,6 +10,16 @@
 * [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 * [Promise-worker](https://github.com/nolanlawson/promise-worker) Communicate with a Web Worker using Promises
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
+* [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
+* [JavaScript Fast Array](https://github.com/ImJustAskingDude/JavascriptFastArray) Leverages 3d array for high performance up to 1 billion indices
+* [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
+* [lave](https://github.com/jed/lave) Stringify serialize types JSON.stringify can not
+* [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
+* [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
+* [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
+
+## Persistence
+* [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
 
 ## Graphic libraries
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
@@ -17,6 +29,7 @@
 ## View libraries
 * [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
+* [Incremental-dom](https://github.com/google/incremental-dom) An in-place DOM diffing library vs virtual dom
 
 ## Future
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
@@ -26,3 +39,6 @@
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
 * [Basket.js](https://github.com/addyosmani/basket.js) is a script and resource loader for caching and loading scripts using localStorage
+
+## Tools
+* [Frida](https://github.com/frida/frida) Debugging through injecting JavaScript into native apps
