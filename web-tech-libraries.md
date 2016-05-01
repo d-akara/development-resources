@@ -4,6 +4,7 @@
 * [lodash](https://lodash.com/) General utility library performance focused with FP concepts
 * [Highland](https://github.com/caolan/highland) Utility library using high-level streams seamless async and sync
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
+* [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
 * [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with broadest browser support
@@ -20,6 +21,11 @@
 * [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
 * [Moment](https://github.com/moment/moment/) JavaScript data library
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
+* [transducers-js](https://github.com/cognitect-labs/transducers-js) Composable algorithmic transformations
+* [transducers.js](https://github.com/jlongster/transducers.js) Composable algorithmic transformations
+* [Stream.js](https://github.com/winterbe/streamjs) Lazy object streaming pipeline for JavaScript
+* [RxJS](https://github.com/Reactive-Extensions/RxJS) Observables + Operators + Schedulers
+* [is.js](https://github.com/arasatasaygin/is.js) Data type and data format testing functions
 
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
@@ -48,12 +54,14 @@
 
 ## Application Framework
 * [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers
+* [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects
 * [Meteor](https://github.com/meteor/meteor) Fast application development
 
 ## Future
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
 * [ThinScript](https://github.com/evanw/thinscript) Language compiles to WebAssembly, JavaScript and C
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
+* [Jxcore](https://github.com/jxcore/jxcore) NodeJS for mobile and IoT
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
