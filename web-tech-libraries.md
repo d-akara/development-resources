@@ -3,6 +3,7 @@
 ## Low level libraries
 * [lodash](https://lodash.com/) General utility library performance focused with FP concepts
 * [Highland](https://github.com/caolan/highland) Utility library using high-level streams seamless async and sync
+* [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
 * [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with broadest browser support
@@ -17,6 +18,8 @@
 * [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
 * [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
 * [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
+* [Moment](https://github.com/moment/moment/) JavaScript data library
+* [Async](https://github.com/caolan/async) Async utilities for node and the browser
 
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
@@ -24,12 +27,28 @@
 ## Graphic libraries
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
 * [StageXL](https://github.com/bp74/StageXL) StageXL is a fast and universal 2D rendering engine for HTML5
-* [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, isomorphic JavaScript library for building modern user interfaces
+* [three.js](https://github.com/mrdoob/three.js/) 3D Library. Canvas, SVG, CSS3D, WebGL
 
 ## View libraries
+* [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
 * [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
+* [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, isomorphic JavaScript library for building modern user interfaces
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
 * [Incremental-dom](https://github.com/google/incremental-dom) An in-place DOM diffing library vs virtual dom
+
+## UI
+* [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
+* [dropzone](https://github.com/enyo/dropzone/) Drag and drop for file uploads
+
+## Visualization
+* [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
+
+## Multi Media
+* [video.js](https://github.com/videojs/video.js) JS Browser video player
+
+## Application Framework
+* [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers
+* [Meteor](https://github.com/meteor/meteor) Fast application development
 
 ## Future
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
@@ -42,3 +61,5 @@
 
 ## Tools
 * [Frida](https://github.com/frida/frida) Debugging through injecting JavaScript into native apps
+* [node-inspector](https://github.com/node-inspector/node-inspector) Node.js debugger based on Blink
+* [reveal.js](https://github.com/hakimel/reveal.js) Interactive presentation framework
