@@ -18,7 +18,7 @@
 * [Programming on MyBridge](http://www.mybridge.co/skills/software-engineering)
 
 ### Javascript
-* [JS Twitter List](https://twitter.com/dakaraphi/lists/js-news)
+* [Web Tech News](https://twitter.com/dakaraphi/lists/web-tech-news) realtime web tech news 
 * [Twitter](https://twitter.com/search?q=javascript&src=typd) javascript [Twitter](https://twitter.com/search?src=typd&q=%23javascript) #javascript
 * [Echo JS](http://www.echojs.com) Ranked news and articles
 * [JavaScript Kicks](http://javascriptkicks.com/) Daily ranked listings of news
@@ -263,6 +263,7 @@
 * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
 * [JSbooks](http://jsbooks.revolunet.com/) Collection of free books
 * [DevFreeBooks](http://devfreebooks.org/) Collection of free books
+* [JavaScripture](http://www.javascripture.com/) API's with examples
 
 ## Online development environments
 * [Cloud 9](https://c9.io/)
