@@ -7,6 +7,7 @@
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
+* [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
 * [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with broadest browser support
 * [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP)
 * [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
@@ -26,9 +27,19 @@
 * [Stream.js](https://github.com/winterbe/streamjs) Lazy object streaming pipeline for JavaScript
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Observables + Operators + Schedulers
 * [is.js](https://github.com/arasatasaygin/is.js) Data type and data format testing functions
+* [Validate.js](http://validatejs.org/) declaritive validation of JavaScript objects
+* [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
+* [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
+* [Mesh](http://mesh.js.org/) message bus library
+* [Operative](https://github.com/padolsey/operative) run code inline within a web worker
+* [multithread.js](https://github.com/keithwhor/multithread.js) run code inline within a web worker
+* [thaw.js](http://robertleeplummerjr.github.io/thaw.js/) synthetic asynchronous processing
+* [bluebird](https://github.com/petkaantonov/bluebird) Full featured fast promise library
 
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
+* [RethinkDB](http://rethinkdb.com/) realtime web pushes JSON to your apps
+* [TingoDB](https://github.com/sergeyksv/tingodb) JavaScript DB API compatible with MongoDB
 
 ## Graphic libraries
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
@@ -57,11 +68,19 @@
 * [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects
 * [Meteor](https://github.com/meteor/meteor) Fast application development
 
+## NodeJS
+* [NW.js](http://nwjs.io/) Web technologies as desktop applications
+* [socket.io](https://github.com/socketio/socket.io/) Realtime application framework
+* [restify](https://github.com/restify/node-restify) framework for server REST APIs
+* [FFI](https://github.com/node-ffi/node-ffi) Foreign function interface.  Call c functions from node
+* [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) Worker API with native threads
+
 ## Future
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
 * [ThinScript](https://github.com/evanw/thinscript) Language compiles to WebAssembly, JavaScript and C
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
 * [Jxcore](https://github.com/jxcore/jxcore) NodeJS for mobile and IoT
+* [Infamouse](https://infamous.io/) Performance focused web rendering engine
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
