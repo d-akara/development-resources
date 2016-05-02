@@ -20,6 +20,7 @@
 * [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
 * [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
 * [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
+* [JMESPath](http://jmespath.org/) query language for JSON
 * [Moment](https://github.com/moment/moment/) JavaScript data library
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
 * [transducers-js](https://github.com/cognitect-labs/transducers-js) Composable algorithmic transformations
@@ -76,6 +77,7 @@
 * [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) Worker API with native threads
 
 ## Future
+* [Nexus.js](https://medium.com/@voodooattack/multi-threaded-javascript-introduction-faba95d3bd06#.lmmdbrfas) Multi threaded Node with no event loop
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
 * [ThinScript](https://github.com/evanw/thinscript) Language compiles to WebAssembly, JavaScript and C
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
