@@ -266,11 +266,11 @@
 * [JavaScripture](http://www.javascripture.com/) API's with examples
 
 ## Online development environments
-* [Cloud 9](https://c9.io/)
+* [Cloud 9](https://c9.io/) Full virtual development environment
+* [Codeanywhere](https://codeanywhere.com/) Full virtual development environment
+* [CodeEnvy](https://codenvy.com/) Full virtual development environment
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
-* [Codeanywhere](https://codeanywhere.com/)
-* [CodeEnvy](https://codenvy.com/)
 * [Spotlight.io](https://stoplight.io/) Visual API modeling
 * [MPLAB](https://mplabxpress.microchip.com/mplabcloud/example/gettingstarted?board=xpress)
 
