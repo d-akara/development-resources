@@ -269,6 +269,7 @@
 * [Cloud 9](https://c9.io/) Full virtual development environment
 * [Codeanywhere](https://codeanywhere.com/) Full virtual development environment
 * [CodeEnvy](https://codenvy.com/) Full virtual development environment
+* [Koding](http://www.koding.com/) Hybrid local and virtual development environment
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
 * [Spotlight.io](https://stoplight.io/) Visual API modeling
