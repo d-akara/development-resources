@@ -46,6 +46,7 @@
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
 * [StageXL](https://github.com/bp74/StageXL) StageXL is a fast and universal 2D rendering engine for HTML5
 * [three.js](https://github.com/mrdoob/three.js/) 3D Library. Canvas, SVG, CSS3D, WebGL
+* [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
 
 ## View libraries
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
@@ -60,6 +61,10 @@
 
 ## Visualization
 * [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
+* [dc.js](https://dc-js.github.io/dc.js/) interactive cross filtering on top of D3
+* [nvd3](https://nvd3-community.github.io/nvd3/) charts built on top of D3
+* [Vis.js](http://visjs.org/index.html) library with DataSet, Timeline, Network, Graph2d and Graph3d visualization types
+
 
 ## Multi Media
 * [video.js](https://github.com/videojs/video.js) JS Browser video player
