@@ -46,7 +46,11 @@
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
 * [StageXL](https://github.com/bp74/StageXL) StageXL is a fast and universal 2D rendering engine for HTML5
 * [three.js](https://github.com/mrdoob/three.js/) 3D Library. Canvas, SVG, CSS3D, WebGL
+* [TWGL](http://twgljs.org/) Tiny WebGL helper library
+* [OSG.JS](http://osgjs.org/) OpenSceneGraph WebGL
+* [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
+* [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
 
 ## View libraries
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
@@ -64,7 +68,10 @@
 * [dc.js](https://dc-js.github.io/dc.js/) interactive cross filtering on top of D3
 * [nvd3](https://nvd3-community.github.io/nvd3/) charts built on top of D3
 * [Vis.js](http://visjs.org/index.html) library with DataSet, Timeline, Network, Graph2d and Graph3d visualization types
-
+* [Chart.js](https://github.com/chartjs/Chart.js) animated charts using canvas
+* [jointJS](https://github.com/clientIO/joint) diagramming library, SVG, interactive editing, path routing
+* [Dagre](https://github.com/cpettitt/dagre/wiki) directed graph layout library. use view as D3, jointJS, cytoscape
+* [cola.js](http://marvl.infotech.monash.edu/webcola/) contraint based layout library.
 
 ## Multi Media
 * [video.js](https://github.com/videojs/video.js) JS Browser video player
