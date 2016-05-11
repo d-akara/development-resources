@@ -6,8 +6,6 @@
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
-* [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
-* [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
 * [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with broadest browser support
 * [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP)
 * [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
@@ -15,14 +13,8 @@
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
 * [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
 * [JavaScript Fast Array](https://github.com/ImJustAskingDude/JavascriptFastArray) Leverages 3d array for high performance up to 1 billion indices
-* [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
-* [lave](https://github.com/jed/lave) Stringify serialize types JSON.stringify can not
-* [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
-* [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
-* [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
 * [JMESPath](http://jmespath.org/) query language for JSON
 * [Moment](https://github.com/moment/moment/) JavaScript data library
-* [Async](https://github.com/caolan/async) Async utilities for node and the browser
 * [transducers-js](https://github.com/cognitect-labs/transducers-js) Composable algorithmic transformations
 * [transducers.js](https://github.com/jlongster/transducers.js) Composable algorithmic transformations
 * [Stream.js](https://github.com/winterbe/streamjs) Lazy object streaming pipeline for JavaScript
@@ -33,11 +25,26 @@
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
 * [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
 * [Mesh](http://mesh.js.org/) message bus library
+* [jailed](https://github.com/asvd/jailed) Execute JavaScript in secure sandbox
+* [can-zone](https://github.com/canjs/can-zone) JavaScript concept of thread local context
+* [zone.js](https://github.com/angular/zone.js) JavaScript concept of thread local context
+
+### Asynchronous and Threading
+* [Async](https://github.com/caolan/async) Async utilities for node and the browser
 * [Operative](https://github.com/padolsey/operative) run code inline within a web worker
 * [multithread.js](https://github.com/keithwhor/multithread.js) run code inline within a web worker
 * [thaw.js](http://robertleeplummerjr.github.io/thaw.js/) synthetic asynchronous processing
 * [bluebird](https://github.com/petkaantonov/bluebird) Full featured fast promise library
-* [jailed](https://github.com/asvd/jailed) Execute JavaScript in secure sandbox
+
+### Parsing and Serialization
+* [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
+* [lave](https://github.com/jed/lave) Stringify serialize types JSON.stringify can not
+* [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
+* [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
+* [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
+* [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
+* [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
+* [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
 
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
@@ -93,11 +100,17 @@
 * [FFI](https://github.com/node-ffi/node-ffi) Foreign function interface.  Call c functions from node
 * [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) Worker API with native threads
 
+## Platform
+* [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
+* [doppio](https://github.com/plasma-umass/doppio) JVM in the browser
+* 
+
 ## Future
 * [Nexus.js](https://medium.com/@voodooattack/multi-threaded-javascript-introduction-faba95d3bd06#.lmmdbrfas) Multi threaded Node with no event loop
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
 * [ThinScript](https://github.com/evanw/thinscript) Language compiles to WebAssembly, JavaScript and C
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
+* [weblas](https://github.com/plasma-umass/doppio) GPU Accelerated JavaScript
 * [Jxcore](https://github.com/jxcore/jxcore) NodeJS for mobile and IoT
 * [Infamouse](https://infamous.io/) Performance focused web rendering engine
 
@@ -107,5 +120,6 @@
 
 ## Tools
 * [Frida](https://github.com/frida/frida) Debugging through injecting JavaScript into native apps
+* [Panopticon](https://panopticon.re/) Low level debugging cross platform
 * [node-inspector](https://github.com/node-inspector/node-inspector) Node.js debugger based on Blink
 * [reveal.js](https://github.com/hakimel/reveal.js) Interactive presentation framework
