@@ -29,6 +29,7 @@
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Observables + Operators + Schedulers
 * [is.js](https://github.com/arasatasaygin/is.js) Data type and data format testing functions
 * [Validate.js](http://validatejs.org/) declaritive validation of JavaScript objects
+* [xtype.js](http://xtype.js.org/overview) data validation for JavaScript
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
 * [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
 * [Mesh](http://mesh.js.org/) message bus library
@@ -36,6 +37,7 @@
 * [multithread.js](https://github.com/keithwhor/multithread.js) run code inline within a web worker
 * [thaw.js](http://robertleeplummerjr.github.io/thaw.js/) synthetic asynchronous processing
 * [bluebird](https://github.com/petkaantonov/bluebird) Full featured fast promise library
+* [jailed](https://github.com/asvd/jailed) Execute JavaScript in secure sandbox
 
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
@@ -75,6 +77,9 @@
 
 ## Multi Media
 * [video.js](https://github.com/videojs/video.js) JS Browser video player
+* [tone.js](https://github.com/Tonejs/Tone.js) Audio framework for making interactive music
+* [timbre.js](http://mohayonao.github.io/timbre.js/) Objective sound programming
+* [tonal.js](https://github.com/danigb/tonal) Funtional music theory library
 
 ## Application Framework
 * [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers
