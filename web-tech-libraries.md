@@ -6,31 +6,25 @@
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
-* [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with broadest browser support
 * [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP)
-* [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
-* [Promise-worker](https://github.com/nolanlawson/promise-worker) Communicate with a Web Worker using Promises
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
 * [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
 * [JavaScript Fast Array](https://github.com/ImJustAskingDude/JavascriptFastArray) Leverages 3d array for high performance up to 1 billion indices
-* [JMESPath](http://jmespath.org/) query language for JSON
-* [Moment](https://github.com/moment/moment/) JavaScript data library
+* [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
+* [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with broadest browser support
 * [transducers-js](https://github.com/cognitect-labs/transducers-js) Composable algorithmic transformations
 * [transducers.js](https://github.com/jlongster/transducers.js) Composable algorithmic transformations
 * [Stream.js](https://github.com/winterbe/streamjs) Lazy object streaming pipeline for JavaScript
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Observables + Operators + Schedulers
-* [is.js](https://github.com/arasatasaygin/is.js) Data type and data format testing functions
-* [Validate.js](http://validatejs.org/) declaritive validation of JavaScript objects
-* [xtype.js](http://xtype.js.org/overview) data validation for JavaScript
-* [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
-* [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
 * [Mesh](http://mesh.js.org/) message bus library
 * [jailed](https://github.com/asvd/jailed) Execute JavaScript in secure sandbox
+* [JS-interpreter](https://github.com/NeilFraser/JS-Interpreter) sandboxed JavaScript interpreter in JS
 * [can-zone](https://github.com/canjs/can-zone) JavaScript concept of thread local context
 * [zone.js](https://github.com/angular/zone.js) JavaScript concept of thread local context
 
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
+* [Promise-worker](https://github.com/nolanlawson/promise-worker) Communicate with a Web Worker using Promises
 * [Operative](https://github.com/padolsey/operative) run code inline within a web worker
 * [multithread.js](https://github.com/keithwhor/multithread.js) run code inline within a web worker
 * [thaw.js](http://robertleeplummerjr.github.io/thaw.js/) synthetic asynchronous processing
@@ -45,6 +39,15 @@
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
 * [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
+
+### Data Search and Validate
+* [JMESPath](http://jmespath.org/) query language for JSON
+* [is.js](https://github.com/arasatasaygin/is.js) Data type and data format testing functions
+* [Validate.js](http://validatejs.org/) declaritive validation of JavaScript objects
+* [Moment](http://momentjs.com/) JavaScript date parse, validate library
+* [xtype.js](http://xtype.js.org/overview) data validation for JavaScript
+* [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
+* [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
 
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
@@ -103,7 +106,8 @@
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
 * [doppio](https://github.com/plasma-umass/doppio) JVM in the browser
-* 
+
+## Mobile
 
 ## Future
 * [Nexus.js](https://medium.com/@voodooattack/multi-threaded-javascript-introduction-faba95d3bd06#.lmmdbrfas) Multi threaded Node with no event loop
