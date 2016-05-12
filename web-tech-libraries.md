@@ -108,6 +108,7 @@
 * [doppio](https://github.com/plasma-umass/doppio) JVM in the browser
 
 ## Mobile
+* [UpUp](https://github.com/TalAter/UpUp/) Mobile first library for offline
 
 ## Future
 * [Nexus.js](https://medium.com/@voodooattack/multi-threaded-javascript-introduction-faba95d3bd06#.lmmdbrfas) Multi threaded Node with no event loop
@@ -117,6 +118,7 @@
 * [weblas](https://github.com/plasma-umass/doppio) GPU Accelerated JavaScript
 * [Jxcore](https://github.com/jxcore/jxcore) NodeJS for mobile and IoT
 * [Infamouse](https://infamous.io/) Performance focused web rendering engine
+* [MapD](http://www.mapd.com/product/) GPU Accelerated SQL
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
@@ -125,5 +127,8 @@
 ## Tools
 * [Frida](https://github.com/frida/frida) Debugging through injecting JavaScript into native apps
 * [Panopticon](https://panopticon.re/) Low level debugging cross platform
+* [UIforETW](https://github.com/google/UIforETW) Low level performance tracing on Windows
 * [node-inspector](https://github.com/node-inspector/node-inspector) Node.js debugger based on Blink
 * [reveal.js](https://github.com/hakimel/reveal.js) Interactive presentation framework
+* [npm-check](https://github.com/dylang/npm-check) Check for outdated, incorrect or unused dependencies
+* [cheerp](http://leaningtech.com/cheerp/) C++ compiler to JavaScript
