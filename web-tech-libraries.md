@@ -21,6 +21,9 @@
 * [JS-interpreter](https://github.com/NeilFraser/JS-Interpreter) sandboxed JavaScript interpreter in JS
 * [can-zone](https://github.com/canjs/can-zone) JavaScript concept of thread local context
 * [zone.js](https://github.com/angular/zone.js) JavaScript concept of thread local context
+* [localForage](https://mozilla.github.io/localForage/) Local storage library for browsers IndexDB and WebSQL
+* [Dexie](http://dexie.org/) Local storage IndexDB wrapper library
+* [nlp-compromise](https://github.com/nlp-compromise/nlp_compromise) NLP JavaScript library
 
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
