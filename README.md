@@ -146,6 +146,7 @@
 * [Check.io](https://checkio.org/) Python
 * [Git Game](http://www.git-game.com/) Git
 * [Vim Adventures](http://vim-adventures.com/) Vim
+* [Hack n Slash](http://www.hacknslashthegame.com/) Hacking mechanics game
 
 ### CSS and Design Games
 * [CSS Diner](http://flukeout.github.io/)
