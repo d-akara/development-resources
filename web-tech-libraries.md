@@ -105,6 +105,7 @@
 * [restify](https://github.com/restify/node-restify) framework for server REST APIs
 * [FFI](https://github.com/node-ffi/node-ffi) Foreign function interface.  Call c functions from node
 * [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) Worker API with native threads
+* [klyng](https://github.com/Mostafa-Samir/klyng) Distributed computing
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
@@ -132,6 +133,8 @@
 * [Panopticon](https://panopticon.re/) Low level debugging cross platform
 * [UIforETW](https://github.com/google/UIforETW) Low level performance tracing on Windows
 * [node-inspector](https://github.com/node-inspector/node-inspector) Node.js debugger based on Blink
+* [Devtron])http://electron.atom.io/devtron/) Debugger for Electron
 * [reveal.js](https://github.com/hakimel/reveal.js) Interactive presentation framework
 * [npm-check](https://github.com/dylang/npm-check) Check for outdated, incorrect or unused dependencies
 * [cheerp](http://leaningtech.com/cheerp/) C++ compiler to JavaScript
+* [gitsome](https://github.com/donnemartin/gitsome) Enhanced command line Git
