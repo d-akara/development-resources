@@ -25,6 +25,7 @@
 * [localForage](https://mozilla.github.io/localForage/) Local storage library for browsers IndexDB and WebSQL
 * [Dexie](http://dexie.org/) Local storage IndexDB wrapper library
 * [nlp-compromise](https://github.com/nlp-compromise/nlp_compromise) NLP JavaScript library
+* [core-js](https://github.com/zloirock/core-js#supported-engines) Polyfills of ES6+ for older JavaScript engines.
 
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
