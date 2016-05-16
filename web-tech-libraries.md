@@ -100,6 +100,7 @@
 * [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers
 * [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects
 * [Meteor](https://github.com/meteor/meteor) Fast application development
+* [Cycle.js](http://cycle.js.org/) Functional reactive framework
 
 ## NodeJS
 * [NW.js](http://nwjs.io/) Web technologies as desktop applications
@@ -108,10 +109,12 @@
 * [FFI](https://github.com/node-ffi/node-ffi) Foreign function interface.  Call c functions from node
 * [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) Worker API with native threads
 * [klyng](https://github.com/Mostafa-Samir/klyng) Distributed computing
+* [EMS](https://github.com/syntheticsemantics/ems) Shared memory parellelism for node
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
 * [doppio](https://github.com/plasma-umass/doppio) JVM in the browser
+* [Serverless](https://github.com/serverless/serverless) AWS Lambda architecture
 
 ## Mobile
 * [UpUp](https://github.com/TalAter/UpUp/) Mobile first library for offline
@@ -125,6 +128,7 @@
 * [Jxcore](https://github.com/jxcore/jxcore) NodeJS for mobile and IoT
 * [Infamouse](https://infamous.io/) Performance focused web rendering engine
 * [MapD](http://www.mapd.com/product/) GPU Accelerated SQL
+* [Falcor](http://netflix.github.io/falcor/) Efficient data fetching by JSON graph
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
@@ -140,3 +144,5 @@
 * [npm-check](https://github.com/dylang/npm-check) Check for outdated, incorrect or unused dependencies
 * [cheerp](http://leaningtech.com/cheerp/) C++ compiler to JavaScript
 * [gitsome](https://github.com/donnemartin/gitsome) Enhanced command line Git
+* [OpenRefine](http://openrefine.org/) exploring and manipulating messy data
+* [Huginn](https://github.com/cantino/huginn) Build agents that act on your behalf
