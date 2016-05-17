@@ -26,6 +26,7 @@
 * [Dexie](http://dexie.org/) Local storage IndexDB wrapper library
 * [nlp-compromise](https://github.com/nlp-compromise/nlp_compromise) NLP JavaScript library
 * [core-js](https://github.com/zloirock/core-js#supported-engines) Polyfills of ES6+ for older JavaScript engines.
+* [cuid](https://github.com/ericelliott/cuid) Collision-resistant ids optimized for horizontal scaling and performance
 
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
@@ -43,6 +44,7 @@
 * [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
 * [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
+* [FlatBuffers](https://github.com/google/flatbuffers) cross platform fast serialization for networking and storage
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
 
 ### Data Search and Validate
@@ -57,6 +59,7 @@
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
 * [RethinkDB](http://rethinkdb.com/) realtime web pushes JSON to your apps
+* [Horizon.io](http://horizon.io/) library built for RethinkDB
 * [TingoDB](https://github.com/sergeyksv/tingodb) JavaScript DB API compatible with MongoDB
 
 ## Graphic libraries
@@ -139,7 +142,7 @@
 * [Panopticon](https://panopticon.re/) Low level debugging cross platform
 * [UIforETW](https://github.com/google/UIforETW) Low level performance tracing on Windows
 * [node-inspector](https://github.com/node-inspector/node-inspector) Node.js debugger based on Blink
-* [Devtron])http://electron.atom.io/devtron/) Debugger for Electron
+* [Devtron](http://electron.atom.io/devtron/) Debugger for Electron
 * [reveal.js](https://github.com/hakimel/reveal.js) Interactive presentation framework
 * [npm-check](https://github.com/dylang/npm-check) Check for outdated, incorrect or unused dependencies
 * [cheerp](http://leaningtech.com/cheerp/) C++ compiler to JavaScript
