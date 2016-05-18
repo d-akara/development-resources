@@ -25,6 +25,8 @@
 * [nlp-compromise](https://github.com/nlp-compromise/nlp_compromise) NLP JavaScript library
 * [core-js](https://github.com/zloirock/core-js#supported-engines) Polyfills of ES6+ for older JavaScript engines.
 * [cuid](https://github.com/ericelliott/cuid) Collision-resistant ids optimized for horizontal scaling and performance
+* [stamp-it](https://github.com/stampit-org/stampit/) Composable object factories
+* [DOMPurify](https://github.com/cure53/DOMPurify) XSS sanitizer for HTML, MathML and SVG
 
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
@@ -78,6 +80,8 @@
 * [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, isomorphic JavaScript library for building modern user interfaces
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
 * [Incremental-dom](https://github.com/google/incremental-dom) An in-place DOM diffing library vs virtual dom
+* [frzr](https://github.com/pakastin/frzr) ultra small fast library
+* [skate](https://github.com/skatejs/skatejs) W3C web component library using incremental DOM
 
 ## UI
 * [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
@@ -92,9 +96,11 @@
 * [jointJS](https://github.com/clientIO/joint) diagramming library, SVG, interactive editing, path routing
 * [Dagre](https://github.com/cpettitt/dagre/wiki) directed graph layout library. use view as D3, jointJS, cytoscape
 * [cola.js](http://marvl.infotech.monash.edu/webcola/) contraint based layout library.
+* [MathBox](https://gitgud.io/unconed/mathbox) Presentation-quality WebGL math graphing
 
 ## Multi Media
 * [video.js](https://github.com/videojs/video.js) JS Browser video player
+* [plyr](https://github.com/selz/plyr) JS Browser video audio player
 * [tone.js](https://github.com/Tonejs/Tone.js) Audio framework for making interactive music
 * [timbre.js](http://mohayonao.github.io/timbre.js/) Objective sound programming
 * [tonal.js](https://github.com/danigb/tonal) Funtional music theory library
@@ -150,3 +156,4 @@
 * [gitsome](https://github.com/donnemartin/gitsome) Enhanced command line Git
 * [OpenRefine](http://openrefine.org/) exploring and manipulating messy data
 * [Huginn](https://github.com/cantino/huginn) Build agents that act on your behalf
+* [PMD](https://pmd.github.io/) source code analyzer
