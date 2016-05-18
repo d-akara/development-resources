@@ -67,6 +67,7 @@
 ### Video conferences and talks
 * [BocoupLLC](https://www.youtube.com/user/BocoupLLC/videos)
 * [Cascadia JS](https://www.youtube.com/user/cascadiajs/videos)
+* [ChariotSolutions](https://www.youtube.com/channel/UCELFqc_PYKA9OOA9ppT5nvg)
 * [Chaos Computer Club](https://www.youtube.com/user/mediacccde/videos)
 * [Christophe Limpalair](https://www.youtube.com/channel/UCzo_FqWUbEH0AYs0NilUWpA)
 * [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
