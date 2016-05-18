@@ -132,6 +132,7 @@
 * [Infamouse](https://infamous.io/) Performance focused web rendering engine
 * [MapD](http://www.mapd.com/product/) GPU Accelerated SQL
 * [Falcor](http://netflix.github.io/falcor/) Efficient data fetching by JSON graph
+* [GUN](https://github.com/amark/gun) realtime, decentralized, offline-first, graph database engine
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
