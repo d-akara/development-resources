@@ -303,3 +303,4 @@
 * [OmniRef](https://www.omniref.com/js) JS Documentation index of github projects
 * [HackerSearch.io](http://hackersearch.io/) Search all code on github
 * [BlackDuck](http://code.openhub.net/) Open source code search engine
+* [LetsEncrypt](https://letsencrypt.org/) free certificate authority
