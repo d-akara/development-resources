@@ -22,8 +22,6 @@
 * [JS-interpreter](https://github.com/NeilFraser/JS-Interpreter) sandboxed JavaScript interpreter in JS
 * [can-zone](https://github.com/canjs/can-zone) JavaScript concept of thread local context
 * [zone.js](https://github.com/angular/zone.js) JavaScript concept of thread local context
-* [localForage](https://mozilla.github.io/localForage/) Local storage library for browsers IndexDB and WebSQL
-* [Dexie](http://dexie.org/) Local storage IndexDB wrapper library
 * [nlp-compromise](https://github.com/nlp-compromise/nlp_compromise) NLP JavaScript library
 * [core-js](https://github.com/zloirock/core-js#supported-engines) Polyfills of ES6+ for older JavaScript engines.
 * [cuid](https://github.com/ericelliott/cuid) Collision-resistant ids optimized for horizontal scaling and performance
@@ -61,6 +59,8 @@
 * [RethinkDB](http://rethinkdb.com/) realtime web pushes JSON to your apps
 * [Horizon.io](http://horizon.io/) library built for RethinkDB
 * [TingoDB](https://github.com/sergeyksv/tingodb) JavaScript DB API compatible with MongoDB
+* [localForage](https://mozilla.github.io/localForage/) Local storage library for browsers IndexDB and WebSQL
+* [Dexie](http://dexie.org/) Local storage IndexDB wrapper library
 
 ## Graphic libraries
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
