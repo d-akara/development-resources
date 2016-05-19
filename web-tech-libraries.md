@@ -35,6 +35,7 @@
 * [multithread.js](https://github.com/keithwhor/multithread.js) run code inline within a web worker
 * [thaw.js](http://robertleeplummerjr.github.io/thaw.js/) synthetic asynchronous processing
 * [bluebird](https://github.com/petkaantonov/bluebird) Full featured fast promise library
+* [setImmediate](https://github.com/YuzuJS/setImmediate) Access to macro task queue for more efficient setTimeout
 
 ### Parsing and Serialization
 * [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
@@ -86,6 +87,8 @@
 ## UI
 * [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
 * [dropzone](https://github.com/enyo/dropzone/) Drag and drop for file uploads
+* [quill](https://github.com/quilljs/quill/) Rich text editor
+* [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
 
 ## Visualization
 * [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
@@ -124,6 +127,7 @@
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
 * [doppio](https://github.com/plasma-umass/doppio) JVM in the browser
 * [Serverless](https://github.com/serverless/serverless) AWS Lambda architecture
+* [Elasticsearch](https://www.elastic.co/products/elasticsearch) distributed real-time search and analytics capabilities
 
 ## Mobile
 * [UpUp](https://github.com/TalAter/UpUp/) Mobile first library for offline
@@ -150,6 +154,7 @@
 * [UIforETW](https://github.com/google/UIforETW) Low level performance tracing on Windows
 * [node-inspector](https://github.com/node-inspector/node-inspector) Node.js debugger based on Blink
 * [Devtron](http://electron.atom.io/devtron/) Debugger for Electron
+* [Betwixt](https://github.com/kdzwinel/betwixt) Network debugger using chrome devtools
 * [reveal.js](https://github.com/hakimel/reveal.js) Interactive presentation framework
 * [npm-check](https://github.com/dylang/npm-check) Check for outdated, incorrect or unused dependencies
 * [cheerp](http://leaningtech.com/cheerp/) C++ compiler to JavaScript
@@ -157,3 +162,4 @@
 * [OpenRefine](http://openrefine.org/) exploring and manipulating messy data
 * [Huginn](https://github.com/cantino/huginn) Build agents that act on your behalf
 * [PMD](https://pmd.github.io/) source code analyzer
+* [licecap](http://www.cockos.com/licecap/) record animated gif windows/osx
