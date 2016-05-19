@@ -134,6 +134,7 @@
 * [doppio](https://github.com/plasma-umass/doppio) JVM in the browser
 * [Serverless](https://github.com/serverless/serverless) AWS Lambda architecture
 * [Elasticsearch](https://www.elastic.co/products/elasticsearch) distributed real-time search and analytics capabilities
+* [Cheerp](http://leaningtech.com/cheerp/) C++ to JavaScript compiler
 
 ## Mobile
 * [UpUp](https://github.com/TalAter/UpUp/) Mobile first library for offline
@@ -149,6 +150,7 @@
 * [MapD](http://www.mapd.com/product/) GPU Accelerated SQL
 * [Falcor](http://netflix.github.io/falcor/) Efficient data fetching by JSON graph
 * [GUN](https://github.com/amark/gun) realtime, decentralized, offline-first, graph database engine
+* [Neft](http://www.neft.io/) server, browser and mobile JavaScript native applications
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
@@ -170,3 +172,5 @@
 * [PMD](https://pmd.github.io/) source code analyzer
 * [licecap](http://www.cockos.com/licecap/) record animated gif windows/osx
 * [rollup.js](http://rollupjs.org) next generation module bundler.  tree-shaking
+* [GitUp](http://gitup.co/) OSX graphical Git management
+* [GitKraken](https://www.gitkraken.com/) cross platform graphical Git management
