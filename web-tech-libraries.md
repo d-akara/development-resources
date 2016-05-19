@@ -1,5 +1,8 @@
 # Web Tech
 
+## Testing
+* [testem](https://github.com/testem/testem) cross browser framework agnostic test runner
+
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
 * [lodash](https://lodash.com/) General utility library performance focused with FP concepts
@@ -79,10 +82,13 @@
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
 * [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
 * [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, isomorphic JavaScript library for building modern user interfaces
+* [snabbdom](https://github.com/paldepind/snabbdom) extremely small and fast virtual dom
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
 * [Incremental-dom](https://github.com/google/incremental-dom) An in-place DOM diffing library vs virtual dom
+* [vidom](https://github.com/dfilatov/vidom) faster than react like library
 * [frzr](https://github.com/pakastin/frzr) ultra small fast library
 * [skate](https://github.com/skatejs/skatejs) W3C web component library using incremental DOM
+* [bliss](http://blissfuljs.com/) smaller more modern jQuery like library
 
 ## UI
 * [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
@@ -163,3 +169,4 @@
 * [Huginn](https://github.com/cantino/huginn) Build agents that act on your behalf
 * [PMD](https://pmd.github.io/) source code analyzer
 * [licecap](http://www.cockos.com/licecap/) record animated gif windows/osx
+* [rollup.js](http://rollupjs.org) next generation module bundler.  tree-shaking
