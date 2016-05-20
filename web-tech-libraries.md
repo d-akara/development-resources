@@ -152,6 +152,7 @@
 * [Falcor](http://netflix.github.io/falcor/) Efficient data fetching by JSON graph
 * [GUN](https://github.com/amark/gun) realtime, decentralized, offline-first, graph database engine
 * [Neft](http://www.neft.io/) server, browser and mobile JavaScript native applications
+* [lighthouse](https://github.com/GoogleChrome/lighthouse) progressive web app diagnostics
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
