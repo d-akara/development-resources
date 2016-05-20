@@ -95,6 +95,7 @@
 * [dropzone](https://github.com/enyo/dropzone/) Drag and drop for file uploads
 * [quill](https://github.com/quilljs/quill/) Rich text editor
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
+* [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work
 
 ## Visualization
 * [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
