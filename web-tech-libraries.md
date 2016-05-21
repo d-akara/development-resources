@@ -56,6 +56,7 @@
 * [is.js](https://github.com/arasatasaygin/is.js) Data type and data format testing functions
 * [Validate.js](http://validatejs.org/) declaritive validation of JavaScript objects
 * [Moment](http://momentjs.com/) JavaScript date parse, validate library
+* [date-fns](https://date-fns.org/) large collection of date functions
 * [xtype.js](http://xtype.js.org/overview) data validation for JavaScript
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
 * [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
@@ -129,6 +130,7 @@
 * [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) Worker API with native threads
 * [klyng](https://github.com/Mostafa-Samir/klyng) Distributed computing
 * [EMS](https://github.com/syntheticsemantics/ems) Shared memory parellelism for node
+* [uWebSockets](https://github.com/alexhultman/uWebSockets) Highly scalable WebSocket server library
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
