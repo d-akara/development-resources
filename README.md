@@ -201,6 +201,7 @@
 * [Code Avengers](https://www.codeavengers.com/#parent)
 * [Nodeschool.io](http://nodeschool.io/)
 * [VisuAlgo](http://visualgo.net/) Visualize software algorithms
+* [AlgorithmVisualizer](http://jasonpark.me/AlgorithmVisualizer/) Visualize software algorithms
 * [Visualization Graphics](http://acko.net/files/gltalks/pixelfactory/online.html#0)
 * [GraphQL](https://learngraphql.com/)
 * [RxMarbles](http://rxmarbles.com/) Visualize how observables operate
