@@ -274,6 +274,7 @@
 * [Codeanywhere](https://codeanywhere.com/) Full virtual development environment
 * [CodeEnvy](https://codenvy.com/) Full virtual development environment
 * [Koding](http://www.koding.com/) Hybrid local and virtual development environment
+* [Turbo](https://turbo.net/) virtual environment to run desktop applications
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
 * [Spotlight.io](https://stoplight.io/) Visual API modeling
