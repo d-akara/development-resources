@@ -1,12 +1,19 @@
 # Web Tech
 
 ## Testing and Code Quality
-* [testem](https://github.com/testem/testem) cross browser framework agnostic test runner
+
+* [jest](https://github.com/facebook/jest) unit testing, automatic mocking, parallel execution using workers
 * [intern](https://github.com/theintern/intern) complete JavaScript software testing system
 * [cypress](https://www.cypress.io/) $ future.  innovative advanced automated testing framework
 * [wallaby](https://wallabyjs.com/) $ realtime test runner with editor integration
+* [AVA](https://github.com/avajs/ava) futuristic test runner
+* [nightwatch](http://nightwatchjs.org/) browser automation testing
+* [nightmare](https://github.com/segmentio/nightmare) browser automation testing
+* [zombie](https://github.com/assaf/zombie) fast headless browser testing
+* [codecept](http://codecept.io/) scenario acceptance testing BDD
 * [stylelint](http://stylelint.io/) Enforce best practices for stylesheets
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
+* [nyc](https://github.com/bcoe/nyc) improvements built on instanbul coverage tool
 
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
@@ -55,6 +62,7 @@
 * [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
 * [FlatBuffers](https://github.com/google/flatbuffers) cross platform fast serialization for networking and storage
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
+* [jison](http://zaa.ch/jison/) generates bottom-up parsers similar to Bison
 
 ### Data Search and Validate
 * [JMESPath](http://jmespath.org/) query language for JSON
@@ -83,6 +91,7 @@
 * [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
 * [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
+* [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
 
 ## View libraries
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
