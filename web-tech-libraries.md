@@ -95,8 +95,9 @@
 
 ## View libraries
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
-* [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
+* [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects
 * [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, isomorphic JavaScript library for building modern user interfaces.  As of 2016/05/26 this may be the fastest vdom implementation
+* [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
 * [snabbdom](https://github.com/paldepind/snabbdom) extremely small and fast virtual dom
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
 * [Incremental-dom](https://github.com/google/incremental-dom) An in-place DOM diffing library vs virtual dom
@@ -133,7 +134,6 @@
 
 ## Application Framework
 * [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers
-* [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects
 * [Meteor](https://github.com/meteor/meteor) Fast application development
 * [Cycle.js](http://cycle.js.org/) Functional reactive framework
 
