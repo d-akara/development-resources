@@ -138,6 +138,7 @@
 * [Cycle.js](http://cycle.js.org/) Functional reactive framework
 
 ## NodeJS
+* [Electron](http://electron.atom.io/) Web technologies as desktop applications
 * [NW.js](http://nwjs.io/) Web technologies as desktop applications
 * [socket.io](https://github.com/socketio/socket.io/) Realtime application framework
 * [restify](https://github.com/restify/node-restify) framework for server REST APIs
