@@ -96,7 +96,7 @@
 ## View libraries
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
 * [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
-* [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, isomorphic JavaScript library for building modern user interfaces
+* [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, isomorphic JavaScript library for building modern user interfaces.  As of 2016/05/26 this may be the fastest vdom implementation
 * [snabbdom](https://github.com/paldepind/snabbdom) extremely small and fast virtual dom
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
 * [Incremental-dom](https://github.com/google/incremental-dom) An in-place DOM diffing library vs virtual dom
