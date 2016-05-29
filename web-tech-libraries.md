@@ -83,16 +83,11 @@
 * [localForage](https://mozilla.github.io/localForage/) Local storage library for browsers IndexDB and WebSQL
 * [Dexie](http://dexie.org/) Local storage IndexDB wrapper library
 
-## Graphic libraries
-* [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
-* [StageXL](https://github.com/bp74/StageXL) StageXL is a fast and universal 2D rendering engine for HTML5
-* [three.js](https://github.com/mrdoob/three.js/) 3D Library. Canvas, SVG, CSS3D, WebGL
-* [TWGL](http://twgljs.org/) Tiny WebGL helper library
-* [OSG.JS](http://osgjs.org/) OpenSceneGraph WebGL
-* [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
-* [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
-* [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
-* [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
+## Application Framework
+[View paradigm comparisons](http://staltz.com/unidirectional-user-interface-architectures.html)
+* [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers
+* [Meteor](https://github.com/meteor/meteor) Fast application development
+* [Cycle.js](http://cycle.js.org/) Functional reactive framework built around RxJS.  Very small codebase.  [Differences Cycle, React, Elm](https://www.reddit.com/r/javascript/comments/3zr6i0/conversation_whats_the_core_differences_between), [CycleJS Talk, good overview of functional and reactive concepts](https://www.youtube.com/watch?v=31URmaeNHSs)
 
 ## View libraries
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
@@ -115,6 +110,17 @@
 * [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
 
+## Graphic libraries
+* [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
+* [StageXL](https://github.com/bp74/StageXL) StageXL is a fast and universal 2D rendering engine for HTML5
+* [three.js](https://github.com/mrdoob/three.js/) 3D Library. Canvas, SVG, CSS3D, WebGL
+* [TWGL](http://twgljs.org/) Tiny WebGL helper library
+* [OSG.JS](http://osgjs.org/) OpenSceneGraph WebGL
+* [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
+* [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
+* [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
+* [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
+
 ## Visualization
 * [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
 * [dc.js](https://dc-js.github.io/dc.js/) interactive cross filtering on top of D3
@@ -132,11 +138,6 @@
 * [tone.js](https://github.com/Tonejs/Tone.js) Audio framework for making interactive music
 * [timbre.js](http://mohayonao.github.io/timbre.js/) Objective sound programming
 * [tonal.js](https://github.com/danigb/tonal) Funtional music theory library
-
-## Application Framework
-* [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers
-* [Meteor](https://github.com/meteor/meteor) Fast application development
-* [Cycle.js](http://cycle.js.org/) Functional reactive framework
 
 ## NodeJS
 * [Electron](http://electron.atom.io/) Web technologies as desktop applications
