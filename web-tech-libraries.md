@@ -28,9 +28,9 @@
 * [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
 * [JavaScript Fast Array](https://github.com/ImJustAskingDude/JavascriptFastArray) Leverages 3d array for high performance up to 1 billion indices
 * [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
-* [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with broadest browser support
+* [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with [broadest](http://daily-javascript.com/articles/little-loader/) browser support
 * [transducers-js](https://github.com/cognitect-labs/transducers-js) Composable algorithmic transformations
-* [transducers.js](https://github.com/jlongster/transducers.js) Composable algorithmic transformations
+* [transducers.js](https://github.com/jlongster/transducers.js) Composable algorithmic transformations.  [Tranducers performance](http://jlongster.com/Transducers.js-Round-2-with-Benchmarks)
 * [Stream.js](https://github.com/winterbe/streamjs) Lazy object streaming pipeline for JavaScript
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Observables + Operators + Schedulers
 * [Mesh](http://mesh.js.org/) message bus library
@@ -90,6 +90,7 @@
 * [Cycle.js](http://cycle.js.org/) Functional reactive framework built around RxJS.  Very small codebase.  [Differences Cycle, React, Elm](https://www.reddit.com/r/javascript/comments/3zr6i0/conversation_whats_the_core_differences_between), [CycleJS Talk, good overview of functional and reactive concepts](https://www.youtube.com/watch?v=31URmaeNHSs)
 
 ## View libraries
+[Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/)
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
 * [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects
 * [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, React like API and design.  As of 2016/05/26 this may be the fastest vdom implementation
