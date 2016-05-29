@@ -23,7 +23,8 @@
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
-* [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP)
+* [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP) [Discussion MobX Redux](https://news.ycombinator.com/item?id=11181980) - [MobX vs Redux](https://discuss.reactjs.org/t/redux-or-mobservable-what-to-choose/2453)
+* [Redux](https://github.com/reactjs/redux) State container
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
 * [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
 * [JavaScript Fast Array](https://github.com/ImJustAskingDude/JavascriptFastArray) Leverages 3d array for high performance up to 1 billion indices
@@ -109,7 +110,7 @@
 * [quill](https://github.com/quilljs/quill/) Rich text editor
 * [medium editor](https://github.com/yabwe/medium-editor) ContentEditable API editor
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
-* [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work
+* [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work [short review] (https://www.briefs.fm/3-minutes-with-kent/21)
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
 
 ## Graphic libraries
