@@ -107,6 +107,7 @@
 * [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
 * [dropzone](https://github.com/enyo/dropzone/) Drag and drop for file uploads
 * [quill](https://github.com/quilljs/quill/) Rich text editor
+* [medium editor](https://github.com/yabwe/medium-editor) ContentEditable API editor
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
 * [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
