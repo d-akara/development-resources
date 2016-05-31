@@ -93,6 +93,8 @@
 ## View libraries
 [Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/)
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
+    * [React compose](https://github.com/acdlite/recompose/) utilities and high-order components
+    * [React Virtualized](https://bvaughn.github.io/react-virtualized/) view components which render only within viewport
 * [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects [Vue React Performance Comparison](https://engineering.footballradar.com/a-fairer-vue-of-react-comparing-react-to-vue-for-dynamic-tabular-data-part-2/)
 * [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, React like API and design.  As of 2016/05/26 this may be the fastest vdom implementation
 * [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
@@ -112,7 +114,6 @@
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
 * [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work [short review] (https://www.briefs.fm/3-minutes-with-kent/21)
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
-* [React Virtualized](https://bvaughn.github.io/react-virtualized/) view components which render only within viewport
 
 ## Graphic libraries
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
