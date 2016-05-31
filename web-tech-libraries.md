@@ -93,7 +93,7 @@
 ## View libraries
 [Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/)
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
-* [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects
+* [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects [Vue React Performance Comparison](https://engineering.footballradar.com/a-fairer-vue-of-react-comparing-react-to-vue-for-dynamic-tabular-data-part-2/)
 * [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, React like API and design.  As of 2016/05/26 this may be the fastest vdom implementation
 * [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
 * [snabbdom](https://github.com/paldepind/snabbdom) extremely small and fast virtual dom
