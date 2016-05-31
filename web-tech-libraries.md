@@ -112,6 +112,7 @@
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
 * [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work [short review] (https://www.briefs.fm/3-minutes-with-kent/21)
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
+* [React Virtualized](https://bvaughn.github.io/react-virtualized/) view components which render only within viewport
 
 ## Graphic libraries
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
@@ -138,6 +139,7 @@
 ## Multi Media
 * [video.js](https://github.com/videojs/video.js) JS Browser video player
 * [plyr](https://github.com/selz/plyr) JS Browser video audio player
+* [howler.js](https://github.com/goldfire/howler.js/tree/2.0) Audio playback library.  Web Audio, HTML 5 fallback
 * [tone.js](https://github.com/Tonejs/Tone.js) Audio framework for making interactive music
 * [timbre.js](http://mohayonao.github.io/timbre.js/) Objective sound programming
 * [tonal.js](https://github.com/danigb/tonal) Funtional music theory library
