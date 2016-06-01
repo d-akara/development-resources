@@ -125,6 +125,7 @@
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
 * [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
 * [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
+* [Aframe](https://github.com/aframevr/aframe/) 3D Web VR
 
 ## Visualization
 * [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
