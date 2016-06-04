@@ -156,6 +156,7 @@
 * [klyng](https://github.com/Mostafa-Samir/klyng) Distributed computing
 * [EMS](https://github.com/syntheticsemantics/ems) Shared memory parellelism for node
 * [uWebSockets](https://github.com/alexhultman/uWebSockets) Highly scalable WebSocket server library
+* [micro.js](https://github.com/zeit/micro) Micro services library
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
