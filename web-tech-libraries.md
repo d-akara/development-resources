@@ -96,7 +96,7 @@
     * [React compose](https://github.com/acdlite/recompose/) utilities and high-order components
     * [React Virtualized](https://bvaughn.github.io/react-virtualized/) view components which render only within viewport
 * [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects [Vue React Performance Comparison](https://engineering.footballradar.com/a-fairer-vue-of-react-comparing-react-to-vue-for-dynamic-tabular-data-part-2/)
-* [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, React like API and design.  As of 2016/05/26 this may be the fastest vdom implementation
+* [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, React like API and design.  As of 2016/05/26 this may be the fastest vdom implementation.  [HN discussion](https://news.ycombinator.com/item?id=11837082)
 * [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
 * [snabbdom](https://github.com/paldepind/snabbdom) extremely small and fast virtual dom
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
