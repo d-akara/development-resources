@@ -23,7 +23,7 @@
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
-* [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP) [Discussion MobX Redux](https://news.ycombinator.com/item?id=11181980) - [MobX vs Redux](https://discuss.reactjs.org/t/redux-or-mobservable-what-to-choose/2453)
+* [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP) [Discussion MobX Redux](https://news.ycombinator.com/item?id=11181980) - [MobX vs Redux](https://discuss.reactjs.org/t/redux-or-mobservable-what-to-choose/2453) - [Formidable article](http://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/)
 * [Redux](https://github.com/reactjs/redux) State container
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
 * [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
