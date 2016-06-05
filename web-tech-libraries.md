@@ -13,7 +13,7 @@
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
 * [stylelint](http://stylelint.io/) Enforce best practices for stylesheets
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
-* [flow](http://flowtype.org/) powerful static type checking for JavaScript.  Finds issues even missed in TypeScript
+* [flow](http://flowtype.org/) powerful static type checking for JavaScript.  [Finds issues even missed in TypeScript](https://gist.github.com/jeffmo/ef9214ca3acfe76c54a237b5710d37be)
 * [nyc](https://github.com/bcoe/nyc) improvements built on instanbul coverage tool
 
 ## Low level libraries
