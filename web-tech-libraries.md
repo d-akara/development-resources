@@ -157,6 +157,7 @@
 * [EMS](https://github.com/syntheticsemantics/ems) Shared memory parellelism for node
 * [uWebSockets](https://github.com/alexhultman/uWebSockets) Highly scalable WebSocket server library
 * [micro.js](https://github.com/zeit/micro) Micro services library
+* [feathers](http://feathersjs.com/) minimalist real-time framework for rapid prototype development
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
