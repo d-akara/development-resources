@@ -15,6 +15,7 @@
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
 * [flow](http://flowtype.org/) powerful static type checking for JavaScript.  [Finds issues even missed in TypeScript](https://gist.github.com/jeffmo/ef9214ca3acfe76c54a237b5710d37be) - [Flow vs TypeScript](http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/)
 * [nyc](https://github.com/bcoe/nyc) improvements built on instanbul coverage tool
+* [chai](https://github.com/chaijs/chai)BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
@@ -167,6 +168,7 @@
 * [Cheerp](http://leaningtech.com/cheerp/) C++ to JavaScript compiler
 
 ## Mobile
+* [NativeScript](https://www.nativescript.org/) Native mobile apps in JavaScript with low level access to system API's
 * [UpUp](https://github.com/TalAter/UpUp/) Mobile first library for offline
 
 ## Future
@@ -184,6 +186,7 @@
 * [lighthouse](https://github.com/GoogleChrome/lighthouse) progressive web app diagnostics
 * [Black Screen](https://github.com/shockone/black-screen) modern terminal. OSX only at the moment
 * [SkyPort](https://github.com/MJB-code6/SkyPort) offline functionality via service workers
+* [Neft](https://github.com/Neft-io/neft) Native JS on mobile
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
