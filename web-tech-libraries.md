@@ -2,6 +2,8 @@
 
 ## Testing and Code Quality
 
+* [Jasmine](http://jasmine.github.io/) JS testing framework
+* [Mocha](Mocha is a feature-rich JavaScript test framework) Mocha is a feature-rich JavaScript test framework
 * [jest](https://github.com/facebook/jest) unit testing, automatic mocking, parallel execution using workers
 * [intern](https://github.com/theintern/intern) complete JavaScript software testing system
 * [cypress](https://www.cypress.io/) $ future.  innovative advanced automated testing framework
@@ -15,7 +17,8 @@
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
 * [flow](http://flowtype.org/) powerful static type checking for JavaScript.  [Finds issues even missed in TypeScript](https://gist.github.com/jeffmo/ef9214ca3acfe76c54a237b5710d37be) - [Flow vs TypeScript](http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/)
 * [nyc](https://github.com/bcoe/nyc) improvements built on instanbul coverage tool
-* [chai](https://github.com/chaijs/chai)BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+* [chai](https://github.com/chaijs/chai) BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+* [Sinon.js](http://sinonjs.org/) Standalone test spies, stubs and mocks for JavaScrip
 
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
