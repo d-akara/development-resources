@@ -190,6 +190,7 @@
 * [Black Screen](https://github.com/shockone/black-screen) modern terminal. OSX only at the moment
 * [SkyPort](https://github.com/MJB-code6/SkyPort) offline functionality via service workers
 * [Neft](https://github.com/Neft-io/neft) Native JS on mobile
+* [nbind](https://github.com/charto/nbind#readme) C++ and JavaScript integration
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
