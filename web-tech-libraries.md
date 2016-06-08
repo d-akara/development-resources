@@ -80,6 +80,9 @@
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
 * [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
 
+### Analytics, AI Learning
+* [synaptic](https://github.com/cazala/synaptic) architecture-free neural network library for node.js and the browser
+
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
 * [RethinkDB](http://rethinkdb.com/) realtime web pushes JSON to your apps
