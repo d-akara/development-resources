@@ -115,6 +115,7 @@
 * [frzr](https://github.com/pakastin/frzr) ultra small fast library
 * [skate](https://github.com/skatejs/skatejs) W3C web component library using incremental DOM
 * [bliss](http://blissfuljs.com/) smaller more modern jQuery like library
+* [webcomponents](https://github.com/webcomponents/webcomponentsjs) Polyfill library for web components standard
 
 ## UI
 * [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
