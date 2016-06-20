@@ -44,6 +44,7 @@
 
 ### CSS news and articles
 * [CSS Tricks](https://css-tricks.com/) Technical blog of news and articles
+* [CSS Wizardry](http://csswizardry.com/) Technical CSS articles.  [Presentation](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers)
 * [Co Drops](http://tympanus.net/codrops/) CSS articles and example widgets
 
 ### Recent JS project rankings
