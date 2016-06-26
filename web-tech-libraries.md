@@ -18,7 +18,8 @@
 * [flow](http://flowtype.org/) powerful static type checking for JavaScript.  [Finds issues even missed in TypeScript](https://gist.github.com/jeffmo/ef9214ca3acfe76c54a237b5710d37be) - [Flow vs TypeScript](http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/)
 * [nyc](https://github.com/bcoe/nyc) improvements built on instanbul coverage tool
 * [chai](https://github.com/chaijs/chai) BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-* [Sinon.js](http://sinonjs.org/) Standalone test spies, stubs and mocks for JavaScrip
+* [Sinon.js](http://sinonjs.org/) Standalone test spies, stubs and mocks for JavaScript
+* [Kakapo](https://github.com/devlucky/Kakapo.js) client side mocking. [overview](https://medium.freecodecamp.com/dynamic-mocking-with-kakapo-js-bdbd3d7b58e2#.8pi6rtbu5)
 
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
