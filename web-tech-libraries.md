@@ -130,6 +130,7 @@
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
 
 ## Graphic libraries
+[State of web animation, May 2016](https://css-tricks.com/comparison-animation-technologies/)
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
 * [StageXL](https://github.com/bp74/StageXL) StageXL is a fast and universal 2D rendering engine for HTML5
 * [three.js](https://github.com/mrdoob/three.js/) 3D Library. Canvas, SVG, CSS3D, WebGL
@@ -138,6 +139,8 @@
 * [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
 * [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
+* [Velocity](http://velocityjs.org/) animation library
+* [Anime.js](https://github.com/juliangarnier/anime) animation library
 * [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
 * [Aframe](https://github.com/aframevr/aframe/) 3D Web VR
 
