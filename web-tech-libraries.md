@@ -51,6 +51,8 @@
 * [cuid](https://github.com/ericelliott/cuid) Collision-resistant ids optimized for horizontal scaling and performance
 * [stamp-it](https://github.com/stampit-org/stampit/) Composable object factories
 * [DOMPurify](https://github.com/cure53/DOMPurify) XSS sanitizer for HTML, MathML and SVG
+* [stacktrace.js](https://www.stacktracejs.com/) Generate, parse, and enhance JavaScript stack traces in all web browsers
+* [notate](https://github.com/scottnonnenberg/notate) Making it easier to debug asynchronous errors in javascript
 
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
