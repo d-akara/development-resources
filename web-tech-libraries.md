@@ -225,6 +225,7 @@
 * [Devtron](http://electron.atom.io/devtron/) Debugger for Electron
 * [Betwixt](https://github.com/kdzwinel/betwixt) Network debugger using chrome devtools
 * [reveal.js](https://github.com/hakimel/reveal.js) Interactive presentation framework
+* [impress.js](https://github.com/impress/impress.js) presentation framework based on the power of CSS3 transforms and transitions
 * [npm-check](https://github.com/dylang/npm-check) Check for outdated, incorrect or unused dependencies
 * [cheerp](http://leaningtech.com/cheerp/) C++ compiler to JavaScript
 * [gitsome](https://github.com/donnemartin/gitsome) Enhanced command line Git
