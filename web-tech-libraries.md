@@ -30,6 +30,7 @@
 * [Crio](https://github.com/planttheidea/crio) Immutable library compatible with other collection libraries
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
+* [Iterall](https://github.com/leebyron/iterall) Iterate over any collection
 * [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP) [Discussion MobX Redux](https://news.ycombinator.com/item?id=11181980) - [MobX vs Redux](https://discuss.reactjs.org/t/redux-or-mobservable-what-to-choose/2453) - [Formidable article](http://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/)
 * [Redux](https://github.com/reactjs/redux) State container
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
