@@ -109,7 +109,7 @@
 * [Cycle.js](http://cycle.js.org/) Functional reactive framework built around RxJS.  Very small codebase.  [Differences Cycle, React, Elm](https://www.reddit.com/r/javascript/comments/3zr6i0/conversation_whats_the_core_differences_between), [CycleJS Talk, good overview of functional and reactive concepts](https://www.youtube.com/watch?v=31URmaeNHSs)
 
 ## View libraries
-[Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/)
+[Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/) - [JS Web framework benchmarks](http://www.stefankrause.net/wp/?p=301)
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow
     * [React compose](https://github.com/acdlite/recompose/) utilities and high-order components
     * [React Virtualized](https://bvaughn.github.io/react-virtualized/) view components which render only within viewport
