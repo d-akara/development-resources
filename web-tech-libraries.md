@@ -193,6 +193,7 @@
 * [NativeScript](https://www.nativescript.org/) Native mobile apps in JavaScript with low level access to system API's
 * [React Native](https://facebook.github.io/react-native/) Native UI's built on React
 * [UpUp](https://github.com/TalAter/UpUp/) Mobile first library for offline
+* [ZingTouch](https://github.com/zingchart/zingtouch) Gesture library
 
 ## Future
 * [Nexus.js](https://medium.com/@voodooattack/multi-threaded-javascript-introduction-faba95d3bd06#.lmmdbrfas) Multi threaded Node with no event loop
