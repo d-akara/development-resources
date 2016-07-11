@@ -124,6 +124,7 @@
 * [skate](https://github.com/skatejs/skatejs) W3C web component library using incremental DOM
 * [bliss](http://blissfuljs.com/) smaller more modern jQuery like library
 * [webcomponents](https://github.com/webcomponents/webcomponentsjs) Polyfill library for web components standard
+* [hyperscript](https://github.com/dominictarr/hyperscript) Inline template creation in JavaScript.  [Article](http://lhorie.github.io/mithril-blog/lessons-learned-from-angular.html) discussing advantages of this concept.  Dojo 2 [research item](https://github.com/dojo/meta/issues/11) with many references to hyperscript.
 
 ## UI
 * [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
