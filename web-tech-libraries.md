@@ -110,7 +110,7 @@
 
 ## View libraries
 [Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/) - [JS Web framework benchmarks](http://www.stefankrause.net/wp/?p=301)
-* [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow. [Composition best practice](https://discuss.reactjs.org/t/best-practices-for-extending-subclassing-components/1820)
+* [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow. [Composition best practice](https://discuss.reactjs.org/t/best-practices-for-extending-subclassing-components/1820) - [mixins and HOC](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
     * [React compose](https://github.com/acdlite/recompose/) utilities and high-order components
     * [React Virtualized](https://bvaughn.github.io/react-virtualized/) view components which render only within viewport
 * [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects [Vue React Performance Comparison](https://engineering.footballradar.com/a-fairer-vue-of-react-comparing-react-to-vue-for-dynamic-tabular-data-part-2/)
