@@ -212,6 +212,7 @@
 * [Neft](http://www.neft.io/) server, browser and mobile JavaScript native applications
 * [lighthouse](https://github.com/GoogleChrome/lighthouse) progressive web app diagnostics
 * [Black Screen](https://github.com/shockone/black-screen) modern terminal. OSX only at the moment
+* [HyperTerm](https://github.com/zeit/hyperterm) modern terminal. Electron based
 * [SkyPort](https://github.com/MJB-code6/SkyPort) offline functionality via service workers
 * [Neft](https://github.com/Neft-io/neft) Native JS on mobile
 * [nbind](https://github.com/charto/nbind#readme) C++ and JavaScript integration
