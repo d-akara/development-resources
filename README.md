@@ -207,6 +207,7 @@
 * [Visualization Graphics](http://acko.net/files/gltalks/pixelfactory/online.html#0)
 * [GraphQL](https://learngraphql.com/)
 * [RxMarbles](http://rxmarbles.com/) Visualize how observables operate
+* [D3 Garden](https://www.rtfmanual.io/d3garden/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-19) Interactive D3 learning
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
