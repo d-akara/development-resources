@@ -217,6 +217,7 @@
 * [Neft](https://github.com/Neft-io/neft) Native JS on mobile
 * [nbind](https://github.com/charto/nbind#readme) C++ and JavaScript integration
 * [Audio Lab](https://github.com/audio-lab) collection of audio tools
+* [libui](https://github.com/parro-it/libui-node) Native GUI for node
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
