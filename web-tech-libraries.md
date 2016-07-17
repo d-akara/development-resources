@@ -184,6 +184,7 @@
 * [uWebSockets](https://github.com/alexhultman/uWebSockets) Highly scalable WebSocket server library
 * [micro.js](https://github.com/zeit/micro) Micro services library
 * [feathers](http://feathersjs.com/) minimalist real-time framework for rapid prototype development
+* [Nodal](http://www.nodaljs.com/) API services on node
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
