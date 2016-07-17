@@ -223,6 +223,7 @@
 * [nbind](https://github.com/charto/nbind#readme) C++ and JavaScript integration
 * [Audio Lab](https://github.com/audio-lab) collection of audio tools
 * [libui](https://github.com/parro-it/libui-node) Native GUI for node
+* [Cycligent](https://www.cycligent.com/git-tool) Git GUI Tool
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
@@ -247,3 +248,5 @@
 * [rollup.js](http://rollupjs.org) next generation module bundler.  tree-shaking
 * [GitUp](http://gitup.co/) OSX graphical Git management
 * [GitKraken](https://www.gitkraken.com/) cross platform graphical Git management
+* [Hammerspoon](http://www.hammerspoon.org/) OSX Automation using Lua
+* [RobotJS](https://github.com/octalmage/robotjs) Cross platform Automation on NodeJS
