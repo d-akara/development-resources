@@ -185,6 +185,8 @@
 * [micro.js](https://github.com/zeit/micro) Micro services library
 * [feathers](http://feathersjs.com/) minimalist real-time framework for rapid prototype development
 * [Nodal](http://www.nodaljs.com/) API services on node
+* [loopback](http://loopback.io/) Server API Framework.  
+    * [IBM API Connect](https://developer.ibm.com/apiconnect/) UI management and API authoring on top of loopback 
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
