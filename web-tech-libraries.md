@@ -136,6 +136,7 @@
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
 * [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work [short review] (https://www.briefs.fm/3-minutes-with-kent/21)
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
+* [Cleave](https://github.com/nosir/cleave.js) UI enforced field validations and formatted input
 
 ## Graphic libraries
 [State of web animation, May 2016](https://css-tricks.com/comparison-animation-technologies/)
