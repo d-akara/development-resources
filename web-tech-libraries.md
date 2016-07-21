@@ -176,6 +176,7 @@
 ## NodeJS
 * [Electron](http://electron.atom.io/) Web technologies as desktop applications
 * [NW.js](http://nwjs.io/) Web technologies as desktop applications
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter) Starter skeleton framework for server application
 * [socket.io](https://github.com/socketio/socket.io/) Realtime application framework
 * [restify](https://github.com/restify/node-restify) framework for server REST APIs
 * [FFI](https://github.com/node-ffi/node-ffi) Foreign function interface.  Call c functions from node
