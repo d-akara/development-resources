@@ -226,6 +226,7 @@
 * [Audio Lab](https://github.com/audio-lab) collection of audio tools
 * [libui](https://github.com/parro-it/libui-node) Native GUI for node
 * [Cycligent](https://www.cycligent.com/git-tool) Git GUI Tool
+* [](https://github.com/GianlucaGuarini/allora) Promisify all JS API's with very small library
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
