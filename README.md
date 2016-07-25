@@ -138,7 +138,7 @@
 * [ScriptCraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft) Javascript
 * [LearnToMod](http://www.learntomod.com/) $ Javascript
 * [CodinGame](https://www.codingame.com/start) Most Popular Languages
-* [Code Warriors](http://www.kuatostudios.com/games/hakitzu-elite/) Javascript
+* [Code Warriors](http://www.codewarriorsgame.com/kai-web-kai/login) Javascript
 * [Code Hunt](https://www.codehunt.com/) Java, C#
 * [CodeFights](https://codefights.com/) Javascript
 * [Card Forest](http://www.cardforest.com/) C++
