@@ -118,10 +118,10 @@
 
 ### Intro to coding
 * [Lightbot](https://lightbot.com/) Intro to coding starting at age 4
-* [Blockly](https://blockly-games.appspot.com/)
+* [Blockly](https://blockly-games.appspot.com/) designed for children who have not had prior experience with computer programming
 * [Code Spells](http://codespells.org/) uses blockly or JavaScript
-* [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine)
-* [Glitch Space](http://glitchspace.com/)
+* [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine) Learn Assembly concepts in fun game
+* [Glitch Space](http://glitchspace.com/) Visual programming, filtering, piping and logic concepts
 
 ### Javascript
 * [Code Craft](http://www.codecraftgame.org/) Javascript
