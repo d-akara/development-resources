@@ -65,6 +65,7 @@
 * [thaw.js](http://robertleeplummerjr.github.io/thaw.js/) synthetic asynchronous processing
 * [bluebird](https://github.com/petkaantonov/bluebird) Full featured fast promise library
 * [setImmediate](https://github.com/YuzuJS/setImmediate) Access to macro task queue for more efficient setTimeout
+* [Task.js](https://github.com/icodeforlove/task.js/) Distribute across workers for Node and Web
 
 ### Parsing and Serialization
 * [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
