@@ -203,6 +203,7 @@
 * [Nodeschool.io](http://nodeschool.io/)
 * [VisuAlgo](http://visualgo.net/) Visualize software algorithms
 * [AlgorithmVisualizer](http://jasonpark.me/AlgorithmVisualizer/) Visualize software algorithms
+* [VisualGraphAlgorithms](https://workshape.github.io/visual-graph-algorithms/) Visualize graph traversing algorithms
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) Visualize sorting algorithms
 * [Visualization Graphics](http://acko.net/files/gltalks/pixelfactory/online.html#0)
 * [GraphQL](https://learngraphql.com/)
