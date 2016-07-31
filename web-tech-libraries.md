@@ -56,6 +56,7 @@
 * [DOMPurify](https://github.com/cure53/DOMPurify) XSS sanitizer for HTML, MathML and SVG
 * [stacktrace.js](https://www.stacktracejs.com/) Generate, parse, and enhance JavaScript stack traces in all web browsers
 * [notate](https://github.com/scottnonnenberg/notate) Making it easier to debug asynchronous errors in javascript
+* [hash-it](https://github.com/planttheidea/hash-it) Create hash for any JS object
 
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
