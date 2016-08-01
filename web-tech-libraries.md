@@ -156,6 +156,7 @@
 * [Velocity](http://velocityjs.org/) animation library
 * [Anime.js](https://github.com/juliangarnier/anime) animation library
 * [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
+* [mojs](https://github.com/legomushroom/mojs) motion graphics library
 * [Aframe](https://github.com/aframevr/aframe/) 3D Web VR
 
 ## Visualization
