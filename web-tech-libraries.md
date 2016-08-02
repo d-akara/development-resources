@@ -222,6 +222,7 @@
 * [DGraph](https://github.com/dgraph-io/dgraph/) Scalable, Distributed, Low Latency Graph Database
 * [Falcor](http://netflix.github.io/falcor/) Efficient data fetching by JSON graph
 * [GUN](https://github.com/amark/gun) realtime, decentralized, offline-first, graph database engine
+* [Noms](https://github.com/attic-labs/noms) versioned, forkable, syncable database
 * [Neft](http://www.neft.io/) server, browser and mobile JavaScript native applications
 * [lighthouse](https://github.com/GoogleChrome/lighthouse) progressive web app diagnostics
 * [Black Screen](https://github.com/shockone/black-screen) modern terminal. OSX only at the moment
@@ -232,7 +233,7 @@
 * [Audio Lab](https://github.com/audio-lab) collection of audio tools
 * [libui](https://github.com/parro-it/libui-node) Native GUI for node
 * [Cycligent](https://www.cycligent.com/git-tool) Git GUI Tool
-* [](https://github.com/GianlucaGuarini/allora) Promisify all JS API's with very small library
+* [Allora](https://github.com/GianlucaGuarini/allora) Promisify all JS API's with very small library
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
