@@ -25,6 +25,7 @@
 * [MyBridge JS](http://www.mybridge.co/skills/javascript) Trending news and articles
 * [Javascript on Flipboard](https://flipboard.com/topic/javascript)
 * [PonyFoo](http://ponyfoo.com/) Technical articles focused on core language and tools
+* [InfoQ](https://www.infoq.com/search.action?queryString=javascript&page=1&searchOrder=date&sst=Lb4E9SbPZIVslOab) JavaScript articles on InfoQ
 * [Google Developers](https://developers.google.com/web/updates/) Google developer news
 * [SitePoint](http://www.sitepoint.com/) Technical articles with broad focus
 * [Mozilla Hacks](https://hacks.mozilla.org/articles/) Technical articles focus on emerging technology
