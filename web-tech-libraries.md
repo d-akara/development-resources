@@ -151,6 +151,7 @@
 * [TWGL](http://twgljs.org/) Tiny WebGL helper library
 * [OSG.JS](http://osgjs.org/) OpenSceneGraph WebGL
 * [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
+* [regl](https://github.com/mikolalysenko/regl) Functional WebGL
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
 * [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
 * [Velocity](http://velocityjs.org/) animation library
