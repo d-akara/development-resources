@@ -166,6 +166,7 @@
 * [nvd3](https://nvd3-community.github.io/nvd3/) charts built on top of D3
 * [Vis.js](http://visjs.org/index.html) library with DataSet, Timeline, Network, Graph2d and Graph3d visualization types
 * [Chart.js](https://github.com/chartjs/Chart.js) animated charts using canvas
+* [Recharts](http://recharts.org/) React component charts
 * [jointJS](https://github.com/clientIO/joint) diagramming library, SVG, interactive editing, path routing
 * [Dagre](https://github.com/cpettitt/dagre/wiki) directed graph layout library. use view as D3, jointJS, cytoscape
 * [cola.js](http://marvl.infotech.monash.edu/webcola/) contraint based layout library.
