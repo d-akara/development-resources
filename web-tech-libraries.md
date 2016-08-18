@@ -107,7 +107,7 @@
 
 ## Application Framework
 [Flux, Redux, Behavior-Event-State-Tree, Model-View-Update, Model-View-Intent, Nested Dialogues](http://staltz.com/unidirectional-user-interface-architectures.html)
-* [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers
+* [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers [Trending away from Angular 2 towards FP](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
 * [Meteor](https://github.com/meteor/meteor) Fast application development
 * [Cycle.js](http://cycle.js.org/) Functional reactive framework built around RxJS.  Very small codebase.  [Differences Cycle, React, Elm](https://www.reddit.com/r/javascript/comments/3zr6i0/conversation_whats_the_core_differences_between), [CycleJS Talk, good overview of functional and reactive concepts](https://www.youtube.com/watch?v=31URmaeNHSs)
 
