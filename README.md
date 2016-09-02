@@ -282,6 +282,7 @@
 * [Codeanywhere](https://codeanywhere.com/) Full virtual development environment
 * [CodeEnvy](https://codenvy.com/) Full virtual development environment
 * [Koding](http://www.koding.com/) Hybrid local and virtual development environment
+* [Carbide](alpha.trycarbide.com/) Live JS programming environment combinded with visualization
 * [Turbo](https://turbo.net/) virtual environment to run desktop applications
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
