@@ -183,7 +183,7 @@
 * [flocking](https://github.com/colinbdclark/Flocking) audio synthesizer library
 
 ## NodeJS
-* [Electron](http://electron.atom.io/) Web technologies as desktop applications
+* [Electron](http://electron.atom.io/) Web technologies as desktop applications [Essential Electron](http://jlord.us/essential-electron/)
 * [NW.js](http://nwjs.io/) Web technologies as desktop applications
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) Starter skeleton framework for server application
 * [socket.io](https://github.com/socketio/socket.io/) Realtime application framework
