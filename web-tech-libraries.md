@@ -222,6 +222,7 @@
 * [Infamouse](https://infamous.io/) Performance focused web rendering engine
 * [MapD](http://www.mapd.com/product/) GPU Accelerated SQL
 * [BlazeGraph](https://www.blazegraph.com/) GPU Acclerated RDF Graph DB
+* [BlazingDB](http://blazingdb.com/) GPU Acclerated SQL DB
 * [DGraph](https://github.com/dgraph-io/dgraph/) Scalable, Distributed, Low Latency Graph Database
 * [Falcor](http://netflix.github.io/falcor/) Efficient data fetching by JSON graph
 * [GUN](https://github.com/amark/gun) realtime, decentralized, offline-first, graph database engine
