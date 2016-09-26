@@ -161,6 +161,7 @@
 * [mojs](https://github.com/legomushroom/mojs) motion graphics library
 * [Aframe](https://github.com/aframevr/aframe/) 3D Web VR
 * [Matter.js](https://github.com/liabru/matter-js) 2D rigid body physics engine for the web
+* [g9](https://github.com/bijection/g9) Automatically interactive graphics for the web
 
 ## Visualization
 * [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
