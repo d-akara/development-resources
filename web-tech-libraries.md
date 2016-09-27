@@ -212,6 +212,7 @@
 ## Mobile
 * [NativeScript](https://www.nativescript.org/) Native mobile apps in JavaScript with low level access to system API's
 * [React Native](https://facebook.github.io/react-native/) Native UI's built on React
+    * [Exponent](https://getexponent.com/) Improved React Native
 * [UpUp](https://github.com/TalAter/UpUp/) Mobile first library for offline
 * [ZingTouch](https://github.com/zingchart/zingtouch) Gesture library
 
