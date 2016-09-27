@@ -174,6 +174,7 @@
 * [Dagre](https://github.com/cpettitt/dagre/wiki) directed graph layout library. use view as D3, jointJS, cytoscape
 * [cola.js](http://marvl.infotech.monash.edu/webcola/) contraint based layout library.
 * [MathBox](https://gitgud.io/unconed/mathbox) Presentation-quality WebGL math graphing
+* [OpenLayers](http://openlayers.org/) high-performance, feature-packed library for all your mapping needs
 
 ## Multi Media
 * [video.js](https://github.com/videojs/video.js) JS Browser video player
@@ -215,6 +216,7 @@
     * [Exponent](https://getexponent.com/) Improved React Native
 * [UpUp](https://github.com/TalAter/UpUp/) Mobile first library for offline
 * [ZingTouch](https://github.com/zingchart/zingtouch) Gesture library
+* [Leaflet](http://leafletjs.com/2016/09/27/leaflet-1.0-final.html) mobile-friendly interactive maps
 
 ## Future
 * [Nexus.js](https://medium.com/@voodooattack/multi-threaded-javascript-introduction-faba95d3bd06#.lmmdbrfas) Multi threaded Node with no event loop
