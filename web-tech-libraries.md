@@ -58,6 +58,9 @@
 * [notate](https://github.com/scottnonnenberg/notate) Making it easier to debug asynchronous errors in javascript
 * [hash-it](https://github.com/planttheidea/hash-it) Create hash for any JS object
 
+### Networking
+* [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
+
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
 * [Promise-worker](https://github.com/nolanlawson/promise-worker) Communicate with a Web Worker using Promises
