@@ -274,3 +274,4 @@
 * [GitKraken](https://www.gitkraken.com/) cross platform graphical Git management
 * [Hammerspoon](http://www.hammerspoon.org/) OSX Automation using Lua
 * [RobotJS](https://github.com/octalmage/robotjs) Cross platform Automation on NodeJS
+* [ripgrep](https://github.com/BurntSushi/ripgrep) Fastest grep implementation in existence. Written in Rust.
