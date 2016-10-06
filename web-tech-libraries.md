@@ -101,7 +101,7 @@
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
 * [LokiJS](http://lokijs.org/#/) A fast, in-memory document-oriented datastore for node.js, browser and cordova
-* [RethinkDB](http://rethinkdb.com/) realtime web pushes JSON to your apps
+* [RethinkDB](http://rethinkdb.com/) realtime web pushes JSON to your apps [status?](https://news.ycombinator.com/item?id=12649414)
 * [Horizon.io](http://horizon.io/) library built for RethinkDB
 * [TingoDB](https://github.com/sergeyksv/tingodb) JavaScript DB API compatible with MongoDB
 * [NeDB](https://github.com/louischatriot/nedb) JavaScript DB API compatible with MongoDB
