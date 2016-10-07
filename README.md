@@ -161,6 +161,8 @@
 * [Embedded Security CTF](https://microcorruption.com/login)
 * [TIS-100](http://store.steampowered.com/app/370360)
 * [Box256](http://box-256.com/)
+* [Robo Dojo](http://robodojo.club)
+* [RoboCom](http://robocom.rrobek.de)
 
 ## Competitions
 * [Code Wars](http://www.codewars.com/)
