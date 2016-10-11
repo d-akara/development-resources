@@ -253,6 +253,7 @@
 * [Cycligent](https://www.cycligent.com/git-tool) Git GUI Tool
 * [Allora](https://github.com/GianlucaGuarini/allora) Promisify all JS API's with very small library
 * [Tesseract.js](http://tesseract.projectnaptha.com/) JS OCR
+* [Yarn](https://code.facebook.com/posts/1840075619545360) Next generation package manager similar to Rust's Cargo
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
