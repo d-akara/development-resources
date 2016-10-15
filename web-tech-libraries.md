@@ -159,6 +159,7 @@
 
 ## Graphic libraries
 [State of web animation, May 2016](https://css-tricks.com/comparison-animation-technologies/)
+* [WebAnimations API](https://github.com/web-animations/web-animations-js) Polyfill for upcoming standard [Web Animations API](https://www.sitepoint.com/bringing-pages-to-life-web-animations-api/)
 * [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) fastest graph drawing javascript library 
 * [StageXL](https://github.com/bp74/StageXL) StageXL is a fast and universal 2D rendering engine for HTML5
 * [three.js](https://github.com/mrdoob/three.js/) 3D Library. Canvas, SVG, CSS3D, WebGL
