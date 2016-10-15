@@ -115,8 +115,13 @@
 * [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers [Trending away from Angular 2 towards FP](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
 * [Meteor](https://github.com/meteor/meteor) Fast application development
 * [Cycle.js](http://cycle.js.org/) Functional reactive framework built around RxJS.  Very small codebase.  [Differences Cycle, React, Elm](https://www.reddit.com/r/javascript/comments/3zr6i0/conversation_whats_the_core_differences_between), [CycleJS Talk, good overview of functional and reactive concepts](https://www.youtube.com/watch?v=31URmaeNHSs)
-* [Apollo](http://www.apollostack.com/) manages the flow of data between clients and backends. Based on GraphQL
-    * [discussion](https://news.ycombinator.com/item?id=12629350)
+* [Apollo](http://www.apollostack.com/) manages the flow of data between clients and backends. Based on [GraphQL](https://css-tricks.com/declarative-data-fetching-graphql/)
+    * [discussion positive](https://news.ycombinator.com/item?id=12629350)
+    * [discussion of concerns](https://twitter.com/tomdale/status/786954892342681600)
+* [Relay](https://facebook.github.io/relay/) manages the flow of data between clients and backends. Based on GraphQL
+    * [discussion and resource references for both Relay and Apollo](https://news.ycombinator.com/item?id=12703125)
+* [JSON API](http://jsonapi.org/implementations/#client-libraries-javascript) Alternative to REST and GraphQL.  Need to further assess implementations
+    
 
 ## View libraries
 [Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/) - [JS Web framework benchmarks](http://www.stefankrause.net/wp/?p=301)
