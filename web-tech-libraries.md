@@ -288,3 +288,5 @@
 * [Hammerspoon](http://www.hammerspoon.org/) OSX Automation using Lua
 * [RobotJS](https://github.com/octalmage/robotjs) Cross platform Automation on NodeJS
 * [ripgrep](https://github.com/BurntSushi/ripgrep) Fastest grep implementation in existence. Written in Rust.
+* [Brackets](http://brackets.io/) Good JS editor with unique realtime project search feature
+* [VS Code](http://code.visualstudio.com) Seems well positioned to be for JS what Eclipse has been for Java.
