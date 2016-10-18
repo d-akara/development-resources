@@ -214,6 +214,7 @@
 * [GraphQL](https://learngraphql.com/)
 * [RxMarbles](http://rxmarbles.com/) Visualize how observables operate
 * [D3 Garden](https://www.rtfmanual.io/d3garden/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-19) Interactive D3 learning
+* [Katacoda](https://www.katacoda.com/) Interactive learning platform for Docker and more
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
