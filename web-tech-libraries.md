@@ -48,6 +48,7 @@
 * [Mesh](http://mesh.js.org/) message bus library
 * [jailed](https://github.com/asvd/jailed) Execute JavaScript in secure sandbox
 * [JS-interpreter](https://github.com/NeilFraser/JS-Interpreter) sandboxed JavaScript interpreter in JS
+* [expressions-js](https://github.com/chip-js/expressions-js/blob/master/src/expressions.js) simplified JavaScript expressions into executable functions
 * [can-zone](https://github.com/canjs/can-zone) JavaScript concept of thread local context
 * [zone.js](https://github.com/angular/zone.js) JavaScript concept of thread local context
 * [nlp-compromise](https://github.com/nlp-compromise/nlp_compromise) NLP JavaScript library
