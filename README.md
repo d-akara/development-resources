@@ -305,6 +305,7 @@
 * [Regex101](https://regex101.com/) Regular expression tester debugger
 * [RegexpLint](http://regexp.quaxio.com/) Regular expression linter
 * [Regulex](https://jex.im/regulex) Regular expession visualizer
+* [ExplainShell](http://explainshell.com/) diagrams shell commands with documentation
 * [Flexy Boxes](http://the-echoplex.net/flexyboxes/) CSS Flexbox generator
 * [Tridiv](http://tridiv.com) Create 3D CSS
 * [CSS Animate](http://cssanimate.com/) CSS Animation assistant
