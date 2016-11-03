@@ -75,6 +75,7 @@
 
 ### Parsing and Serialization
 * [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
+* [corrode](https://github.com/screeny05/corrode) library for reading binary data
 * [lave](https://github.com/jed/lave) Stringify serialize types JSON.stringify can not
 * [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
 * [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
