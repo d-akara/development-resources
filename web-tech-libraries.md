@@ -293,3 +293,4 @@
 * [ripgrep](https://github.com/BurntSushi/ripgrep) Fastest grep implementation in existence. Written in Rust.
 * [Brackets](http://brackets.io/) Good JS editor with unique realtime project search feature
 * [VS Code](http://code.visualstudio.com) Seems well positioned to be for JS what Eclipse has been for Java.
+* [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer) bundle content as convenient interactive zoomable treemap
