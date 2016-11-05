@@ -242,6 +242,7 @@
 * [ThinScript](https://github.com/evanw/thinscript) Language compiles to WebAssembly, JavaScript and C
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
 * [weblas](https://github.com/waylonflinn/weblas) GPU Accelerated JavaScript
+* [Turbo.js](https://turbo.github.io/) GPU Accelerated JavaScript
 * [Jxcore](https://github.com/jxcore/jxcore) NodeJS for mobile and IoT
 * [Infamouse](https://infamous.io/) Performance focused web rendering engine
 * [MapD](http://www.mapd.com/product/) GPU Accelerated SQL
