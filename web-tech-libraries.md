@@ -132,6 +132,7 @@
     * [React compose](https://github.com/acdlite/recompose/) utilities and high-order components
     * [React Virtualized](https://bvaughn.github.io/react-virtualized/) view components which render only within viewport
     * [Electrode](http://www.electrode.io/) platform for building universal React/Node.js applications
+    * [BluePrint](http://blueprintjs.com/) common components for building web applications
 * [Vuejs](https://github.com/vuejs/vue) Data-reactive components using plain JS objects [Vue React Performance Comparison](https://engineering.footballradar.com/a-fairer-vue-of-react-comparing-react-to-vue-for-dynamic-tabular-data-part-2/)
     * [discussion1](https://news.ycombinator.com/item?id=12614681), [discussion2](https://news.ycombinator.com/item?id=12757946)
 * [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, React like API and design.  As of 2016/05/26 this may be the fastest vdom implementation.  [HN discussion](https://news.ycombinator.com/item?id=11837082) [HN discussion on Mobile compared with React, Vue, Mithril, Cycle...](https://news.ycombinator.com/item?id=12133695)
