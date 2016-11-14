@@ -87,6 +87,7 @@
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
 * [jison](http://zaa.ch/jison/) generates bottom-up parsers similar to Bison
 * [Ohm](https://github.com/cdglabs/ohm) library and language for building parsers, interpreters, compilers, etc. [Intro article](https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/)
+* [Cheerio](https://cheerio.js.org/) server side JSON and XML fast parser
 
 ### Data Search and Validate
 * [JMESPath](http://jmespath.org/) query language for JSON
