@@ -275,6 +275,7 @@
 * [Romesguy JavaScript Links](https://papaly.com/romseguy/eg7St/JavaScript) Learning outline
 * [Thinkster](https://thinkster.io/) Self paced tutorials
 * [WebGL Fundamentals](http://webglfundamentals.org/)
+* [CSS Visual Reference](http://cssreference.io/)
 * [CSS Triggers](http://csstriggers.com/) Styles which trigger layout, paint and composite
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
