@@ -73,6 +73,7 @@
 * [bluebird](https://github.com/petkaantonov/bluebird) Full featured fast promise library
 * [setImmediate](https://github.com/YuzuJS/setImmediate) Access to macro task queue for more efficient setTimeout
 * [Task.js](https://github.com/icodeforlove/task.js/) Distribute across workers for Node and Web
+* [worker-render](https://github.com/canjs/worker-render) run SPA within a web worker
 
 ### Parsing and Serialization
 * [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
@@ -291,6 +292,8 @@
 * [PMD](https://pmd.github.io/) source code analyzer
 * [licecap](http://www.cockos.com/licecap/) record animated gif windows/osx
 * [rollup.js](http://rollupjs.org) next generation module bundler.  tree-shaking
+* [Webpack](https://webpack.github.io/) Very configurable supporting large scale development
+* [Broswersfy](http://browserify.org/) Easiest to setup and use module builder
 * [GitUp](http://gitup.co/) OSX graphical Git management
 * [GitKraken](https://www.gitkraken.com/) cross platform graphical Git management
 * [Hammerspoon](http://www.hammerspoon.org/) OSX Automation using Lua
