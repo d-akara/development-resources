@@ -151,6 +151,7 @@
 * [Vim Adventures](http://vim-adventures.com/) Vim
 * [Hack n Slash](http://www.hacknslashthegame.com/) Hacking mechanics game
 * [Elevator Saga](http://play.elevatorsaga.com)
+* [XSS game](https://xss-game.appspot.com/) XSS Security game
 
 ### CSS and Design Games
 * [CSS Diner](http://flukeout.github.io/)
