@@ -270,6 +270,7 @@
 * [Yarn](https://code.facebook.com/posts/1840075619545360) Next generation package manager similar to Rust's Cargo
 * [DeThread](https://github.com/DeThread/dethread) library for distributed computing with JavaScript, WebSockets, and web workers
 * [Jasonette](http://jasonette.com/) Mobile app building with JSON desclaritive language
+* [Svelte](https://github.com/sveltejs/svelte) compiler UI framework with no runtime
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
