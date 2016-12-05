@@ -272,6 +272,7 @@
 * [Jasonette](http://jasonette.com/) Mobile app building with JSON desclaritive language
 * [Svelte](https://github.com/sveltejs/svelte) compiler UI framework with no runtime
 * [Nidium](https://www.nidium.com/) JS runtime built on SpiderMonkey
+* [Browsix](https://browsix.org/) Run C, C++, Go and Node.js programs as processes in browsers
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
