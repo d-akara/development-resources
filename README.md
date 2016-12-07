@@ -225,7 +225,7 @@
 * [RequireBin](http://requirebin.com/) JS playground using NPM
 * [ESNextbin](http://esnextb.in/) ES6 with NPM
 * [Plunker](https://plnkr.co/) community for creating, collaborating on and sharing web development ideas
-* [HyperDev](https://hyperdev.com/) developer playground for building full-stack web apps, fast
+* [GoMix](https://community.gomix.me/) developer playground for both server side and frontend
 * [Tonic](https://tonicdev.com/) Node playground with NPM modules
 * [ShaderToy](https://www.shadertoy.com/) Social ranking based WebGL shaders
 * [Shader Frog](http://shaderfrog.com/app/)
