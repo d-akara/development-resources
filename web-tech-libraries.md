@@ -157,6 +157,7 @@
 * [Slate](https://github.com/ianstormtaylor/slate) Customizable rich text editor
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
 * [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work [short review] (https://www.briefs.fm/3-minutes-with-kent/21)
+* [StyleTron](http://styletron.js.org/) CSS-in-JS engine built from the ground up for high-performance
 * [Bulma](http://bulma.io/) CSS designed with flexbox
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
 * [Cleave](https://github.com/nosir/cleave.js) UI enforced field validations and formatted input
