@@ -4,7 +4,7 @@
 
 * [Jasmine](http://jasmine.github.io/) JS testing framework
 * [Mocha](Mocha is a feature-rich JavaScript test framework) Mocha is a feature-rich JavaScript test framework
-* [jest](https://github.com/facebook/jest) unit testing, automatic mocking, parallel execution using workers [discussion](https://news.ycombinator.com/item?id=12629743)
+* [jest](https://github.com/facebook/jest) unit testing, automatic mocking, parallel execution using workers [discussion](https://news.ycombinator.com/item?id=12629743), [discussion2](https://news.ycombinator.com/item?id=13128146)
     * [VS Code Plugin](https://github.com/orta/vscode-jest) live test running in editor
 * [intern](https://github.com/theintern/intern) complete JavaScript software testing system
 * [cypress](https://www.cypress.io/) $ future.  innovative advanced automated testing framework
