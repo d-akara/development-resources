@@ -60,6 +60,7 @@
 * [stacktrace.js](https://www.stacktracejs.com/) Generate, parse, and enhance JavaScript stack traces in all web browsers
 * [notate](https://github.com/scottnonnenberg/notate) Making it easier to debug asynchronous errors in javascript
 * [hash-it](https://github.com/planttheidea/hash-it) Create hash for any JS object
+* [deePool](https://github.com/getify/deePool) JS object pool
 
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
