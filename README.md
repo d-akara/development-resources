@@ -295,7 +295,7 @@
 * [WebGL Studio](http://webglstudio.org/)
 * [SourceLair](https://www.sourcelair.com/home)
 * [Spotlight.io](https://stoplight.io/) Visual API modeling
-* [PolyBit](https://polybit.com/) Node project hosting
+* [stdlib](https://stdlib.com/) Node project hosting.  Function as a service
 * [MPLAB](https://mplabxpress.microchip.com/mplabcloud/example/gettingstarted?board=xpress)
 
 ## Tools
