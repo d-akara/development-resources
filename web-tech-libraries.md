@@ -10,7 +10,7 @@
 * [cypress](https://www.cypress.io/) $ future.  innovative advanced automated testing framework
 * [wallaby](https://wallabyjs.com/) $ realtime test runner with editor integration
 * [AVA](https://github.com/avajs/ava) futuristic test runner
-* [nightwatch](http://nightwatchjs.org/) browser automation testing
+* [nightwatch](http://nightwatchjs.org/) browser automation testing [discussion](https://twitter.com/mpjme/status/811184862954737665)
 * [nightmare](https://github.com/segmentio/nightmare) browser automation testing
 * [zombie](https://github.com/assaf/zombie) fast headless browser testing
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
