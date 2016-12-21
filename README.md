@@ -180,6 +180,7 @@
 
 ## Interactive learning
 
+* [LiveCoding](https://www.livecoding.tv/) Watch and ask questions of live coders
 * [CS Unplugged](http://csunplugged.org/) Introduction to CS without computers.  Great for kids.
 * [Scratch](https://scratch.mit.edu/) Introduction to coding for kids
 * [Code Studio](https://studio.code.org/) Introduction to coding for kids
