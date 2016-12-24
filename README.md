@@ -327,3 +327,4 @@
 * [HackerSearch.io](http://hackersearch.io/) Search all code on github
 * [BlackDuck](http://code.openhub.net/) Open source code search engine
 * [LetsEncrypt](https://letsencrypt.org/) free certificate authority
+* [RegexGen](https://runkit.com/npm/regexgen) Generate regex from list of target matches
