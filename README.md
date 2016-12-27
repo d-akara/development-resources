@@ -229,6 +229,7 @@
 * [GoMix](https://community.gomix.me/) developer playground for both server side and frontend
 * [Runkit](https://runkit.com/home) Node playground with NPM modules
 * [ShaderToy](https://www.shadertoy.com/) Social ranking based WebGL shaders
+* [VertexShaderArt](https://www.vertexshaderart.com/) Vertex shaders
 * [Shader Frog](http://shaderfrog.com/app/)
 * [Javascript Event Loop](http://latentflip.com/loupe/)
 * [JS Object Playground](http://www.objectplayground.com/)
