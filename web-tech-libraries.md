@@ -216,19 +216,19 @@
 * [Electron](http://electron.atom.io/) Web technologies as desktop applications [Essential Electron](http://jlord.us/essential-electron/)
 * [NW.js](http://nwjs.io/) Web technologies as desktop applications
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) Starter skeleton framework for server application
+* [uWebSockets](https://github.com/alexhultman/uWebSockets) Highly scalable WebSocket server library
+* [deepstream.io](https://deepstream.io/) a fast, secure and scalable websocket & tcp server for mobile, web & iot
 * [socket.io](https://github.com/socketio/socket.io/) Realtime application framework
 * [restify](https://github.com/restify/node-restify) framework for server REST APIs
 * [FFI](https://github.com/node-ffi/node-ffi) Foreign function interface.  Call c functions from node
 * [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) Worker API with native threads
 * [klyng](https://github.com/Mostafa-Samir/klyng) Distributed computing
 * [EMS](https://github.com/syntheticsemantics/ems) Shared memory parellelism for node
-* [uWebSockets](https://github.com/alexhultman/uWebSockets) Highly scalable WebSocket server library
 * [micro.js](https://github.com/zeit/micro) Micro services library
 * [feathers](http://feathersjs.com/) minimalist real-time framework for rapid prototype development
 * [Nodal](http://www.nodaljs.com/) API services on node
 * [loopback](http://loopback.io/) Server API Framework.  
     * [IBM API Connect](https://developer.ibm.com/apiconnect/) UI management and API authoring on top of loopback 
-* [deepstream.io](https://deepstream.io/) a fast, secure and scalable websocket & tcp server for mobile, web & iot
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
