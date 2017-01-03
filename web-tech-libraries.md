@@ -303,6 +303,7 @@
 * [licecap](http://www.cockos.com/licecap/) record animated gif windows/osx
 * [rollup.js](http://rollupjs.org) next generation module bundler.  tree-shaking
 * [Webpack](https://webpack.github.io/) Very configurable supporting large scale development
+* [Fuse-Box](https://github.com/fuse-box/fuse-box) blazing fast js bundler/loader with a comprehensive API 
 * [Broswerify](http://browserify.org/) Easiest to setup and use module builder
 * [GitUp](http://gitup.co/) OSX graphical Git management
 * [GitKraken](https://www.gitkraken.com/) cross platform graphical Git management
