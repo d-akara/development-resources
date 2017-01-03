@@ -64,6 +64,7 @@
 * [hash-it](https://github.com/planttheidea/hash-it) Create hash for any JS object
 * [deePool](https://github.com/getify/deePool) JS object pool
 * [VocaJS](https://vocajs.com/) JS String library
+* [Swivel](https://github.com/bevacqua/swivel) Communication channels across pages using service worker
 
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
