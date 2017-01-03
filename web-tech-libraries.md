@@ -16,6 +16,7 @@
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
 * [stylelint](http://stylelint.io/) Enforce best practices for stylesheets
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
+    * [eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) Add browser compatibility linting
 * [flow](http://flowtype.org/) powerful static type checking for JavaScript.  [Finds issues even missed in TypeScript](https://gist.github.com/jeffmo/ef9214ca3acfe76c54a237b5710d37be) - [Flow vs TypeScript](http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/) - [Flow React discussion](https://discuss.reactjs.org/t/if-typescript-is-so-great-how-come-all-notable-reactjs-projects-use-babel/4887)
 * [nyc](https://github.com/bcoe/nyc) improvements built on instanbul coverage tool
 * [chai](https://github.com/chaijs/chai) BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
