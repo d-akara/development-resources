@@ -214,6 +214,7 @@
 * [timbre.js](http://mohayonao.github.io/timbre.js/) Objective sound programming
 * [tonal.js](https://github.com/danigb/tonal) Funtional music theory library
 * [flocking](https://github.com/colinbdclark/Flocking) audio synthesizer library
+* [jsfx](https://github.com/loov/jsfx) JavaScript sound effect generator
 
 ## NodeJS
 * [Electron](http://electron.atom.io/) Web technologies as desktop applications [Essential Electron](http://jlord.us/essential-electron/)
