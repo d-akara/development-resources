@@ -58,6 +58,7 @@
 * [cuid](https://github.com/ericelliott/cuid) Collision-resistant ids optimized for horizontal scaling and performance
 * [stamp-it](https://github.com/stampit-org/stampit/) Composable object factories
 * [MixWith](https://github.com/justinfagnani/mixwith.js) Composable classes with [mixins](http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/)
+* [typescript-mixins](https://github.com/nch3v/typescript-mixins) Mixin implementation for typescript
 * [DOMPurify](https://github.com/cure53/DOMPurify) XSS sanitizer for HTML, MathML and SVG
 * [stacktrace.js](https://www.stacktracejs.com/) Generate, parse, and enhance JavaScript stack traces in all web browsers
 * [notate](https://github.com/scottnonnenberg/notate) Making it easier to debug asynchronous errors in javascript
