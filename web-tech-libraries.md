@@ -188,7 +188,7 @@
 * [Velocity](http://velocityjs.org/) animation library
 * [Anime.js](https://github.com/juliangarnier/anime) animation library
 * [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
-* [mojs](https://github.com/legomushroom/mojs) motion graphics library
+* [mojs](https://github.com/legomushroom/mojs) motion graphics library.  [Workflow](https://vimeo.com/185587462) with editing tools.
 * [Aframe](https://github.com/aframevr/aframe/) 3D Web VR
 * [Matter.js](https://github.com/liabru/matter-js) 2D rigid body physics engine for the web
 * [g9](https://github.com/bijection/g9) Automatically interactive graphics for the web
