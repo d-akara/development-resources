@@ -59,6 +59,7 @@
 * [CSS Weekly](http://css-weekly.com/archives/)
 * [Codrops Collective](http://tympanus.net/codrops/collective/)
 * [Javascript Weekly](http://javascriptweekly.com/latest)
+* [Full Scale JavaScript](http://www.fullscalejs.com)
 * [ES.next News](http://esnextnews.com/)
 * [Web Ops Weekly](http://webopsweekly.com/latest)
 * [Node Weekly](http://nodeweekly.com/latest)
