@@ -34,6 +34,7 @@
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
 * [Iterall](https://github.com/leebyron/iterall) Iterate over any collection
+* [Moize](https://github.com/planttheidea/moize) Fast memoize function
 * [MobX](https://github.com/mobxjs/mobx) State management by transparently applying functional reactive programming (TFRP) [Discussion MobX Redux](https://news.ycombinator.com/item?id=11181980) - [MobX vs Redux](https://discuss.reactjs.org/t/redux-or-mobservable-what-to-choose/2453) - [Formidable article](http://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/)
     * [discussion](https://news.ycombinator.com/item?id=12629301)
 * [Redux](https://github.com/reactjs/redux) State container
