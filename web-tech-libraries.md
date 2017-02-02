@@ -195,6 +195,7 @@
 * [g9](https://github.com/bijection/g9) Automatically interactive graphics for the web
 * [choreographer](https://github.com/christinecha/choreographer-js) Library for complex CSS animations
 * [Opentype.js](http://opentype.js.org/) Draw opentype and truetype fonts on canvas
+* [Jimp](https://github.com/oliver-moran/jimp) Image manipulation library
 
 ## Visualization
 * [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
