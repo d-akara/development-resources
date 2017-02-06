@@ -32,6 +32,7 @@
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
 * [Crio](https://github.com/planttheidea/crio) Immutable library compatible with other collection libraries
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
+* [mnemonist](https://github.com/Yomguithereal/mnemonist) JS data structures
 * [Mindex](https://github.com/internalfx/mindex) Fast javascript compound index
 * [Iterall](https://github.com/leebyron/iterall) Iterate over any collection
 * [Moize](https://github.com/planttheidea/moize) Fast memoize function
