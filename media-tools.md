@@ -30,6 +30,8 @@
 * [Shader Works](https://blendermarket.com/products/shaderworks?utm_content=buffer433f6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Hard OPS](https://www.blendermarket.com/products/hardops?utm_content=buffer34ec4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [EasyFx](http://www.rymdnisse.net/download/blender-addons/easyfx/)
+* [Blender Filter Pack](https://blendermarket.com/products/blender-filterpack-n-1?utm_content=buffer1929c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Gaffer](https://blendermarket.com/products/gaffer-light-manager)
 
 ### Articles / Tips / Information
 * [Blender Nebulas](http://www.markkingsnorth.com/2017/01/31/blender-nebula-group-node-tutorial-download/)
