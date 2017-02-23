@@ -12,6 +12,7 @@
 * [AVA](https://github.com/avajs/ava) futuristic test runner
 * [nightwatch](http://nightwatchjs.org/) browser automation testing [discussion](https://twitter.com/mpjme/status/811184862954737665)
 * [nightmare](https://github.com/segmentio/nightmare) browser automation testing
+* [TA](https://github.com/tebelorg/TA.Gui) browser recording and automation
 * [zombie](https://github.com/assaf/zombie) fast headless browser testing
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
 * [stylelint](http://stylelint.io/) Enforce best practices for stylesheets
