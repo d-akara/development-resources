@@ -41,6 +41,7 @@
 * [Motion Tool](https://blendermarket.com/products/motiontool)
 * [Random Object Array](https://blendermarket.com/products/random-object-array)
 * [Stencil Dynamic Weathering](https://blendermarket.com/products/stencil-kit-dynamic-weathering-node-kit)
+* [Glitch FX](https://blendermarket.com/products/distort-premium-glitch-fx-for-blender-3d)
 
 ### Articles / Tips / Information
 * [Blender Nebulas](http://www.markkingsnorth.com/2017/01/31/blender-nebula-group-node-tutorial-download/)
