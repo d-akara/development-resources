@@ -120,7 +120,7 @@
 * [Horizon.io](http://horizon.io/) library built for RethinkDB
 * [TingoDB](https://github.com/sergeyksv/tingodb) JavaScript DB API compatible with MongoDB
 * [NeDB](https://github.com/louischatriot/nedb) JavaScript DB API compatible with MongoDB
-* [localForage](https://mozilla.github.io/localForage/) Local storage library for browsers IndexDB and WebSQL
+* [localForage](https://localforage.github.io/localForage/) Local storage library for browsers IndexDB and WebSQL
 * [Dexie](http://dexie.org/) Local storage IndexDB wrapper library
 * [ClickHouse](https://clickhouse.yandex/) Extremely fast columnar DB [discussion](https://news.ycombinator.com/item?id=11908254)
 * [MonetDB](https://www.monetdb.org/blog/monetdb-embraces-nodejs) columnar DB with native NodeJS support [discussion](https://news.ycombinator.com/item?id=11896105)
