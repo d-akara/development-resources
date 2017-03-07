@@ -253,7 +253,7 @@
 * [TensorFlow](http://playground.tensorflow.org) Neural network playground
 * [Elm](https://glot.io/) Multi language playground
 * [WebAssembly](http://ast.run/) WASM web assembly
-* [WebAssembly Explorer](http://mbebenita.github.io/WasmExplorer/) C++ compiler to WASM playground
+* [WebAssembly Explorer](http://mbebenita.github.io/WasmExplorer/) C++ compiler to WASM playground.  [Introduction](https://hacks.mozilla.org/2017/03/previewing-the-webassembly-explorer/)
 
 ## Books and references
 * [Eloquent JavaScript](http://eloquentjavascript.net/) Getting started with JS programming
