@@ -241,6 +241,9 @@
 * [loopback](http://loopback.io/) Server API Framework.  
     * [IBM API Connect](https://developer.ibm.com/apiconnect/) UI management and API authoring on top of loopback 
 * [Incheon](http://incheon.gg/) Node game server
+* [Vorpal](http://vorpal.js.org/) CLI command line framework
+* [Caporal](https://github.com/mattallty/Caporal.js) CLI command line framework
+* [Yargs](https://github.com/yargs/yargs) Advanced CLI argument parser
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
