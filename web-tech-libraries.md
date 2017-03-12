@@ -29,6 +29,7 @@
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
 * [lodash](https://lodash.com/) General utility library performance focused with FP concepts
+* [FPO](https://github.com/getify/fpo) Functional library using named arguments
 * [Highland](https://github.com/caolan/highland) Utility library using high-level streams seamless async and sync
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
 * [Crio](https://github.com/planttheidea/crio) Immutable library compatible with other collection libraries
