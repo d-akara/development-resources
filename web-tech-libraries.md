@@ -3,7 +3,7 @@
 ## Testing and Code Quality
 
 * [Jasmine](http://jasmine.github.io/) JS testing framework
-* [Mocha](Mocha is a feature-rich JavaScript test framework) Mocha is a feature-rich JavaScript test framework
+* [Mocha](https://mochajs.org/) Mocha is a feature-rich JavaScript test framework
 * [jest](https://github.com/facebook/jest) unit testing, automatic mocking, parallel execution using workers [discussion](https://news.ycombinator.com/item?id=12629743), [discussion2](https://news.ycombinator.com/item?id=13128146)
     * [VS Code Plugin](https://github.com/orta/vscode-jest) live test running in editor
 * [intern](https://github.com/theintern/intern) complete JavaScript software testing system
@@ -43,6 +43,7 @@
     * [discussion](https://news.ycombinator.com/item?id=12629301)
 * [Redux](https://github.com/reactjs/redux) State container
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
+* [optika](https://github.com/phadej/optika) optics for JavaScript.  Functional Programming
 * [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
 * [JavaScript Fast Array](https://github.com/ImJustAskingDude/JavascriptFastArray) Leverages 3d array for high performance up to 1 billion indices
 * [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
