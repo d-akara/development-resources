@@ -164,6 +164,8 @@
 * [bliss](http://blissfuljs.com/) smaller more modern jQuery like library
 * [webcomponents](https://github.com/webcomponents/webcomponentsjs) Polyfill library for web components standard
 * [hyperscript](https://github.com/dominictarr/hyperscript) Inline template creation in JavaScript.  [Article](http://lhorie.github.io/mithril-blog/lessons-learned-from-angular.html) discussing advantages of this concept.  Dojo 2 [research item](https://github.com/dojo/meta/issues/11) with many references to hyperscript.
+* [hyperHTML](https://github.com/WebReflection/hyperHTML) A virtual DOM [alternative](https://medium.com/@WebReflection/hyperhtml-a-virtual-dom-alternative-279db455ee0e)
+* [hyperApp](https://github.com/hyperapp/hyperapp)Elm-like state management and a virtual DOM engine
 
 ## UI
 * [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
