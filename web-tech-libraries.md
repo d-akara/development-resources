@@ -52,8 +52,6 @@
 * [transducers.js](https://github.com/jlongster/transducers.js) Composable algorithmic transformations.  [Tranducers performance](http://jlongster.com/Transducers.js-Round-2-with-Benchmarks)
 * [Stream.js](https://github.com/winterbe/streamjs) Lazy object streaming pipeline for JavaScript
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Observables + Operators + Schedulers
-* [Postal](https://github.com/postaljs/postal.js) message bus library
-* [Mesh](http://mesh.js.org/) message bus library
 * [jailed](https://github.com/asvd/jailed) Execute JavaScript in secure sandbox
 * [JS-interpreter](https://github.com/NeilFraser/JS-Interpreter) sandboxed JavaScript interpreter in JS
 * [expressions-js](https://github.com/chip-js/expressions-js/blob/master/src/expressions.js) simplified JavaScript expressions into executable functions
@@ -72,6 +70,9 @@
 * [deePool](https://github.com/getify/deePool) JS object pool
 * [VocaJS](https://vocajs.com/) JS String library
 * [Swivel](https://github.com/bevacqua/swivel) Communication channels across pages using service worker
+* [across-tables](https://github.com/wingify/across-tabs) Communcation across cross origin pages
+* [Postal](https://github.com/postaljs/postal.js) message bus library
+* [Mesh](http://mesh.js.org/) message bus library
 
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
