@@ -35,6 +35,7 @@
 * [Gaffer](https://blendermarket.com/products/gaffer-light-manager)
 * [Pyro Shader](https://blendermarket.com/products/pyro-shader-pack?utm_content=buffer43064&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Lens Flares](https://blendermarket.com/products/flares-wizard/?utm_content=buffer0b22f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Lens Flares](https://www.blendernation.com/2017/04/18/blender-optical-flare-add-blender-vse/?utm_source=dlvr.it&utm_medium=twitter)
 * [Auto Rig Pro](https://blendermarket.com/products/auto-rig-pro)
 * [Ice Tools Pro](https://blendermarket.com/products/ice-tools-pro)
 * [Bake Tool](https://blendermarket.com/products/baketool)
