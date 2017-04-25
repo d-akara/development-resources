@@ -114,6 +114,7 @@
 * [xtype.js](http://xtype.js.org/overview) data validation for JavaScript
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
 * [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
+* [ElasticLunr](http://elasticlunr.com/) Lightweight full-text search engine in Javascript for browser search and offline search
 
 ### Analytics, AI Learning
 * [synaptic](https://github.com/cazala/synaptic) architecture-free neural network library for node.js and the browser
