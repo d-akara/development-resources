@@ -44,6 +44,7 @@
 * [Stencil Dynamic Weathering](https://blendermarket.com/products/stencil-kit-dynamic-weathering-node-kit)
 * [Glitch FX](https://blendermarket.com/products/distort-premium-glitch-fx-for-blender-3d)
 * [Color Tool](https://www.blendernation.com/2017/03/08/kaleidoscope-add-small-package-nodes-blender/)
+* [Decal Machine](https://blendermarket.com/products/DECALmachine)
 
 ### Articles / Tips / Information
 * [Blender Nebulas](http://www.markkingsnorth.com/2017/01/31/blender-nebula-group-node-tutorial-download/)
