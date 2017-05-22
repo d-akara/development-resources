@@ -299,6 +299,7 @@
 * [SourceLair](https://www.sourcelair.com/home)
 * [Spotlight.io](https://stoplight.io/) Visual API modeling
 * [stdlib](https://stdlib.com/) Node project hosting.  Function as a service
+* [Glitch](https://glitch.com/) Node project building and hosting
 * [MPLAB](https://mplabxpress.microchip.com/mplabcloud/example/gettingstarted?board=xpress)
 
 ## Tools
