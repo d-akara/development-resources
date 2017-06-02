@@ -58,6 +58,7 @@
 * [Speedup Cycles](http://blender.stackexchange.com/questions/15559/speedup-cycles-for-material-only-renders)
 * [Speed rending with direct lighting](http://blender.stackexchange.com/questions/28343/rendering-with-direct-lighting-takes-too-long)
 * [Speedup Cycles](http://boundlessblending.com/blender-fast-rendering/)
+* [Speedup Using Denoizer for Cycles](https://www.blendernation.com/2017/05/28/drastically-reduce-rendertime-blender-cycles/)
 * [Blender like VIM](https://learntemail.sam.today/blog/blender-for-hackers-3d-modeling-is-just-like-using-vim/)
 * [Animation Nodes](https://www.blendernation.com/2015/10/21/animation-nodes-showreel-2015/)
 * [BlendMorph](https://www.blendernation.com/2016/08/26/blendmorph-animations/)
