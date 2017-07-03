@@ -199,6 +199,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
 * [regl](https://github.com/mikolalysenko/regl) Functional WebGL
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
+* [Paper.js](http://paperjs.org/about/) Vector graphics on canvas
 * [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
 * [Velocity](http://velocityjs.org/) animation library
 * [Anime.js](https://github.com/juliangarnier/anime) animation library
