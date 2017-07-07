@@ -1,4 +1,4 @@
-## Functional Collections
+## Functional Collections Streams
 - [Eclipse Collections](https://www.eclipse.org/collections/#)
 - [Cyclops-React](https://github.com/aol/cyclops-react)
 - [StreamEx](https://github.com/amaembo/streamex)
@@ -6,3 +6,5 @@
 - [RxJava](https://github.com/ReactiveX/RxJava)
 - [Guava](https://github.com/google/guava)
 - [FastUtil](http://fastutil.di.unimi.it/)
+- [jOOλ](https://github.com/jOOQ/jOOL)
+- [Project Reactor](http://projectreactor.io/)
