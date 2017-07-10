@@ -67,6 +67,7 @@
 * [Render Farm](https://www.blendernation.com/2017/01/14/tutorial-create-render-farm-size/)
 * [IK Particles](https://www.blendernation.com/2017/01/24/ik-particles-link/)
 * [Create realistic textures](https://www.blendernation.com/2017/02/19/fast-method-creating-realistic-textures/)
+* [Principled Shader](https://www.youtube.com/watch?v=4H5W6C_Mbck)
 
 ### Video tutorial tips
 * [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
