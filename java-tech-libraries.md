@@ -8,3 +8,6 @@
 - [FastUtil](http://fastutil.di.unimi.it/)
 - [jOOλ](https://github.com/jOOQ/jOOL)
 - [Project Reactor](http://projectreactor.io/)
+
+## Networking
+- [Retrofit](http://square.github.io/retrofit/)
