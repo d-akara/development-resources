@@ -1,6 +1,6 @@
 ## Functional Collections Streams
 - [Eclipse Collections](https://www.eclipse.org/collections/#)
-- [Cyclops-React](https://github.com/aol/cyclops-react)
+- [Cyclops-React](https://github.com/aol/cyclops-react) [Tutorial](https://medium.com/@johnmcclean/reactive-programming-with-java-8-and-simple-react-the-tutorial-3634f512eeb1)
 - [StreamEx](https://github.com/amaembo/streamex)
 - [Vavr](http://www.vavr.io/)
 - [RxJava](https://github.com/ReactiveX/RxJava)
