@@ -147,6 +147,7 @@
 * [Relay](https://facebook.github.io/relay/) manages the flow of data between clients and backends. Based on GraphQL
     * [discussion and resource references for both Relay and Apollo](https://news.ycombinator.com/item?id=12703125)
 * [JSON API](http://jsonapi.org/implementations/#client-libraries-javascript) Alternative to REST and GraphQL.  Need to further assess implementations
+* [workbox](https://workboxjs.org/) JavaScript Libraries for Progressive Web Apps
     
 
 ## View libraries
