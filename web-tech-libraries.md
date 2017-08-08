@@ -87,6 +87,7 @@
 * [multithread.js](https://github.com/keithwhor/multithread.js) run code inline within a web worker
 * [thaw.js](http://robertleeplummerjr.github.io/thaw.js/) synthetic asynchronous processing
 * [bluebird](https://github.com/petkaantonov/bluebird) Full featured fast promise library
+* [posterus](https://github.com/Mitranim/posterus) Composable async primitives (futures) with true cancelation, control over scheduling, and coroutines
 * [aigle](https://github.com/suguru03/aigle) Fast promise library [competitve](https://hackernoon.com/aigle-vs-bluebird-5ed3becb4c4c) with bluebird
 * [setImmediate](https://github.com/YuzuJS/setImmediate) Access to macro task queue for more efficient setTimeout
 * [Task.js](https://github.com/icodeforlove/task.js/) Distribute across workers for Node and Web
