@@ -322,6 +322,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 ## Tools
 * [Frida](https://github.com/frida/frida) Debugging through injecting JavaScript into native apps
 * [Panopticon](https://panopticon.re/) Low level debugging cross platform
+* [gdbgui](https://github.com/cs01/gdbgui) browser-based frontend to gdb (gnu debugger)
 * [UIforETW](https://github.com/google/UIforETW) Low level performance tracing on Windows
 * [node-inspector](https://github.com/node-inspector/node-inspector) Node.js debugger based on Blink
 * [Devtron](http://electron.atom.io/devtron/) Debugger for Electron
