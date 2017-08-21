@@ -15,6 +15,7 @@
 * [TA](https://github.com/tebelorg/TA.Gui) browser recording and automation
 * [zombie](https://github.com/assaf/zombie) fast headless browser testing
 * [chromeless](https://github.com/graphcool/chromeless) chrome headless browser automation testing
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
 * [stylelint](http://stylelint.io/) Enforce best practices for stylesheets
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
