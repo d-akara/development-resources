@@ -26,6 +26,7 @@
 * [Javascript on Flipboard](https://flipboard.com/topic/javascript)
 * [PonyFoo](http://ponyfoo.com/) Technical articles focused on core language and tools
 * [InfoQ](https://www.infoq.com/search.action?queryString=javascript&page=1&searchOrder=date&sst=JhWYUYyHfL1eTeJU) JavaScript articles on InfoQ
+* [CodeBurst.io](https://codeburst.io/) web development articles and tutorials
 * [Google Developers](https://developers.google.com/web/updates/) Google developer news
 * [SitePoint](http://www.sitepoint.com/) Technical articles with broad focus
 * [Mozilla Hacks](https://hacks.mozilla.org/articles/) Technical articles focus on emerging technology
