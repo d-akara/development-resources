@@ -51,6 +51,7 @@
 * [JavaScript Fast Array](https://github.com/ImJustAskingDude/JavascriptFastArray) Leverages 3d array for high performance up to 1 billion indices
 * [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 * [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with [broadest](http://daily-javascript.com/articles/little-loader/) browser support
+* [Lozad](https://bestof.js.org/projects/lozad) uses intersection observer to more efficiently load resources
 * [transducers-js](https://github.com/cognitect-labs/transducers-js) Composable algorithmic transformations
 * [transducers.js](https://github.com/jlongster/transducers.js) Composable algorithmic transformations.  [Tranducers performance](http://jlongster.com/Transducers.js-Round-2-with-Benchmarks)
 * [Stream.js](https://github.com/winterbe/streamjs) Lazy object streaming pipeline for JavaScript
