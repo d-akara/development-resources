@@ -1,11 +1,17 @@
-# Server Networking
+# Web Game Tech
+## Server Networking
 * [SocketCluster](https://github.com/socketcluster/socketcluster/) direct client-server communication and group communication via pub/sub channels. built on [uWebSockets](https://github.com/uNetworking/uWebSockets)
 * [DeepStream.io](https://github.com/deepstreamIO/deepstream.io) server that syncs data and sends events across millions of clients
+  * [Building a multiplayer space shooter: Part I (Example) | hack.guides()](https://www.pluralsight.com/guides/front-end-javascript/building-a-multiplayer-space-shooter-part-i)
+  * [tutorial demo](https://github.com/mdramos/deepGame)
 * [Lance](https://github.com/lance-gg/Lance) Multiplayer game server based on Node.JS
 
-
-The list of items to be classified/evaluated
+## References
 * [gamedev-js](https://github.com/gamedev-js/gamedev-js) list of JS related game tech and libraries
+* [creative-coding](https://github.com/terkelg/awesome-creative-coding) resources useful for many visual applications
+
+---
+The list of items to be classified/evaluated
 * [Top 15: Best open source javascript game engines | Our Code World](http://ourcodeworld.com/articles/read/308/top-15-best-open-source-javascript-game-engines)
 * [#gamedev hashtag on Twitter](https://twitter.com/hashtag/gamedev?src=hash)
 * [gamedev - game developmen](https://www.reddit.com/r/gamedev/)
@@ -20,7 +26,6 @@ The list of items to be classified/evaluated
 * [Particle effects are easy](http://www.playfuljs.com/particle-effects-are-easy/)
 * [HTML5 Game Devs Forum](http://www.html5gamedevs.com/)
 * [Buildbox - Drag and Drop Game Maker](https://www.buildbox.com/)
-* [Building a multiplayer space shooter: Part I (Example) | hack.guides()](https://www.pluralsight.com/guides/front-end-javascript/building-a-multiplayer-space-shooter-part-i)
 * [WhitestormJS - Home](https://whsjs.io/#/)
 * [algorithm - Simple noise generation - Game Development Stack Exchange](http://gamedev.stackexchange.com/questions/20880/simple-noise-generation)
 * [Game Development Stack Exchange](http://gamedev.stackexchange.com/)
