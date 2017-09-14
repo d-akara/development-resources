@@ -1,10 +1,17 @@
+# Server Networking
+* [SocketCluster](https://github.com/socketcluster/socketcluster/) direct client-server communication and group communication via pub/sub channels. built on [uWebSockets](https://github.com/uNetworking/uWebSockets)
+* [DeepStream.io](https://github.com/deepstreamIO/deepstream.io) server that syncs data and sends events across millions of clients
+* [Lance](https://github.com/lance-gg/Lance) Multiplayer game server based on Node.JS
+
+
+The list of items to be classified/evaluated
+* [gamedev-js](https://github.com/gamedev-js/gamedev-js) list of JS related game tech and libraries
 * [Top 15: Best open source javascript game engines | Our Code World](http://ourcodeworld.com/articles/read/308/top-15-best-open-source-javascript-game-engines)
 * [#gamedev hashtag on Twitter](https://twitter.com/hashtag/gamedev?src=hash)
 * [gamedev - game developmen](https://www.reddit.com/r/gamedev/)
 * [Global Cross Platform Realtime Multiplayer Game Framework | Photon: Multiplayer Made Simple](https://www.photonengine.com/en/Realtime)
 * [Agora](https://hydra.agoragames.com/features/)
 * [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org/)
-* [Incheon - Online. Multiplayer. JS.](http://incheon.gg/)
 * [Build New Games](http://buildnewgames.com/)
 * [Real Time Multiplayer in HTML5 - Build New Games](http://buildnewgames.com/real-time-multiplayer/)
 * [Atomic Game Engine](http://atomicgameengine.com/)
