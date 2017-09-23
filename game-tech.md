@@ -9,6 +9,7 @@
 ## References
 * [gamedev-js](https://github.com/gamedev-js/gamedev-js) list of JS related game tech and libraries
 * [creative-coding](https://github.com/terkelg/awesome-creative-coding) resources useful for many visual applications
+* [discussion](https://news.ycombinator.com/item?id=15318530) Good discussion on techniques referring to an [article](https://github.com/sgoedecke/socket-io-game/blob/master/BLOG.md)
 
 ---
 The list of items to be classified/evaluated
