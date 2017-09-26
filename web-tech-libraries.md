@@ -111,6 +111,7 @@
 * [Ohm](https://github.com/cdglabs/ohm) library and language for building parsers, interpreters, compilers, etc. [Intro article](https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/)
 * [Cheerio](https://cheerio.js.org/) server side JSON and XML fast parser
 * [NDJson](https://github.com/maxogden/ndjson) Streaming JSON.  [reference article](https://www.bennadel.com/blog/3233-parsing-and-serializing-large-datasets-using-newline-delimited-json-in-node-js.htm)
+* [cherow](https://github.com/cherow/cherow) Fast ECMAScript 2018 parser
 
 ### Data Search and Validate
 * [JMESPath](http://jmespath.org/) query language for JSON
