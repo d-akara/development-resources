@@ -285,7 +285,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Leaflet](http://leafletjs.com/2016/09/27/leaflet-1.0-final.html) mobile-friendly interactive maps
 
 ## Future
-* [Nexus.js](https://medium.com/@voodooattack/multi-threaded-javascript-introduction-faba95d3bd06#.lmmdbrfas) Multi threaded Node with no event loop
+* [tasklets](https://github.com/GoogleChromeLabs/tasklets) Attempt at more efficient use of WebWorkers. [discussion](https://news.ycombinator.com/item?id=15511519)
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
 * [ThinScript](https://github.com/evanw/thinscript) Language compiles to WebAssembly, JavaScript and C
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
