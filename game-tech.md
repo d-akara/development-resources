@@ -11,6 +11,7 @@
 * [creative-coding](https://github.com/terkelg/awesome-creative-coding) resources useful for many visual applications
 * [discussion](https://news.ycombinator.com/item?id=15318530) Good discussion on techniques referring to an [article](https://github.com/sgoedecke/socket-io-game/blob/master/BLOG.md)
 * [Emergence Vector](https://www.youtube.com/channel/UCLZcYVcdOyiHB_4z2mBkm8A) example JS, Go and WebRTC [discussion](https://news.ycombinator.com/item?id=15332187) some good info on WebRTC UDP and related [example](https://github.com/sgoedecke/socket-io-game) referenced in discussion
+* [instagib.io](https://github.com/schibir/instagib.io) example 2d webgl online multiplayer game
 
 ---
 The list of items to be classified/evaluated
