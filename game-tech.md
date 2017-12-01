@@ -5,6 +5,8 @@
   * [Building a multiplayer space shooter: Part I (Example) | hack.guides()](https://www.pluralsight.com/guides/front-end-javascript/building-a-multiplayer-space-shooter-part-i)
   * [tutorial demo](https://github.com/mdramos/deepGame)
 * [Lance](https://github.com/lance-gg/Lance) Multiplayer game server based on Node.JS
+## Libraries
+* [Merchant.js](https://github.com/Flaque/merchant.js) Library to assist with Idle game creations [discussion](https://news.ycombinator.com/item?id=15821020)
 
 ## References
 * [gamedev-js](https://github.com/gamedev-js/gamedev-js) list of JS related game tech and libraries
