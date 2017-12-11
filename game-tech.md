@@ -16,6 +16,7 @@
 * [instagib.io](https://github.com/schibir/instagib.io) example 2d webgl online multiplayer game
 * [Rocket](https://aochagavia.github.io/blog/rocket---a-rust-game-running-on-wasm/) Rust game converted to WASM
 * [Handmade Hero](https://handmadehero.org/) Exstensive material on game development
+* [Airma HN Discussion](https://news.ycombinator.com/item?id=15892066) Good discussion points on game development of a web game.
 
 ---
 The list of items to be classified/evaluated
