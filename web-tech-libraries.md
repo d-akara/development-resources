@@ -217,6 +217,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
 * [Velocity](http://velocityjs.org/) animation library
 * [Anime.js](https://github.com/juliangarnier/anime) animation library
+* [Popmotion](https://github.com/popmotion/popmotion) animiation library using functional API
 * [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
 * [mojs](https://github.com/legomushroom/mojs) motion graphics library.  [Workflow](https://vimeo.com/185587462) with editing tools.
 * [Aframe](https://github.com/aframevr/aframe/) 3D Web VR
