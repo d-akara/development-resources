@@ -168,6 +168,7 @@
 * [Box256](http://box-256.com/)
 * [Robo Dojo](http://robodojo.club)
 * [RoboCom](http://robocom.rrobek.de)
+* [Much Assembly Required](https://muchassemblyrequired.com/)
 
 ## Competitions
 * [Code Wars](http://www.codewars.com/)
