@@ -96,6 +96,9 @@
 * [setImmediate](https://github.com/YuzuJS/setImmediate) Access to macro task queue for more efficient setTimeout
 * [Task.js](https://github.com/icodeforlove/task.js/) Distribute across workers for Node and Web
 * [worker-render](https://github.com/canjs/worker-render) run SPA within a web worker
+* [greenlet](https://github.com/developit/greenlet) run async function in a web worker
+* [workerize](https://github.com/developit/workerize) run a module in a web worker
+* [comlink](https://github.com/GoogleChromeLabs/comlink) auto proxy to web worker
 
 ### Parsing and Serialization
 * [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
