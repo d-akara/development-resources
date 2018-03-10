@@ -231,7 +231,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [choreographer](https://github.com/christinecha/choreographer-js) Library for complex CSS animations
 * [Opentype.js](http://opentype.js.org/) Draw opentype and truetype fonts on canvas
 * [Jimp](https://github.com/oliver-moran/jimp) Image manipulation library
-* [Chroma.js](https://github.com/gka/chroma.js) Color manipulation library
+* [Chroma.js](https://github.com/gka/chroma.js) Color manipulation library. [Article](https://swizec.com/blog/make-things-pretty-chroma-js/swizec/8233)
 
 ## Visualization
 * [D3](https://github.com/mrdoob/three.js/) Library for document manipulation based on data
