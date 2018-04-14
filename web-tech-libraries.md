@@ -66,6 +66,7 @@
 * [nlp-compromise](https://github.com/nlp-compromise/nlp_compromise) NLP JavaScript library
 * [core-js](https://github.com/zloirock/core-js#supported-engines) Polyfills of ES6+ for older JavaScript engines.
 * [cuid](https://github.com/ericelliott/cuid) Collision-resistant ids optimized for horizontal scaling and performance
+* [ulid](https://github.com/ulid/javascript) Universally Unique Lexicographically Sortable Identifier
 * [stamp-it](https://github.com/stampit-org/stampit/) Composable object factories
 * [MixWith](https://github.com/justinfagnani/mixwith.js) Composable classes with [mixins](http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/)
 * [typescript-mixins](https://github.com/nch3v/typescript-mixins) Mixin implementation for typescript
