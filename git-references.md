@@ -1,5 +1,6 @@
 ### References
 [Git Flight Rules](https://github.com/k88hudson/git-flight-rules#i-accidentally-deleted-my-branch) The guide for when things go wrong
+[Git Tips](https://github.com/git-tips/tips) Most commonly used git tips and tricks
 
 `<remote>` = remote repository name.  Usually **origin** or **upstream**
 
