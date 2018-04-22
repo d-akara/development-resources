@@ -1,6 +1,6 @@
 ### References
-[Git Flight Rules](https://github.com/k88hudson/git-flight-rules#i-accidentally-deleted-my-branch) The guide for when things go wrong
-[Git Tips](https://github.com/git-tips/tips) Most commonly used git tips and tricks
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules#i-accidentally-deleted-my-branch) The guide for when things go wrong
+- [Git Tips](https://github.com/git-tips/tips) Most commonly used git tips and tricks
 
 `<remote>` = remote repository name.  Usually **origin** or **upstream**
 
@@ -12,7 +12,8 @@
 1. `git checkout <new branch name>` *switch working directory files to new branch*
 1. `git add ...` *mark changed files and new files you wish to commit to local repository*
 1. `git commit -m <message>` *save a verion of all added files in the local repository*
-1. `git push` *upload your committed changes to your github repository*
+1. `git push -u <remote> <new branch name>` *upload new branch to remote repository*
+  1. `git push` *After branch is pushed, 'git push' can be used for all other updates
 1. Create a pull request from the github page to ask original project owner to merge changes from your forked project.
 
 #### Syncing with updates from remote project
@@ -42,9 +43,15 @@
   - `git fetch <remote> --prune`
   
 ### Recover Something
+[How to undo (almost) anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
 - Restore deleted branch or lost commit
   1. `git reflog` *use to find commit id*
   1. `git checkout -b branch-name <commit id>` *creates new branch from commit*
+- Undo change already pushed
+  1. `git revert <SHA>` *creates a new commit that is the inverse of the given SHA.  Does not alter history*
+- Go back to previous version of file(s)
+  1. `git checkout -- <filename>` *replace with last committed version*
+
 
 ### GIT Config
 Remotes and trackingb information stored in `.git/config`
