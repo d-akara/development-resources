@@ -65,4 +65,5 @@
 - `git push <remote> tag` *push tag to remote repository*
 
 ### GIT Config
-Remotes and trackingb information stored in `.git/config`
+- Remotes and trackingb information stored in `.git/config`
+- Show location of all configs `git config --list --show-origin`
