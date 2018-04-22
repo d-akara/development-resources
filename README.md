@@ -199,6 +199,7 @@
 * [Learn Git](https://try.github.io/levels/1/challenges/1)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [CodeCademy Git](https://www.codecademy.com/learn/learn-git)
+* [Github Learning Lab](https://blog.github.com/2018-04-19-introducing-github-learning-lab/)
 * [Git Reference](http://www.ndpsoftware.com/git-cheatsheet.html) Visual diagram of git commands
 * [ES6 Katas](http://es6katas.org/) ES6 focused exercises
 * [Learn Advanced Javascript](http://ejohn.org/apps/learn/)
