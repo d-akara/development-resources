@@ -67,3 +67,5 @@
 ### GIT Config
 - Remotes and trackingb information stored in `.git/config`
 - Show location of all configs `git config --list --show-origin`
+- Useful log alias for config ```[alias]
+	lg = log --graph --pretty=format:'%C(yellow)%h%Creset%C(red)%d%Creset %C(cyan)(%cr)%Creset %C(green)%aN%Creset %s'```
