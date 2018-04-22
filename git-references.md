@@ -17,11 +17,18 @@
   1. `git push` *After branch is pushed, 'git push' can be used for all other updates
 1. Create a pull request from the github page to ask original project owner to merge changes from your forked project.
 
-#### Syncing with updates from remote project
+#### Syncing with updates from remote origin (your fork) project
 *Starting with a project that has aleady been cloned*
-1. `git fetch` *update your local copy of remote branches.  Does not change any local branches*
+1. `git fetch origin` *update your local copy of remote branches.  Does not change any local branches*
    - This is needed to stay in sync with changes others are doing in the remote repository
 1. `git merge <other branch>` *execute from your local working branch to merge in changes from another branch*
+
+#### Syncing with updates from remote upstream (original of fork) project
+*Starting with a project that has aleady been cloned*
+1. `git fetch remote` *update your local copy of remote branches.  Does not change any local branches*
+   - This is needed to stay in sync with changes others are doing in the remote repository
+1. `git merge <other branch>` *execute from your local working branch to merge in changes from another branch*
+
 
 ### Info From GIT
 - List files changed, merges, conflicts and general info
