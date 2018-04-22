@@ -1,5 +1,5 @@
 ### References
-- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules#i-accidentally-deleted-my-branch) The guide for when things go wrong
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) The guide for when things go wrong
 - [Git Tips](https://github.com/git-tips/tips) Most commonly used git tips and tricks
 - [Git Visual Reference](http://www.ndpsoftware.com/git-cheatsheet.html) Easily see what a command affects
 
@@ -60,6 +60,9 @@
 - Go back to previous version of file(s)
   1. `git checkout -- <filename>` *replace with last committed version*
 
+### Tags
+- `git tag <tagname>` *create a tag on local repository*
+- `git push <remote> tag` *push tag to remote repository*
 
 ### GIT Config
 Remotes and trackingb information stored in `.git/config`
