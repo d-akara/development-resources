@@ -305,6 +305,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [TurboScript](https://dump.01alchemist.com/2016/12/31/future-webhpc-parallel-programming-with-javascript-the-new-era-about-to-begin/) Parallel computing with JavaScript using shared memory and workers
 * [Jxcore](https://github.com/jxcore/jxcore) NodeJS for mobile and IoT
 * [Infamouse](https://infamous.io/) Performance focused web rendering engine
+* [JanusGraph](http://janusgraph.org/) Scalable distributed graph DB
 * [MapD](http://www.mapd.com/product/) GPU Accelerated SQL
 * [BlazeGraph](https://www.blazegraph.com/) GPU Acclerated RDF Graph DB
 * [BlazingDB](http://blazingdb.com/) GPU Acclerated SQL DB
