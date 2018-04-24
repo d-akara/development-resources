@@ -125,6 +125,7 @@
 * [Validate.js](http://validatejs.org/) declaritive validation of JavaScript objects
 * [SuperStruct](https://github.com/ianstormtaylor/superstruct) composable JavaScript validation
 * [Moment](http://momentjs.com/) JavaScript date parse, validate library
+* [Luxon](https://github.com/moment/luxon) A modern browser version of Moment
 * [date-fns](https://date-fns.org/) large collection of date functions
 * [xtype.js](http://xtype.js.org/overview) data validation for JavaScript
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
