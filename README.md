@@ -337,3 +337,4 @@
 * [LetsEncrypt](https://letsencrypt.org/) free certificate authority
 * [RegexGen](https://runkit.com/npm/regexgen) Generate regex from list of target matches
 * [NetRenderer](https://netrenderer.com/index.php) Internet Explorer online renderer
+* [ShapeCatcher](http://shapecatcher.com/) find Unicode characters by drawing shapes
