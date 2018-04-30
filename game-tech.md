@@ -20,6 +20,7 @@
 * [Airma HN Discussion](https://news.ycombinator.com/item?id=15892066) Good discussion points on game development of a web game.
 * [Simple AI](https://www.sitepoint.com/game-ai-the-bots-strike-back/) simple algorithms to simulate AI
 * [Coding Train](https://twitter.com/shiffman) Lots of videos on useful algorithms
+* [Intuitive Game Design](http://stfj.net/DesigningForSubwayLegibility/) Make games easily understood, quick adoption
 
 ---
 The list of items to be classified/evaluated
