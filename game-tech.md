@@ -22,6 +22,7 @@
 * [Simple AI](https://www.sitepoint.com/game-ai-the-bots-strike-back/) simple algorithms to simulate AI
 * [Coding Train](https://twitter.com/shiffman) Lots of videos on useful algorithms
 * [Intuitive Game Design](http://stfj.net/DesigningForSubwayLegibility/) Make games easily understood, quick adoption
+* [Tips on Marketing](https://docs.google.com/presentation/d/153Rz_TPwZ36HVg9-Mhvej7gSuWM5BTv3VKxRWYTTZHM/edit#slide=id.g3f1cac1c9_242) from [discussion on HN](https://news.ycombinator.com/item?id=17080985)
 
 ---
 The list of items to be classified/evaluated
