@@ -292,6 +292,7 @@
 * [JavaScripture](http://www.javascripture.com/) API's with examples
 * [GIT Flight Rules](https://github.com/k88hudson/git-flight-rules) What to do when something goes wrong
 * [Reactive.how](http://reactive.how/) Learn Reactive programming video series
+* [By Example](https://github.com/danistefanovic/build-your-own-x) Build your own X...
 
 ## Online development environments
 * [Cloud 9](https://c9.io/) Full virtual development environment
