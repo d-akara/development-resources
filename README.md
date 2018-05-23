@@ -269,6 +269,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) Javascript and functional programming
 * [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) In depth concepts continuing after 'JavaScript Allongé'
 * [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) A deeper understanding of how JS really works
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) Focus on less understood parts of JS
