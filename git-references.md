@@ -59,6 +59,9 @@
   1. `git revert <SHA>` *creates a new commit that is the inverse of the given SHA.  Does not alter history*
 - Go back to previous version of file(s)
   1. `git checkout -- <filename>` *replace with last committed version*
+- Remove already tracked files added to `.gitignore`
+  1. `git rm -r --cached .` 
+  1. `git add .`
 
 ### Tags
 - `git tag <tagname>` *create a tag on local repository*
