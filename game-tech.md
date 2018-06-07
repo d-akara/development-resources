@@ -63,4 +63,5 @@ The list of items to be classified/evaluated
 * [PlayCanvas | 3D HTML5 & WebGL Game Engine](https://playcanvas.com/)
 * [Self Publish First (Platforms and Publishers are Plan B)](http://indiebits.com/self-publish-first/)
 * [Unreal Engine Technology | Home](https://www.unrealengine.com/)
+* [Haxe](https://www.toptal.com/cross-platform/haxe-language-cross-platform) programming language used often for games
 
