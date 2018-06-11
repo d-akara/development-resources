@@ -81,6 +81,7 @@
 * [across-tables](https://github.com/wingify/across-tabs) Communcation across cross origin pages
 * [Postal](https://github.com/postaljs/postal.js) message bus library
 * [Mesh](http://mesh.js.org/) message bus library
+* [https://github.com/automerge/automerge] JSON-like data structure that can be modified concurrently and merged again automatically.
 
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
