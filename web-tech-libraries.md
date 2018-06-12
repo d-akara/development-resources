@@ -14,8 +14,8 @@
 * [nightmare](https://github.com/segmentio/nightmare) browser automation testing
 * [TA](https://github.com/tebelorg/TA.Gui) browser recording and automation
 * [zombie](https://github.com/assaf/zombie) fast headless browser testing
-* [chromeless](https://github.com/graphcool/chromeless) chrome headless browser automation testing
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API
+* [chromeless](https://github.com/graphcool/chromeless) Local and AWS parallel chrome testing with nightmareJS like API
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API with bundled chromium
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
 * [stylelint](http://stylelint.io/) Enforce best practices for stylesheets
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
