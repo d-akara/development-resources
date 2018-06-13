@@ -2,6 +2,8 @@
 
 ## Testing and Code Quality
 
+[Overview JS Testing 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+
 * [Jasmine](http://jasmine.github.io/) JS testing framework
 * [Mocha](https://mochajs.org/) Mocha is a feature-rich JavaScript test framework
 * [jest](https://github.com/facebook/jest) unit testing, automatic mocking, parallel execution using workers [discussion](https://news.ycombinator.com/item?id=12629743), [discussion2](https://news.ycombinator.com/item?id=13128146)
