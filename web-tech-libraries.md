@@ -32,7 +32,9 @@
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
 * [lodash](https://lodash.com/) General utility library performance focused with FP concepts
+* [lazy](https://github.com/dtao/lazy.js) Similar to lodash, but with all lazy evaluation
 * [stdlib](https://github.com/stdlib-js/stdlib) Standard library for JavaScript and Node.js
+* [sugar](https://sugarjs.com/) Javascript utility library for working with native objects
 * [FPO](https://github.com/getify/fpo) Functional library using named arguments
 * [Highland](https://github.com/caolan/highland) Utility library using high-level streams seamless async and sync
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
