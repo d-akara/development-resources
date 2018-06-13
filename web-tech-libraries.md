@@ -10,12 +10,13 @@
 * [cypress](https://www.cypress.io/) $ future.  innovative advanced automated testing framework
 * [wallaby](https://wallabyjs.com/) $ realtime test runner with editor integration
 * [AVA](https://github.com/avajs/ava) futuristic test runner
-* [nightwatch](http://nightwatchjs.org/) browser automation testing [discussion](https://twitter.com/mpjme/status/811184862954737665)
-* [nightmare](https://github.com/segmentio/nightmare) browser automation testing
+* [nightwatch](http://nightwatchjs.org/) browser automation testing using Selenium Webdriver [discussion](https://twitter.com/mpjme/status/811184862954737665)
+* [nightmare](https://github.com/segmentio/nightmare) browser automation testing using Electron
 * [TA](https://github.com/tebelorg/TA.Gui) browser recording and automation
-* [zombie](https://github.com/assaf/zombie) fast headless browser testing
+* [zombie](https://github.com/assaf/zombie) fast simulated headless browser testing in nodeJS
 * [chromeless](https://github.com/graphcool/chromeless) Local and AWS parallel chrome testing with nightmareJS like API
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API with bundled chromium
+* [testcafe](https://github.com/DevExpress/testcafe) cross platform, cross browser automation without need of WebDriver
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
 * [stylelint](http://stylelint.io/) Enforce best practices for stylesheets
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
