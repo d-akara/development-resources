@@ -206,6 +206,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [medium editor](https://github.com/yabwe/medium-editor) ContentEditable API editor
 * [Slate](https://github.com/ianstormtaylor/slate) Customizable rich text editor
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
+* [Emotion](https://github.com/emotion-js/emotion) Next Generation CSS in JS. [Article](https://medium.com/@tkh44/emotion-ad1c45c6d28b)
 * [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work [short review] (https://www.briefs.fm/3-minutes-with-kent/21)
 * [Glamor](https://github.com/threepointone/glamor) Inline CSS [article](http://survivejs.com/blog/glamor-interview/)
 * [StyleTron](http://styletron.js.org/) CSS-in-JS engine built from the ground up for high-performance
