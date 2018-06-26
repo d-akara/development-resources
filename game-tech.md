@@ -24,6 +24,7 @@
 * [Intuitive Game Design](http://stfj.net/DesigningForSubwayLegibility/) Make games easily understood, quick adoption
 * [Tips on Marketing](https://docs.google.com/presentation/d/153Rz_TPwZ36HVg9-Mhvej7gSuWM5BTv3VKxRWYTTZHM/edit#slide=id.g3f1cac1c9_242) from [discussion on HN](https://news.ycombinator.com/item?id=17080985)
 * [Example Steam Greenworks Games](https://github.com/greenheartgames/greenworks/wiki/Apps-games-using-greenworks)
+* [Example 3D JS Online Multiplayer](https://engineering.paiza.io/entry/paizacloud_online_multiplayer_gamehttps://engineering.paiza.io/entry/paizacloud_online_multiplayer_game) 3D JS NodeJS Game using Three.js
 
 ---
 The list of items to be classified/evaluated
