@@ -29,6 +29,9 @@
    - This is needed to stay in sync with changes others are doing in the remote repository
 1. `git merge <other branch>` *execute from your local working branch to merge in changes from another branch*
 
+#### Merge branch as single commit
+1. `git merge --squash <other branch>` take all commits from another branch and merge into current branch as single commit
+
 
 ### Info From GIT
 - List files changed, merges, conflicts and general info
