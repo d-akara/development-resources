@@ -343,6 +343,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [WebDsp](https://github.com/shamadee/web-dsp) client-side signal processing library utilizing the power of WebAssembly
 * [Lisk](https://lisk.io/) Blockchain applications in JavaScript
 * [AssemblyScript](https://github.com/dcodeIO/AssemblyScript) TypeScript to WASM
+* [Forest](https://github.com/forest-lang/forest-compiler) Forest compiler to WASM
 * [Walt](https://github.com/ballercat/walt) JS like syntax for WASM
 * [Nexus.js](https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6) Multi threaded JS Server
 
