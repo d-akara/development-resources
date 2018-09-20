@@ -294,6 +294,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Serverless](https://github.com/serverless/serverless) AWS Lambda architecture
 * [Elasticsearch](https://www.elastic.co/products/elasticsearch) distributed real-time search and analytics capabilities
 * [Cheerp](http://leaningtech.com/cheerp/) C++ to JavaScript compiler
+* [NeutralinoJS](https://neutralino.js.org/) Develop web apps with native os functions
 
 ## Mobile
 * [NativeScript](https://www.nativescript.org/) Native mobile apps in JavaScript with low level access to system API's
