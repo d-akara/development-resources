@@ -11,3 +11,8 @@
 
 ## Networking
 - [Retrofit](http://square.github.io/retrofit/)
+
+## Database
+- [JOOQ](http://www.jooq.org/)
+- [Querydsl](http://www.querydsl.com/)
+- [jdbi](http://jdbi.org/)
