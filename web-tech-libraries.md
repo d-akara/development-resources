@@ -383,3 +383,4 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer) bundle content as convenient interactive zoomable treemap
 * [Marky](https://github.com/nolanlawson/marky) High performance timer for performance analysis
 * [Pencil](https://github.com/evolus/pencil) UI prototype sketch tool
+* [apify-js](https://github.com/apifytech/apify-js) web scrapper for high scale using puppeteer
