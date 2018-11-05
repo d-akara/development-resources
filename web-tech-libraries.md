@@ -122,10 +122,14 @@
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
 * [jison](http://zaa.ch/jison/) generates bottom-up parsers similar to Bison
 * [Ohm](https://github.com/cdglabs/ohm) library and language for building parsers, interpreters, compilers, etc. [Intro article](https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/)
-* [Cheerio](https://cheerio.js.org/) server side JSON and XML fast parser
-* [htmlparser2](https://github.com/fb55/htmlparser2) fast streaming HTML/XML NodeJS parser
-* [xml-js](https://github.com/nashwaan/xml-js) XML to JSON, JSON to XML
-* [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) Validate XML, Parse XML to JS/JSON and vise versa
+* [Cheerio](https://cheerio.js.org/) server side HTML and XML fast parser.  Uses CSS Selector paradigm like jQuery.
+* [jsdom](https://github.com/jsdom/jsdom) HTML/XML parser and browser API's. Uses Parse5 for HTML and Saxes for XML 
+* [xmldom](https://github.com/jindw/xmldom) Only pure JS XML parser.
+* [xpath](https://github.com/goto100/xpath) XPath works with jsdom, xmldom
+* [saxes](https://github.com/lddubeau/saxes) XML parser enforces well formed XML.  Used by jsdom
+* [htmlparser2](https://github.com/fb55/htmlparser2) very fast streaming HTML/XML NodeJS parser, but non-strict
+* [domino](https://github.com/fgnass/domino) W3C DOM Level 4 HTML parser
+* [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) Validate XML, Parse XML to JS/JSON and vise versa.  Uses regex as parser.
 * [NDJson](https://github.com/maxogden/ndjson) Streaming JSON.  [reference article](https://www.bennadel.com/blog/3233-parsing-and-serializing-large-datasets-using-newline-delimited-json-in-node-js.htm)
 * [cherow](https://github.com/cherow/cherow) Fast ECMAScript 2018 parser
 
