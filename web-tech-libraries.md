@@ -118,7 +118,7 @@
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
 * [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
 * [FlatBuffers](https://github.com/google/flatbuffers) cross platform fast serialization for networking and storage
-* [chevrotain](https://github.com/SAP/chevrotain) Fast parser DSL
+* [chevrotain](https://github.com/SAP/chevrotain) Fast parser DSL, no code generation.  Performance [comparison](https://sap.github.io/chevrotain/performance/)
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
 * [jison](http://zaa.ch/jison/) generates bottom-up parsers similar to Bison
 * [Ohm](https://github.com/cdglabs/ohm) library and language for building parsers, interpreters, compilers, etc. [Intro article](https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/)
