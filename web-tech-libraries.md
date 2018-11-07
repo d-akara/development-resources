@@ -122,11 +122,12 @@
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
 * [jison](http://zaa.ch/jison/) generates bottom-up parsers similar to Bison
 * [Ohm](https://github.com/cdglabs/ohm) library and language for building parsers, interpreters, compilers, etc. [Intro article](https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/)
-* [Cheerio](https://cheerio.js.org/) server side HTML and XML fast parser.  Uses CSS Selector paradigm like jQuery.
-* [jsdom](https://github.com/jsdom/jsdom) HTML/XML parser and browser API's. Uses Parse5 for HTML and Saxes for XML 
-* [xmldom](https://github.com/jindw/xmldom) Only pure JS XML parser.
-* [xpath](https://github.com/goto100/xpath) XPath works with jsdom, xmldom
-* [saxes](https://github.com/lddubeau/saxes) XML parser enforces well formed XML.  Used by jsdom
+* [Cheerio](https://cheerio.js.org/) server side HTML and XML fast parser.  Uses CSS Selector paradigm like jQuery. [htmlparser2](https://github.com/fb55/htmlparser2) as parsing engine
+* [jsdom](https://github.com/jsdom/jsdom) HTML/XML parser and browser API's. Uses [parse5](https://github.com/inikulin/parse5) for HTML and [saxes](https://github.com/lddubeau/saxes) for XML 
+* [xmldom](https://github.com/jindw/xmldom) JS XML DOM and internal parser.  
+* [xpath](https://github.com/goto100/xpath) XPath 1.0 works with jsdom, xmldom, slimdom
+* [fotoxpath](https://github.com/FontoXML/fontoxpath) XPath 3.1 works with jsdom, xmldom, slimdom
+* [saxes](https://github.com/lddubeau/saxes) XML parser enforces well formed XML.  [slimdom-sax-parser](https://github.com/wvbe/slimdom-sax-parser) provides a DOM built using saxes
 * [htmlparser2](https://github.com/fb55/htmlparser2) very fast streaming HTML/XML NodeJS parser, but non-strict
 * [domino](https://github.com/fgnass/domino) W3C DOM Level 4 HTML parser
 * [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) Validate XML, Parse XML to JS/JSON and vise versa.  Uses regex as parser.
