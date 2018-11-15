@@ -212,7 +212,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [dropzone](https://github.com/enyo/dropzone/) Drag and drop for file uploads
 * [quill](https://github.com/quilljs/quill/) Rich text editor
 * [medium editor](https://github.com/yabwe/medium-editor) ContentEditable API editor
-* [Slate](https://github.com/ianstormtaylor/slate) Customizable rich text editor
+* [Slate](https://github.com/ianstormtaylor/slate) Customizable rich text editor. [discussion](https://news.ycombinator.com/item?id=18457325)
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
 * [Emotion](https://github.com/emotion-js/emotion) Next Generation CSS in JS. [Article](https://medium.com/@tkh44/emotion-ad1c45c6d28b)
 * [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work [short review] (https://www.briefs.fm/3-minutes-with-kent/21)
