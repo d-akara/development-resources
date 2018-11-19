@@ -145,6 +145,7 @@
 * [xtype.js](http://xtype.js.org/overview) data validation for JavaScript
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
 * [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
+* [Rex](https://github.com/areknawo/rex) Regex verbose API
 * [ElasticLunr](http://elasticlunr.com/) Lightweight full-text search engine in Javascript for browser search and offline search
 * [fuzzysort](https://github.com/farzher/fuzzysort) sublime like pattern matching
 
