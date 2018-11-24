@@ -203,6 +203,8 @@
 * [hyperscript](https://github.com/dominictarr/hyperscript) Inline template creation in JavaScript.  [Article](http://lhorie.github.io/mithril-blog/lessons-learned-from-angular.html) discussing advantages of this concept.  Dojo 2 [research item](https://github.com/dojo/meta/issues/11) with many references to hyperscript.
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) A virtual DOM [alternative](https://medium.com/@WebReflection/hyperhtml-a-virtual-dom-alternative-279db455ee0e)
 * [hyperApp](https://github.com/hyperapp/hyperapp)Elm-like state management and a virtual DOM engine
+* [htm](https://github.com/developit/htm) SX alternative using standard tagged templates, with compiler support
+* [lit-html](https://github.com/Polymer/lit-html) An efficient, expressive, extensible HTML templating library for JavaScript
 * [MarkoJS](http://markojs.com/) A friendly (and fast!) UI library from eBay.  Claims faster than Inferno
 
 ## UI
