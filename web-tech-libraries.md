@@ -302,6 +302,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Vorpal](http://vorpal.js.org/) CLI command line framework
 * [Caporal](https://github.com/mattallty/Caporal.js) CLI command line framework
 * [Yargs](https://github.com/yargs/yargs) Advanced CLI argument parser
+* [event-stream](https://github.com/dominictarr/event-stream) EventStream is like functional programming meets IO
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
