@@ -88,6 +88,9 @@
 * [Mesh](http://mesh.js.org/) message bus library
 * [Automerge](https://github.com/automerge/automerge) JSON-like data structure that can be modified concurrently and merged again automatically.
 * [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) Browser library to make clipboard support consistent
+* [html-differ](https://github.com/markedjs/html-differ) library to diff html changes
+* [htmldiff](https://github.com/idesis-gmbh/htmldiff.js) library to diff html changes
+* [paste.js](https://github.com/layerssss/paste.js) cross browser image pasting from clipboard
 
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
