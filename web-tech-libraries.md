@@ -140,6 +140,7 @@
 
 ### Data Search and Validate
 * [JMESPath](http://jmespath.org/) query language for JSON
+* [JSONata](https://github.com/jsonata-js/jsonata) JSON query and transformation language
 * [is.js](https://github.com/arasatasaygin/is.js) Data type and data format testing functions
 * [Validate.js](http://validatejs.org/) declaritive validation of JavaScript objects
 * [SuperStruct](https://github.com/ianstormtaylor/superstruct) composable JavaScript validation
