@@ -367,6 +367,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [AssemblyScript](https://github.com/dcodeIO/AssemblyScript) TypeScript to WASM
 * [Forest](https://github.com/forest-lang/forest-compiler) Forest compiler to WASM
 * [Walt](https://github.com/ballercat/walt) JS like syntax for WASM
+* [wasmer](https://github.com/wasmerio/wasmer) High-Performance WebAssembly JIT interpreter
 * [Nexus.js](https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6) Multi threaded JS Server
 
 ## Performance
