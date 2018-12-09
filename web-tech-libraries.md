@@ -274,6 +274,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [cola.js](http://marvl.infotech.monash.edu/webcola/) contraint based layout library.
 * [MathBox](https://gitgud.io/unconed/mathbox) Presentation-quality WebGL math graphing
 * [OpenLayers](http://openlayers.org/) high-performance, feature-packed library for all your mapping needs
+* [pdfmake](https://github.com/bpampuch/pdfmake) client/server PDF JS library
 
 ## Multi Media
 * [video.js](https://github.com/videojs/video.js) JS Browser video player
@@ -400,9 +401,9 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Hammerspoon](http://www.hammerspoon.org/) OSX Automation using Lua
 * [RobotJS](https://github.com/octalmage/robotjs) Cross platform Automation on NodeJS
 * [ripgrep](https://github.com/BurntSushi/ripgrep) Fastest grep implementation in existence. Written in Rust.
-* [Brackets](http://brackets.io/) Good JS editor with unique realtime project search feature
 * [VS Code](http://code.visualstudio.com) Seems well positioned to be for JS what Eclipse has been for Java.
 * [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer) bundle content as convenient interactive zoomable treemap
 * [Marky](https://github.com/nolanlawson/marky) High performance timer for performance analysis
 * [Pencil](https://github.com/evolus/pencil) UI prototype sketch tool
 * [apify-js](https://github.com/apifytech/apify-js) web scrapper for high scale using puppeteer
+* [sharp](https://github.com/lovell/sharp) high performance image scaling. fastest module to resize JPEG, PNG, WebP and TIFF images
