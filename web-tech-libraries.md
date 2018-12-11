@@ -30,6 +30,7 @@
 * [Kakapo](https://github.com/devlucky/Kakapo.js) client side mocking. [overview](https://medium.freecodecamp.com/dynamic-mocking-with-kakapo-js-bdbd3d7b58e2#.8pi6rtbu5)
 * [Atmo](https://github.com/Raathigesh/Atmo) simple fast server side mocking with UI
 * [WireMock](http://wiremock.org/) advanced server side mocking
+* [faker](https://github.com/Marak/faker.js) fake data generator
 
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
