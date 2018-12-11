@@ -170,6 +170,7 @@
 * [ClickHouse](https://clickhouse.yandex/) Extremely fast columnar DB [discussion](https://news.ycombinator.com/item?id=11908254)
 * [MonetDB](https://www.monetdb.org/blog/monetdb-embraces-nodejs) columnar DB with native NodeJS support [discussion](https://news.ycombinator.com/item?id=11896105)
 * [RXDB](https://github.com/pubkey/rxdb) Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown
+* [knex.js](https://knexjs.org/) SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift. [DB2](https://github.com/henryjw/knex-db2) 
 
 ## Application Framework
 [Flux, Redux, Behavior-Event-State-Tree, Model-View-Update, Model-View-Intent, Nested Dialogues](http://staltz.com/unidirectional-user-interface-architectures.html)
