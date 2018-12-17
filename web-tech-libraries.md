@@ -92,6 +92,7 @@
 * [html-differ](https://github.com/markedjs/html-differ) library to diff html changes
 * [htmldiff](https://github.com/idesis-gmbh/htmldiff.js) library to diff html changes
 * [paste.js](https://github.com/layerssss/paste.js) cross browser image pasting from clipboard
+* [pampy.js](https://github.com/santinic/pampy.js) Pattern matching
 
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
