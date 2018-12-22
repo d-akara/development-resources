@@ -180,6 +180,7 @@
 * [Sphere Online Judge](http://www.spoj.com/)
 * [CoderPower](http://coderpower.com/)
 * [JS1k](http://js1k.com/2016-elemental/)
+* [CodeForces](https://codeforces.com/)
 
 ## Interactive learning
 
@@ -221,6 +222,8 @@
 * [RxMarbles](http://rxmarbles.com/) Visualize how observables operate
 * [D3 Garden](https://www.rtfmanual.io/d3garden/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-19) Interactive D3 learning
 * [Katacoda](https://www.katacoda.com/) Interactive learning platform for Docker and more
+* [exercism](https://exercism.io/) programming skills with 2,633 exercises across 48 languages
+* [leetcode](https://leetcode.com/) platform to help you enhance your skills, expand your knowledge and prepare for technical interviews
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
