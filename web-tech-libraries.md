@@ -310,7 +310,12 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Incheon](http://incheon.gg/) Node game server
 * [Vorpal](http://vorpal.js.org/) CLI command line framework
 * [Caporal](https://github.com/mattallty/Caporal.js) CLI command line framework
+* [Enquirer](https://github.com/enquirer/enquirer) Stylish, intuitive and user-friendly prompts
+* [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) A collection of common interactive command line user interfaces
+* [Commander.js](https://github.com/tj/commander.js) node.js command-line interfaces made easy
+* [Gluegun](https://github.com/infinitered/gluegun) CLI Builder
 * [Yargs](https://github.com/yargs/yargs) Advanced CLI argument parser
+* [shell.js](https://github.com/shelljs/shelljs) Unix commands available for cross platform NodeJS
 * [event-stream](https://github.com/dominictarr/event-stream) EventStream is like functional programming meets IO
 
 ## Platform
