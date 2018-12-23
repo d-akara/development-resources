@@ -56,7 +56,9 @@
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
 * [optika](https://github.com/phadej/optika) optics for JavaScript.  Functional Programming
 * [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
-* [JavaScript Fast Array](https://github.com/ImJustAskingDude/JavascriptFastArray) Leverages 3d array for high performance up to 1 billion indices
+* [Uint1Array](https://github.com/crislin2046/Uint1Array) bitfields in JS with TypeArray syntax
+* [indexed-bitfield](https://github.com/mafintosh/indexed-bitfield) Indexed bitfield that allows you to search for bits efficiently
+* [sparse-bitfield](https://github.com/mafintosh/sparse-bitfield) allocates a series of small buffers to support sparse bits without allocating a massive buffer
 * [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 * [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with [broadest](http://daily-javascript.com/articles/little-loader/) browser support
 * [SystemJS](https://github.com/systemjs/systemjs) Loader which supports all module formats and can load dynamically at runtime
@@ -116,7 +118,8 @@
 * [comlink](https://github.com/GoogleChromeLabs/comlink) auto proxy to web worker
 
 ### Parsing and Serialization
-* [js-struct](https://github.com/toji/js-struct) Struct C style read and write in JavaScript
+* [struct-fu](https://github.com/natevw/struct-fu) Convert between JSON objects and binary buffer data according to a given field layout/structure declaration.  Can handle bitfields.
+* [struct](https://github.com/xdenser/node-struct) Creates a proxy view into a buffer based on a struct definition.  No bitwise data
 * [corrode](https://github.com/screeny05/corrode) library for reading binary data
 * [lave](https://github.com/jed/lave) Stringify serialize types JSON.stringify can not
 * [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
