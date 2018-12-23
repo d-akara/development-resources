@@ -93,6 +93,7 @@
 * [htmldiff](https://github.com/idesis-gmbh/htmldiff.js) library to diff html changes
 * [paste.js](https://github.com/layerssss/paste.js) cross browser image pasting from clipboard
 * [pampy.js](https://github.com/santinic/pampy.js) Pattern matching
+* [fast-copy](https://github.com/planttheidea/fast-copy) A blazing fast deep object copier
 
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
@@ -248,6 +249,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [OSG.JS](http://osgjs.org/) OpenSceneGraph WebGL
 * [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
 * [regl](https://github.com/mikolalysenko/regl) Functional WebGL
+* [phenomenon](https://github.com/vaneenige/phenomenon) A fast 2kB low-level WebGL API
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
 * [Sketch](https://github.com/soulwire/sketch.js) Cross-Platform JavaScript Creative Coding Framework. [Example work](https://soulwire.co.uk/)
 * [Paper.js](http://paperjs.org/about/) Vector graphics on canvas
