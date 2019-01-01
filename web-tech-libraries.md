@@ -35,6 +35,7 @@
 ## Low level libraries
 * [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
 * [lodash](https://lodash.com/) General utility library performance focused with FP concepts
+* [callbag](https://github.com/staltz/callbag-basics) Tiny and fast reactive/iterable programming library. [Callbags](https://github.com/callbag/callbag/wiki)
 * [lazy](https://github.com/dtao/lazy.js) Similar to lodash, but with all lazy evaluation
 * [stdlib](https://github.com/stdlib-js/stdlib) Standard library for JavaScript and Node.js
 * [sugar](https://sugarjs.com/) Javascript utility library for working with native objects
