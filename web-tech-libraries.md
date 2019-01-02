@@ -122,12 +122,14 @@
 * [struct-fu](https://github.com/natevw/struct-fu) Convert between JSON objects and binary buffer data according to a given field layout/structure declaration.  Can handle bitfields.
 * [struct](https://github.com/xdenser/node-struct) Creates a proxy view into a buffer based on a struct definition.  No bitwise data
 * [corrode](https://github.com/screeny05/corrode) library for reading binary data
-* [lave](https://github.com/jed/lave) Stringify serialize types JSON.stringify can not
+* [lave](https://github.com/jed/lave) Stringify serialize any JS object
+* [devalue](https://github.com/Rich-Harris/devalue) serialize JSON with XSS safe escapes
 * [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
 * [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
 * [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
 * [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
+* [flatted](https://github.com/WebReflection/flatted#flatted) handle circular JSON
 * [FlatBuffers](https://github.com/google/flatbuffers) cross platform fast serialization for networking and storage
 * [chevrotain](https://github.com/SAP/chevrotain) Fast parser DSL, no code generation.  Performance [comparison](https://sap.github.io/chevrotain/performance/)
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
