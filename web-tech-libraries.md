@@ -144,6 +144,7 @@
 * [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) Validate XML, Parse XML to JS/JSON and vise versa.  Uses regex as parser.
 * [NDJson](https://github.com/maxogden/ndjson) Streaming JSON.  [reference article](https://www.bennadel.com/blog/3233-parsing-and-serializing-large-datasets-using-newline-delimited-json-in-node-js.htm)
 * [cherow](https://github.com/cherow/cherow) Fast ECMAScript 2018 parser
+* [js-yaml](https://github.com/nodeca/js-yaml) JS YAML parser/serializer
 
 ### Data Search and Validate
 * [JMESPath](http://jmespath.org/) query language for JSON
