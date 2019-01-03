@@ -345,10 +345,14 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [ZingTouch](https://github.com/zingchart/zingtouch) Gesture library
 * [Leaflet](http://leafletjs.com/2016/09/27/leaflet-1.0-final.html) mobile-friendly interactive maps
 
+## WASM Web Assembly
+* [https://github.com/AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) Limited TypeScript to WASM compiler
+* [Walt](https://github.com/ballercat/walt) JS like syntax for WASM
+* [wasmer](https://github.com/wasmerio/wasmer) High-Performance WebAssembly JIT interpreter
+
 ## Future
 * [tasklets](https://github.com/GoogleChromeLabs/tasklets) Attempt at more efficient use of WebWorkers. [discussion](https://news.ycombinator.com/item?id=15511519)
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
-* [ThinScript](https://github.com/evanw/thinscript) Language compiles to WebAssembly, JavaScript and C
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
 * [weblas](https://github.com/waylonflinn/weblas) GPU Accelerated JavaScript
 * [Turbo.js](https://turbo.github.io/) GPU Accelerated JavaScript
@@ -377,17 +381,13 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Allora](https://github.com/GianlucaGuarini/allora) Promisify all JS API's with very small library
 * [Tesseract.js](http://tesseract.projectnaptha.com/) JS OCR
 * [Yarn](https://code.facebook.com/posts/1840075619545360) Next generation package manager similar to Rust's Cargo
-* [DeThread](https://github.com/DeThread/dethread) library for distributed computing with JavaScript, WebSockets, and web workers
 * [Jasonette](http://jasonette.com/) Mobile app building with JSON desclaritive language
 * [Svelte](https://github.com/sveltejs/svelte) compiler UI framework with no runtime
 * [Nidium](https://www.nidium.com/) JS runtime built on SpiderMonkey
 * [Browsix](https://browsix.org/) Run C, C++, Go and Node.js programs as processes in browsers
 * [WebDsp](https://github.com/shamadee/web-dsp) client-side signal processing library utilizing the power of WebAssembly
 * [Lisk](https://lisk.io/) Blockchain applications in JavaScript
-* [AssemblyScript](https://github.com/dcodeIO/AssemblyScript) TypeScript to WASM
 * [Forest](https://github.com/forest-lang/forest-compiler) Forest compiler to WASM
-* [Walt](https://github.com/ballercat/walt) JS like syntax for WASM
-* [wasmer](https://github.com/wasmerio/wasmer) High-Performance WebAssembly JIT interpreter
 * [Nexus.js](https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6) Multi threaded JS Server
 
 ## Performance
