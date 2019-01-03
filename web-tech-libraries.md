@@ -167,6 +167,7 @@
 
 ### Analytics, AI Learning
 * [synaptic](https://github.com/cazala/synaptic) architecture-free neural network library for node.js and the browser
+* [brain.js](https://github.com/BrainJS/brain.js) library of Neural Networks written in JavaScript.
 
 ## Persistence
 * [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
