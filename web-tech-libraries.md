@@ -182,7 +182,9 @@
 * [ClickHouse](https://clickhouse.yandex/) Extremely fast columnar DB [discussion](https://news.ycombinator.com/item?id=11908254)
 * [MonetDB](https://www.monetdb.org/blog/monetdb-embraces-nodejs) columnar DB with native NodeJS support [discussion](https://news.ycombinator.com/item?id=11896105)
 * [RXDB](https://github.com/pubkey/rxdb) Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown
-* [knex.js](https://knexjs.org/) SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift. [DB2](https://github.com/henryjw/knex-db2) 
+* [knex.js](https://knexjs.org/) SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift. [DB2](https://github.com/henryjw/knex-db2)
+* [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) library for storing user data locally in the browser, as well as connecting to remoteStorage servers such as dropBox and Google Drive
+* [gun](https://github.com/amark/gun) realtime, decentralized, offline-first, mutable graph database engine
 
 ## Application Framework
 [Flux, Redux, Behavior-Event-State-Tree, Model-View-Update, Model-View-Intent, Nested Dialogues](http://staltz.com/unidirectional-user-interface-architectures.html)
@@ -366,7 +368,6 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [BlazingDB](http://blazingdb.com/) GPU Acclerated SQL DB
 * [DGraph](https://github.com/dgraph-io/dgraph/) Scalable, Distributed, Low Latency Graph Database
 * [Falcor](http://netflix.github.io/falcor/) Efficient data fetching by JSON graph
-* [GUN](https://github.com/amark/gun) realtime, decentralized, offline-first, graph database engine
 * [Noms](https://github.com/attic-labs/noms) versioned, forkable, syncable database
 * [Neft](http://www.neft.io/) server, browser and mobile JavaScript native applications
 * [lighthouse](https://github.com/GoogleChrome/lighthouse) progressive web app diagnostics
