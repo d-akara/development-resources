@@ -185,6 +185,7 @@
 * [knex.js](https://knexjs.org/) SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift. [DB2](https://github.com/henryjw/knex-db2)
 * [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) library for storing user data locally in the browser, as well as connecting to remoteStorage servers such as dropBox and Google Drive
 * [gun](https://github.com/amark/gun) realtime, decentralized, offline-first, mutable graph database engine
+* [ipfs](https://github.com/ipfs/js-ipfs) JavaScript implementation of the IPFS protocol
 
 ## Application Framework
 [Flux, Redux, Behavior-Event-State-Tree, Model-View-Update, Model-View-Intent, Nested Dialogues](http://staltz.com/unidirectional-user-interface-architectures.html)
