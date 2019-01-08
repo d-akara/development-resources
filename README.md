@@ -39,11 +39,6 @@
 * [Design Posts](http://designposts.net/)
 * [CodeCondo](http://codecondo.com/)
 
-### jQuery
-* [jQuery Plugin Plus](http://jquerypluginplus.com/) jQuery plugin news
-* [jQuery Rain](http://www.jqueryrain.com/) jQuery plugin news
-* [jQuery House](http://jqueryhouse.com/) Periodic listings of interesting jQuery plugins
-
 ### CSS news and articles
 * [CSS Tricks](https://css-tricks.com/) Technical blog of news and articles
 * [CSS Wizardry](http://csswizardry.com/) Technical CSS articles.  [Presentation](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers)
