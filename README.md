@@ -45,7 +45,6 @@
 * [Co Drops](http://tympanus.net/codrops/) CSS articles and example widgets
 
 ### Recent JS project rankings
-* [JS Org Stats](http://stats.js.org/) Daily JS project rankings on github
 * [JS Org Best](http://bestof.js.org/#/home) Categorized JS project rankings on github
 
 ### Weekly in development news
@@ -60,7 +59,6 @@
 * [Web Ops Weekly](http://webopsweekly.com/latest)
 * [Node Weekly](http://nodeweekly.com/latest)
 * [Web Tools Weekly](http://webtoolsweekly.com/#archive)
-* [Totally Tooling Tears](https://medium.com/totally-tooling-tears)
 * [The Changelog](https://changelog.com/)
 
 ### Video conferences and talks
