@@ -340,6 +340,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Cheerp](http://leaningtech.com/cheerp/) C++ to JavaScript compiler
 * [NeutralinoJS](https://neutralino.js.org/) Develop web apps with native os functions
 * [Carlo](https://github.com/GoogleChromeLabs/carlo) Web rendering surface for Node applications
+* [low.js](https://www.lowjs.org/) Node.js with far lower system requirements for microcontroller boards based on the ESP32-WROVER module
 
 ## Mobile
 * [NativeScript](https://www.nativescript.org/) Native mobile apps in JavaScript with low level access to system API's
