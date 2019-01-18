@@ -434,3 +434,4 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [sharp](https://github.com/lovell/sharp) high performance image scaling. fastest module to resize JPEG, PNG, WebP and TIFF images
 * [tad](https://github.com/antonycourtney/tad) CSV data viewer
 * [mkcert](https://github.com/FiloSottile/mkcert) make locally trusted development certificates
+* [jscodeshift](https://github.com/facebook/jscodeshift) JavaScript codemod toolkit
