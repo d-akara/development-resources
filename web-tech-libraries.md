@@ -91,9 +91,10 @@
 * [Postal](https://github.com/postaljs/postal.js) message bus library
 * [Mesh](http://mesh.js.org/) message bus library
 * [Automerge](https://github.com/automerge/automerge) JSON-like data structure that can be modified concurrently and merged again automatically.
-* [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) Browser library to make clipboard support consistent
 * [html-differ](https://github.com/markedjs/html-differ) library to diff html changes
 * [htmldiff](https://github.com/idesis-gmbh/htmldiff.js) library to diff html changes
+* [jsDiff](https://github.com/kpdecker/jsdiff) text diff library
+* [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) Browser library to make clipboard support consistent
 * [paste.js](https://github.com/layerssss/paste.js) cross browser image pasting from clipboard
 * [pampy.js](https://github.com/santinic/pampy.js) Pattern matching
 * [fast-copy](https://github.com/planttheidea/fast-copy) A blazing fast deep object copier
