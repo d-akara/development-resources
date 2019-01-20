@@ -16,7 +16,6 @@
 * [nightmare](https://github.com/segmentio/nightmare) browser automation testing using Electron
 * [TA](https://github.com/tebelorg/TA.Gui) browser recording and automation
 * [zombie](https://github.com/assaf/zombie) fast simulated headless browser testing in nodeJS
-* [chromeless](https://github.com/graphcool/chromeless) Local and AWS parallel chrome testing with nightmareJS like API
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API with bundled chromium
 * [testcafe](https://github.com/DevExpress/testcafe) cross platform, cross browser automation without need of WebDriver
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
