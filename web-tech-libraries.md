@@ -352,7 +352,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Leaflet](http://leafletjs.com/2016/09/27/leaflet-1.0-final.html) mobile-friendly interactive maps
 
 ## WASM Web Assembly
-* [https://github.com/AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) Limited TypeScript to WASM compiler
+* [assemblyscript](https://github.com/AssemblyScript/assemblyscript) Limited TypeScript to WASM compiler
 * [Walt](https://github.com/ballercat/walt) JS like syntax for WASM
 * [wasmer](https://github.com/wasmerio/wasmer) High-Performance WebAssembly JIT interpreter
 
