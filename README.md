@@ -290,6 +290,7 @@
 * [GIT Flight Rules](https://github.com/k88hudson/git-flight-rules) What to do when something goes wrong
 * [Reactive.how](http://reactive.how/) Learn Reactive programming video series
 * [By Example](https://github.com/danistefanovic/build-your-own-x) Build your own X...
+* [HTTP Headers Security 1](https://www.fastly.com/blog/headers-we-dont-want) and [2](https://www.fastly.com/blog/headers-we-want)
 
 ## Online development environments
 * [Cloud 9](https://c9.io/) Full virtual development environment
@@ -336,3 +337,4 @@
 * [RegexGen](https://runkit.com/npm/regexgen) Generate regex from list of target matches
 * [NetRenderer](https://netrenderer.com/index.php) Internet Explorer online renderer
 * [ShapeCatcher](http://shapecatcher.com/) find Unicode characters by drawing shapes
+* [securityheaders.io](https://securityheaders.com/) Analyize HTTP response headers
