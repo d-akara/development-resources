@@ -263,6 +263,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Pixi.js](http://www.pixijs.com/) 2d webGL renderer canvas fallback
 * [regl](https://github.com/mikolalysenko/regl) Functional WebGL
 * [phenomenon](https://github.com/vaneenige/phenomenon) A fast 2kB low-level WebGL API
+* [gl-matrix](https://github.com/toji/gl-matrix) Matrix and Vector library for High Performance WebGL
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
 * [Sketch](https://github.com/soulwire/sketch.js) Cross-Platform JavaScript Creative Coding Framework. [Example work](https://soulwire.co.uk/)
 * [Paper.js](http://paperjs.org/about/) Vector graphics on canvas
