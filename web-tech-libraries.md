@@ -89,6 +89,7 @@
 * [across-tables](https://github.com/wingify/across-tabs) Communcation across cross origin pages
 * [Postal](https://github.com/postaljs/postal.js) message bus library
 * [Mesh](http://mesh.js.org/) message bus library
+* [post-robot](https://github.com/krakenjs/post-robot) Posting across domains in browser pages
 * [Automerge](https://github.com/automerge/automerge) JSON-like data structure that can be modified concurrently and merged again automatically.
 * [html-differ](https://github.com/markedjs/html-differ) library to diff html changes
 * [htmldiff](https://github.com/idesis-gmbh/htmldiff.js) library to diff html changes
@@ -228,6 +229,7 @@
 * [htm](https://github.com/developit/htm) SX alternative using standard tagged templates, with compiler support
 * [lit-html](https://github.com/Polymer/lit-html) An efficient, expressive, extensible HTML templating library for JavaScript
 * [MarkoJS](http://markojs.com/) A friendly (and fast!) UI library from eBay.  Claims faster than Inferno
+* [zoid](https://github.com/krakenjs/zoid) cross domain components.  See additional cross domain libraries under [krakenjs](https://github.com/krakenjs)
 
 ## UI
 Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) for reference when choosing a CSS libary
