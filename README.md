@@ -163,8 +163,9 @@
 * [RoboCom](http://robocom.rrobek.de)
 * [Much Assembly Required](https://muchassemblyrequired.com/)
 
-## Competitions
+## Competitions / Challenges
 * [Code Wars](http://www.codewars.com/)
+* [edabit](https://edabit.com/) Similar to code wars, but easier to start for beginners
 * [Code Chef](https://www.codechef.com/)
 * [Hacker Rank](https://www.hackerrank.com/)
 * [Top Coder](https://www.topcoder.com/)
