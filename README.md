@@ -271,6 +271,7 @@
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) Focus on less understood parts of JS
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts#33-clean-code) References of 33 JS Topics
+* [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code) Reference of many short functions / algorithms
 * [Human JavaScript](http://read.humanjavascript.com/) Book of experience
 * [DOM Enlightenment](http://domenlightenment.com/) Detailed look at the DOM API's
 * [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) WebGL Shaders
