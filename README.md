@@ -283,6 +283,7 @@
 * [CSS Visual Reference](http://cssreference.io/)
 * [CSS Triggers](http://csstriggers.com/) Styles which trigger layout, paint and composite
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
+* [CSS References List](https://zendev.com/ultimate-guide-to-learning-css.html) List of CSS references / tutorials
 * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
 * [JSbooks](http://jsbooks.revolunet.com/) Collection of free books
 * [DevFreeBooks](http://devfreebooks.org/) Collection of free books
