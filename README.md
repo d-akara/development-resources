@@ -218,6 +218,7 @@
 * [Katacoda](https://www.katacoda.com/) Interactive learning platform for Docker and more
 * [exercism](https://exercism.io/) programming skills with 2,633 exercises across 48 languages
 * [leetcode](https://leetcode.com/) platform to help you enhance your skills, expand your knowledge and prepare for technical interviews
+* [brilliant](https://brilliant.org/) Math and computer science
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
