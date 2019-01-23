@@ -296,6 +296,7 @@
 * [Reactive.how](http://reactive.how/) Learn Reactive programming video series
 * [By Example](https://github.com/danistefanovic/build-your-own-x) Build your own X...
 * [HTTP Headers Security 1](https://www.fastly.com/blog/headers-we-dont-want) and [2](https://www.fastly.com/blog/headers-we-want)
+* [every programmer should know](https://github.com/mtdvio/every-programmer-should-know) collection of (mostly) technical things every software developer should know 
 
 ## Online development environments
 * [Cloud 9](https://c9.io/) Full virtual development environment
