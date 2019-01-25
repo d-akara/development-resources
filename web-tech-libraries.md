@@ -307,6 +307,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [tonal.js](https://github.com/danigb/tonal) Funtional music theory library
 * [flocking](https://github.com/colinbdclark/Flocking) audio synthesizer library
 * [jsfx](https://github.com/loov/jsfx) JavaScript sound effect generator
+* [standardized audio context](https://github.com/chrisguttandin/standardized-audio-context/) cross-browser implementation of the AudioContext
 
 ## NodeJS
 * [Electron](http://electron.atom.io/) Web technologies as desktop applications [Essential Electron](http://jlord.us/essential-electron/)
