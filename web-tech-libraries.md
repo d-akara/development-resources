@@ -136,6 +136,7 @@
 * [chevrotain](https://github.com/SAP/chevrotain) Fast parser DSL, no code generation.  Performance [comparison](https://sap.github.io/chevrotain/performance/)
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
 * [jison](http://zaa.ch/jison/) generates bottom-up parsers similar to Bison
+* [nearly.js](https://nearley.js.org/) can handle any grammar you can define in BNF (and more!) using [Nearly](https://en.wikipedia.org/wiki/Earley_parser) algorithm
 * [Arcsecond](https://github.com/francisrstokes/arcsecond) Fantasy Land compliant javascript Parser Combinator library largely inspired by Haskell's Parsec.  [Introduction](https://hackernoon.com/arcsecond-parsing-in-javascript-made-easy-af1894bdcec9)
 * [Ohm](https://github.com/cdglabs/ohm) library and language for building parsers, interpreters, compilers, etc. [Intro article](https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/)
 * [Cheerio](https://cheerio.js.org/) server side HTML and XML fast parser.  Uses CSS Selector paradigm like jQuery. [htmlparser2](https://github.com/fb55/htmlparser2) as parsing engine
