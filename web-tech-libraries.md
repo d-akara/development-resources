@@ -168,6 +168,7 @@
 * [ElasticLunr](http://elasticlunr.com/) Lightweight full-text search engine in Javascript for browser search and offline search
 * [fuzzysort](https://github.com/farzher/fuzzysort) sublime like pattern matching
 * [fuse](https://github.com/krisk/fuse/) Lightweight fuzzy-search
+* [flexsearch](https://github.com/nextapps-de/flexsearch) fastest and most memory efficient full text search library
 
 ### Analytics, AI Learning
 * [synaptic](https://github.com/cazala/synaptic) architecture-free neural network library for node.js and the browser
