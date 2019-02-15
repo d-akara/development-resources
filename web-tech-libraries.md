@@ -310,6 +310,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [flocking](https://github.com/colinbdclark/Flocking) audio synthesizer library
 * [jsfx](https://github.com/loov/jsfx) JavaScript sound effect generator
 * [standardized audio context](https://github.com/chrisguttandin/standardized-audio-context/) cross-browser implementation of the AudioContext
+* [openmusic.gallery](https://github.com/mikehelland/openmusic.gallery) Music making, remixing, and collaborating tools for the web
 
 ## NodeJS
 * [Electron](http://electron.atom.io/) Web technologies as desktop applications [Essential Electron](http://jlord.us/essential-electron/)
