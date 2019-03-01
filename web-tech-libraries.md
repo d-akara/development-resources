@@ -317,7 +317,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [NW.js](http://nwjs.io/) Web technologies as desktop applications
 * [pkg](https://github.com/zeit/pkg) Node.js project into an executable 
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) Starter skeleton framework for server application
-* [uWebSockets](https://github.com/alexhultman/uWebSockets) Highly scalable WebSocket server library
+* [uWebSockets](https://github.com/uNetworking/uWebSockets.js) Highly scalable WebSocket server library
 * [deepstream.io](https://deepstream.io/) a fast, secure and scalable websocket & tcp server for mobile, web & iot
 * [socket.io](https://github.com/socketio/socket.io/) Realtime application framework
 * [restify](https://github.com/restify/node-restify) framework for server REST APIs
