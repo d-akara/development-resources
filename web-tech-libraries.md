@@ -299,6 +299,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [MathBox](https://gitgud.io/unconed/mathbox) Presentation-quality WebGL math graphing
 * [OpenLayers](http://openlayers.org/) high-performance, feature-packed library for all your mapping needs
 * [pdfmake](https://github.com/bpampuch/pdfmake) client/server PDF JS library
+* [pts](https://github.com/williamngan/pts) library for visualization and creative-coding
 
 ## Multi Media
 * [video.js](https://github.com/videojs/video.js) JS Browser video player
