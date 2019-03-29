@@ -253,6 +253,7 @@
 * [Git](http://pcottle.github.io/learnGitBranching/?NODEMO)
 * [TensorFlow](http://playground.tensorflow.org) Neural network playground
 * [Elm](https://glot.io/) Multi language playground
+* [CodeSandbox](https://codesandbox.io/) Multi language playground
 * [WebAssembly](http://ast.run/) WASM web assembly
 * [WebAssembly Explorer](http://mbebenita.github.io/WasmExplorer/) C++ compiler to WASM playground.  [Introduction](https://hacks.mozilla.org/2017/03/previewing-the-webassembly-explorer/)
 
@@ -302,6 +303,7 @@
 * [Cloud 9](https://c9.io/) Full virtual development environment
 * [Codeanywhere](https://codeanywhere.com/) Full virtual development environment
 * [CodeEnvy](https://codenvy.com/) Full virtual development environment
+* [repl.it](https://repl.it/) Full virtual development environment
 * [Koding](http://www.koding.com/) Hybrid local and virtual development environment
 * [Carbide](alpha.trycarbide.com/) Live JS programming environment combinded with visualization
 * [Turbo](https://turbo.net/) virtual environment to run desktop applications
