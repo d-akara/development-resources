@@ -6,7 +6,7 @@
 - [RxJava](https://github.com/ReactiveX/RxJava)
 - [Guava](https://github.com/google/guava)
 - [FastUtil](http://fastutil.di.unimi.it/)
-- [jOOλ](https://github.com/jOOQ/jOOL)
+- [jOOλ](https://github.com/jOOQ/jOOL) tuples(1..16), functions(1..16), exception wrapper, sequencial streams APIs
 - [Project Reactor](http://projectreactor.io/)
 
 ## Networking
