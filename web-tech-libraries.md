@@ -436,7 +436,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [GitUp](http://gitup.co/) OSX graphical Git management
 * [GitKraken](https://www.gitkraken.com/) cross platform graphical Git management
 * [Hammerspoon](http://www.hammerspoon.org/) OSX Automation using Lua
-* [RobotJS](https://github.com/octalmage/robotjs) Cross platform Automation on NodeJS
+* [robotN](https://github.com/vcaesar/robotn) Node interface to robotGo cross platform automation library
 * [ripgrep](https://github.com/BurntSushi/ripgrep) Fastest grep implementation in existence. Written in Rust.
 * [VS Code](http://code.visualstudio.com) Seems well positioned to be for JS what Eclipse has been for Java.
 * [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer) bundle content as convenient interactive zoomable treemap
