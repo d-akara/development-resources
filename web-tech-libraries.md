@@ -87,6 +87,7 @@
 * [hash-it](https://github.com/planttheidea/hash-it) Create hash for any JS object
 * [deePool](https://github.com/getify/deePool) JS object pool
 * [VocaJS](https://vocajs.com/) JS String library
+* [broadcast-channel](https://github.com/pubkey/broadcast-channel) broadcast channel for New Browsers, Old Browsers, WebWorkers and NodeJs
 * [Swivel](https://github.com/bevacqua/swivel) Communication channels across pages using service worker
 * [across-tables](https://github.com/wingify/across-tabs) Communcation across cross origin pages
 * [Postal](https://github.com/postaljs/postal.js) message bus library
