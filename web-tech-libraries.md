@@ -135,8 +135,8 @@
 * [SJS](https://github.com/lucagez/slow-json-stringify) Fast JSON stringify using schema
 * [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
 * [flatted](https://github.com/WebReflection/flatted#flatted) handle circular JSON
-* [MessagePack](https://msgpack.org/index.html) cross platform fast, small binary data serialization
-* [FlatBuffers](https://github.com/google/flatbuffers) cross platform fast serialization for networking and storage
+* [MessagePack](https://msgpack.org/index.html) cross platform fast, small binary data serialization. Good drop in replacement for JSON. [review article](https://yuhui-lin.github.io/blog/2017/08/01/serialization)
+* [FlatBuffers](https://github.com/google/flatbuffers) cross platform fast serialization for networking and storage.  [review article](https://yuhui-lin.github.io/blog/2017/08/01/serialization)
 * [chevrotain](https://github.com/SAP/chevrotain) Fast parser DSL, no code generation.  Performance [comparison](https://sap.github.io/chevrotain/performance/)
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
 * [jison](http://zaa.ch/jison/) generates bottom-up parsers similar to Bison
