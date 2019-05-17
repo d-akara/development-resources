@@ -132,8 +132,10 @@
 * [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
 * [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
+* [SJS](https://github.com/lucagez/slow-json-stringify) Fast JSON stringify using schema
 * [jsan](https://github.com/kolodny/jsan) handles circular references with JSON
 * [flatted](https://github.com/WebReflection/flatted#flatted) handle circular JSON
+* [MessagePack](https://msgpack.org/index.html) cross platform fast, small binary data serialization
 * [FlatBuffers](https://github.com/google/flatbuffers) cross platform fast serialization for networking and storage
 * [chevrotain](https://github.com/SAP/chevrotain) Fast parser DSL, no code generation.  Performance [comparison](https://sap.github.io/chevrotain/performance/)
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
