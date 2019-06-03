@@ -346,6 +346,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Yargs](https://github.com/yargs/yargs) Advanced CLI argument parser
 * [shell.js](https://github.com/shelljs/shelljs) Unix commands available for cross platform NodeJS
 * [event-stream](https://github.com/dominictarr/event-stream) EventStream is like functional programming meets IO
+* [fs-jetpack](https://github.com/szwacz/fs-jetpack) better filesystem API
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
