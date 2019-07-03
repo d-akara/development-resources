@@ -4,6 +4,7 @@
 * [DeepStream.io](https://github.com/deepstreamIO/deepstream.io) server that syncs data and sends events across millions of clients
   * [Building a multiplayer space shooter: Part I (Example) | hack.guides()](https://www.pluralsight.com/guides/front-end-javascript/building-a-multiplayer-space-shooter-part-i)
   * [tutorial demo](https://github.com/mdramos/deepGame)
+  * [Building realtime multiplayer game](https://medium.com/madebywild/building-a-realtime-multiplayer-game-with-deepstream-c80d6e1bc50a)
 * [Lance](https://github.com/lance-gg/Lance) Multiplayer game server based on Node.JS
 ## Libraries
 * [Merchant.js](https://github.com/Flaque/merchant.js) Library to assist with Idle game creations [discussion](https://news.ycombinator.com/item?id=15821020)
