@@ -227,6 +227,7 @@
 * [JSFiddle](https://jsfiddle.net/) JS playground
 * [RequireBin](http://requirebin.com/) JS playground using NPM
 * [ESNextbin](http://esnextb.in/) ES6 with NPM
+* [Flems.io](https://flems.io/) Flems supports TypeScript, LiveScript and Babel (standalone) compilation.  Doesn't require a connection to the server after page load.
 * [Plunker](https://plnkr.co/) community for creating, collaborating on and sharing web development ideas
 * [GoMix](https://community.gomix.me/) developer playground for both server side and frontend
 * [Runkit](https://runkit.com/home) Node playground with NPM modules
