@@ -321,6 +321,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 ## NodeJS
 * [Electron](http://electron.atom.io/) Web technologies as desktop applications [Essential Electron](http://jlord.us/essential-electron/)
 * [NW.js](http://nwjs.io/) Web technologies as desktop applications
+* [nodegui](https://github.com/nodegui/nodegui) Native GUI using QT for Linux, OSX, Windows
 * [pkg](https://github.com/zeit/pkg) Node.js project into an executable 
 * [Hackathon Starter](https://github.com/sahat/hackathon-starter) Starter skeleton framework for server application
 * [got](https://github.com/sindresorhus/got) Simplified HTTP requests
