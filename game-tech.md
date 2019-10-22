@@ -54,6 +54,7 @@ The list of items to be classified/evaluated
 * [15 Best Game Development Platforms | Code Geekz](https://codegeekz.com/15-best-game-development-platforms/)
 * [CopperCube - 3D authoring tool for WebG](http://www.ambiera.com/coppercube/)
 * [Babylon.js](http://www.babylonjs.com/)
+    * [BabylonNative](https://github.com/BabylonJS/BabylonNative)
 * [Blend4Web - Open source framework for creating 3D web apps](https://www.blend4web.com/en/)
 * [Pixi.js - 2D webGL renderer with canvas fallback](http://www.pixijs.com/)
 * [cabbibo/PhysicsRenderer](https://github.com/cabbibo/PhysicsRenderer/)
