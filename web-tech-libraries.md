@@ -412,7 +412,8 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Forest](https://github.com/forest-lang/forest-compiler) Forest compiler to WASM
 * [Nexus.js](https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6) Multi threaded JS Server
 * [prepack.io](https://prepack.io/) Optimizer more advanced than Google Closure compiler
-* [DeskGap](https://github.com/patr0nus/DeskGap/) cross-platform desktop app framework based on Node.js and the system webview 
+* [DeskGap](https://github.com/patr0nus/DeskGap/) cross-platform desktop app framework based on Node.js and the system webview
+* [Azula](https://github.com/maierfelix/azula) cross-platform GPU HTML rendering
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
