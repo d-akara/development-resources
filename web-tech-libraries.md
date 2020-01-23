@@ -17,6 +17,7 @@
 * [TA](https://github.com/tebelorg/TA.Gui) browser recording and automation
 * [zombie](https://github.com/assaf/zombie) fast simulated headless browser testing in nodeJS
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API with bundled chromium
+* [playwright](https://github.com/microsoft/playwright) Next evolution beyond Puppeteer
 * [testcafe](https://github.com/DevExpress/testcafe) cross platform, cross browser automation without need of WebDriver
 * [appium](http://appium.io/) test/automate iOS, Android, and Windows apps using the WebDriver protocol
 * [codecept](http://codecept.io/) scenario acceptance testing BDD
