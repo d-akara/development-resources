@@ -347,3 +347,4 @@
 * [NetRenderer](https://netrenderer.com/index.php) Internet Explorer online renderer
 * [ShapeCatcher](http://shapecatcher.com/) find Unicode characters by drawing shapes
 * [securityheaders.io](https://securityheaders.com/) Analyize HTTP response headers
+* [ExtendsClass's Tools](https://extendsclass.com/) Collection of online tools
