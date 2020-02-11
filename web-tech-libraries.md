@@ -255,13 +255,14 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Glamor](https://github.com/threepointone/glamor) Inline CSS [article](http://survivejs.com/blog/glamor-interview/)
 * [StyleTron](http://styletron.js.org/) CSS-in-JS engine built from the ground up for high-performance
 * [Bulma](http://bulma.io/) CSS designed with flexbox
-* [Tachyons](https://github.com/tachyons-css/tachyons/) Functional css for humans
+* [Tachyons](https://github.com/tachyons-css/tachyons/) Functional css for humans [review](https://www.reddit.com/r/reactjs/comments/a6qhbr/checked_21_react_ui_kits_briefly_im_done/)
 * [Tailwind](https://github.com/tailwindcss/tailwindcss) A utility-first CSS framework for rapid UI development.
 * [Spectre](https://github.com/picturepan2/spectre)  Lightweight, Responsive and Modern CSS Framework
 * [Push](https://github.com/Nickersoft/push.js) cross browser desktop notifications
 * [Cleave](https://github.com/nosir/cleave.js) UI enforced field validations and formatted input
 * [Clusterize](http://clusterize.js.org/) Tiny plugin to display large data sets easily
 * [Smart Table Scroll](https://github.com/cmpolis/smart-table-scroll) Build 1MM row tables with native scroll bars by reusing and yielding nodes
+* [palx](https://github.com/jxnblk/palx) color theme generator
 
 ## Graphic libraries
 [State of web animation, May 2016](https://css-tricks.com/comparison-animation-technologies/)
