@@ -215,6 +215,7 @@
 ## View libraries
 [Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/) - [JS Web framework benchmarks](http://www.stefankrause.net/wp/)
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow. [Composition best practice](https://discuss.reactjs.org/t/best-practices-for-extending-subclassing-components/1820) - [mixins and HOC](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html) - [React with no configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) [HN Discussion](https://news.ycombinator.com/item?id=12144371) - [Pure functional React](https://twitter.com/bahmutov/status/760321846529097728) - [React Enlightenment](http://www.reactenlightenment.com/)
+    * [Hooks and Streams](https://james-forbes.com/#!/posts/hooks-and-streams) article
     * [React compose](https://github.com/acdlite/recompose/) utilities and high-order components
     * [React Virtualized](https://bvaughn.github.io/react-virtualized/) view components which render only within viewport
     * [Electrode](http://www.electrode.io/) platform for building universal React/Node.js applications
