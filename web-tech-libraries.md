@@ -447,6 +447,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [GitKraken](https://www.gitkraken.com/) cross platform graphical Git management
 * [Hammerspoon](http://www.hammerspoon.org/) OSX Automation using Lua
 * [robotN](https://github.com/vcaesar/robotn) Node interface to robotGo cross platform automation library
+* [nut-js](https://github.com/nut-tree/nut.js) Node Desktop automation library in typescript
 * [n8n](https://github.com/n8n-io/n8n) workflow automation visual composition
 * [ripgrep](https://github.com/BurntSushi/ripgrep) Fastest grep implementation in existence. Written in Rust.
 * [VS Code](http://code.visualstudio.com) Seems well positioned to be for JS what Eclipse has been for Java.
