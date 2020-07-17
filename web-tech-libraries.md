@@ -171,6 +171,7 @@
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) Regular expressions in plain english
 * [XRegExp](https://github.com/slevithan/xregexp) Extended regular expression support
 * [Rex](https://github.com/areknawo/rex) Regex verbose API
+* [super-expressive](https://github.com/francisrstokes/super-expressive) build regular expressions in almost natural language
 * [ElasticLunr](http://elasticlunr.com/) Lightweight full-text search engine in Javascript for browser search and offline search
 * [fuzzysort](https://github.com/farzher/fuzzysort) sublime like pattern matching
 * [fuse](https://github.com/krisk/fuse/) Lightweight fuzzy-search
