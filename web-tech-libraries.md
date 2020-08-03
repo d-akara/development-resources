@@ -265,6 +265,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Clusterize](http://clusterize.js.org/) Tiny plugin to display large data sets easily
 * [Smart Table Scroll](https://github.com/cmpolis/smart-table-scroll) Build 1MM row tables with native scroll bars by reusing and yielding nodes
 * [palx](https://github.com/jxnblk/palx) color theme generator
+* [tinykeys](https://github.com/jamiebuilds/tinykeys) key bindings
 
 ## Graphic libraries
 [State of web animation, May 2016](https://css-tricks.com/comparison-animation-technologies/)
