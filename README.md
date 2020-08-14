@@ -290,6 +290,7 @@
 * [CSS Triggers](http://csstriggers.com/) Styles which trigger layout, paint and composite
 * [CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [CSS References List](https://zendev.com/ultimate-guide-to-learning-css.html) List of CSS references / tutorials
+* [Modern CSS](https://moderncss.dev/) Modern solutions to old CSS problems
 * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
 * [JSbooks](http://jsbooks.revolunet.com/) Collection of free books
 * [DevFreeBooks](http://devfreebooks.org/) Collection of free books
