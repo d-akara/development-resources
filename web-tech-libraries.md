@@ -422,6 +422,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [prepack.io](https://prepack.io/) Optimizer more advanced than Google Closure compiler
 * [DeskGap](https://github.com/patr0nus/DeskGap/) cross-platform desktop app framework based on Node.js and the system webview
 * [Azula](https://github.com/maierfelix/azula) cross-platform GPU HTML rendering
+* [Rome](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html) Rome is designed to replace Babel, ESLint, Webpack, Prettier, Jest, and others
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
