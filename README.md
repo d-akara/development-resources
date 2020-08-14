@@ -334,6 +334,7 @@
 * [EnjoyCSS](http://enjoycss.com/) CSS Generator designer
 * [Bezier Curve](http://cubic-bezier.com)
 * [Paletton](http://paletton.com/) Pallete designer
+* [Coolors](https://coolors.co/) Pallete designer
 * [GridLover](http://www.gridlover.net/) Typography assistant
 * [GlyphrStudio](http://glyphrstudio.com/)
 * [FontArk](http://fontark.net/farkwp/)
