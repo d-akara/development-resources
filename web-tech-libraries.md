@@ -253,8 +253,8 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Slate](https://github.com/ianstormtaylor/slate) Customizable rich text editor. [discussion](https://news.ycombinator.com/item?id=18457325)
 * [Segment](https://github.com/lmgonzalves/segment) small library animate SVG path strokes
 * [Emotion](https://github.com/emotion-js/emotion) Next Generation CSS in JS. [Article](https://medium.com/@tkh44/emotion-ad1c45c6d28b)
-* [Aphrodite](https://github.com/Khan/aphrodite) CSS inline styles that work [short review] (https://www.briefs.fm/3-minutes-with-kent/21)
-* [Glamor](https://github.com/threepointone/glamor) Inline CSS [article](http://survivejs.com/blog/glamor-interview/)
+* [nano-css](https://github.com/streamich/nano-css) CSS in JS.  0.5kb performant modular library. 5th generation
+* [fela](https://github.com/robinweser/fela) high-performant and framework-agnostic toolbelt to handle state-driven css in JavaScript.
 * [StyleTron](http://styletron.js.org/) CSS-in-JS engine built from the ground up for high-performance
 * [Bulma](http://bulma.io/) CSS designed with flexbox
 * [Tachyons](https://github.com/tachyons-css/tachyons/) Functional css for humans [review](https://www.reddit.com/r/reactjs/comments/a6qhbr/checked_21_react_ui_kits_briefly_im_done/)
