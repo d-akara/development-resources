@@ -358,6 +358,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [event-stream](https://github.com/dominictarr/event-stream) EventStream is like functional programming meets IO
 * [fs-jetpack](https://github.com/szwacz/fs-jetpack) better filesystem API
 * [fdir](https://github.com/thecodrr/fdir) fast file glob
+* [watchr](https://github.com/bevry/watchr) Better file system watching for Node.js
 
 ## Platform
 * [JavaPoly.js](https://www.javapoly.com/) JVM in the browser
