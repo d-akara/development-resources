@@ -229,9 +229,6 @@
 * [snabbdom](https://github.com/paldepind/snabbdom) extremely small and fast virtual dom
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
 * [Incremental-dom](https://github.com/google/incremental-dom) An in-place DOM diffing library vs virtual dom
-* [vidom](https://github.com/dfilatov/vidom) faster than react like library
-* [frzr](https://github.com/pakastin/frzr) ultra small fast library
-* [skate](https://github.com/skatejs/skatejs) W3C web component library using incremental DOM
 * [bliss](http://blissfuljs.com/) smaller more modern jQuery like library
 * [webcomponents](https://github.com/webcomponents/webcomponentsjs) Polyfill library for web components standard
 * [hyperscript](https://github.com/dominictarr/hyperscript) Inline template creation in JavaScript.  [Article](http://lhorie.github.io/mithril-blog/lessons-learned-from-angular.html) discussing advantages of this concept.  Dojo 2 [research item](https://github.com/dojo/meta/issues/11) with many references to hyperscript.
@@ -240,7 +237,6 @@
 * [sinuous](https://github.com/luwes/sinuous) Light, fast, reactive UI library
 * [htm](https://github.com/developit/htm) SX alternative using standard tagged templates, with compiler support
 * [lit-html](https://github.com/Polymer/lit-html) An efficient, expressive, extensible HTML templating library for JavaScript
-* [MarkoJS](http://markojs.com/) A friendly (and fast!) UI library from eBay.  Claims faster than Inferno
 * [zoid](https://github.com/krakenjs/zoid) cross domain components.  See additional cross domain libraries under [krakenjs](https://github.com/krakenjs)
 
 ## UI
