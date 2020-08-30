@@ -103,6 +103,7 @@
 * [paste.js](https://github.com/layerssss/paste.js) cross browser image pasting from clipboard
 * [pampy.js](https://github.com/santinic/pampy.js) Pattern matching
 * [fast-copy](https://github.com/planttheidea/fast-copy) A blazing fast deep object copier
+* [file-type](https://github.com/sindresorhus/file-type#supported-file-types) detect file type
 
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
