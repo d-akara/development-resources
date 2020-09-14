@@ -318,6 +318,7 @@
 * [MPLAB](https://mplabxpress.microchip.com/mplabcloud/example/gettingstarted?board=xpress)
 
 ## Tools
+* [Abstract API](http://www.abstractapi.com/) Collection of free and paid utility API's
 * [Dan's Tools](http://www.danstools.com/) Collection of online tools
 * [Code Beautify](http://codebeautify.org/) Collection of online tools
 * [XPath](http://www.xpathtester.com/xpath) XPath testing
