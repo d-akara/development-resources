@@ -108,6 +108,7 @@
 ### Networking
 * [simple-peer](https://github.com/feross/simple-peer) WebRTC video/voice and data channels
 * [axios](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js
+* [robust-websocket](https://github.com/appuri/robust-websocket) reconnecting websockets
 
 ### Asynchronous and Threading
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
