@@ -95,6 +95,7 @@
 * [Postal](https://github.com/postaljs/postal.js) message bus library
 * [Mesh](http://mesh.js.org/) message bus library
 * [post-robot](https://github.com/krakenjs/post-robot) Posting across domains in browser pages
+* [post-me](https://github.com/alesgenova/post-me/) Communicate with web Workers and other Windows using a simple Promise based API
 * [Automerge](https://github.com/automerge/automerge) JSON-like data structure that can be modified concurrently and merged again automatically.
 * [html-differ](https://github.com/markedjs/html-differ) library to diff html changes
 * [htmldiff](https://github.com/idesis-gmbh/htmldiff.js) library to diff html changes
