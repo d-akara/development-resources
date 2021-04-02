@@ -337,7 +337,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [fastify](https://www.fastify.io/) Fastify is a web framework with the least overhead and a powerful plugin architecture
 * [restify](https://github.com/restify/node-restify) framework for server REST APIs
 * [FFI](https://github.com/node-ffi/node-ffi) Foreign function interface.  Call c functions from node
-* [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) Worker API with native threads
+* [piscina](https://github.com/piscinajs/piscina) the node.js worker pool
 * [klyng](https://github.com/Mostafa-Samir/klyng) Distributed computing
 * [EMS](https://github.com/syntheticsemantics/ems) Shared memory parellelism for node
 * [micro.js](https://github.com/zeit/micro) Micro services library
