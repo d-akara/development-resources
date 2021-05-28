@@ -112,6 +112,7 @@
 * [robust-websocket](https://github.com/appuri/robust-websocket) reconnecting websockets
 
 ### Asynchronous and Threading
+* [threads.js](https://github.com/andywer/threads.js) Make web workers & worker threads as simple as a function call
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
 * [Promise-worker](https://github.com/nolanlawson/promise-worker) Communicate with a Web Worker using Promises
 * [Operative](https://github.com/padolsey/operative) run code inline within a web worker
