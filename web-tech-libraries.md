@@ -31,6 +31,7 @@
 * [Kakapo](https://github.com/devlucky/Kakapo.js) client side mocking. [overview](https://medium.freecodecamp.com/dynamic-mocking-with-kakapo-js-bdbd3d7b58e2#.8pi6rtbu5)
 * [Atmo](https://github.com/Raathigesh/Atmo) simple fast server side mocking with UI
 * [WireMock](http://wiremock.org/) advanced server side mocking
+* [MSW](https://github.com/mswjs/msw) Mock Service Worker API mocking library for browser and Node.js.
 * [faker](https://github.com/Marak/faker.js) fake data generator
 
 ## Low level libraries
@@ -201,6 +202,7 @@
 * [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) library for storing user data locally in the browser, as well as connecting to remoteStorage servers such as dropBox and Google Drive
 * [gun](https://github.com/amark/gun) realtime, decentralized, offline-first, mutable graph database engine
 * [ipfs](https://github.com/ipfs/js-ipfs) JavaScript implementation of the IPFS protocol
+* [prisma](https://www.prisma.io/) toolkit for PostgreSQL, MySQL, SQL Server, and SQLite.  Very positive [opinions](https://news.ycombinator.com/item?id=26887724)
 
 ## Application Framework
 [Flux, Redux, Behavior-Event-State-Tree, Model-View-Update, Model-View-Intent, Nested Dialogues](http://staltz.com/unidirectional-user-interface-architectures.html)
