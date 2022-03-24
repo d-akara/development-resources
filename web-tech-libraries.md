@@ -432,6 +432,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Azula](https://github.com/maierfelix/azula) cross-platform GPU HTML rendering
 * [Rome](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html) Rome is designed to replace Babel, ESLint, Webpack, Prettier, Jest, and others
 * [skia-canvas](https://github.com/samizdatco/skia-canvas) Browser Canvas for Node.js
+* [BlueSky](https://blueskycommunity.net/) Decentralized web projects
 
 ## Performance
 * [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
