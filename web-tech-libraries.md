@@ -110,7 +110,7 @@
 * [lave](https://github.com/jed/lave) Stringify serialize any JS object
 * [devalue](https://github.com/Rich-Harris/devalue) serialize JSON with XSS safe escapes
 * [oboe.js](https://github.com/jimhigson/oboe.js) Streaming approach to JSON.  Similar to SAX
-* [datalib](https://github.com/vega/datalib) Parsing data (JSON, TopoJSON, CSV, TSV) and statistics
+* [Arquero](https://github.com/uwdata/arquero) library for query processing and transformation of array-backed data tables
 * [PapaParse](https://github.com/mholt/PapaParse) CSV parser, streaming, worker thread
 * [Transit-js](https://github.com/cognitect/transit-js) Fast serialization superset of JSON
 * [SJS](https://github.com/lucagez/slow-json-stringify) Fast JSON stringify using schema
@@ -120,7 +120,6 @@
 * [FlatBuffers](https://github.com/google/flatbuffers) cross platform fast serialization for networking and storage.  [review article](https://yuhui-lin.github.io/blog/2017/08/01/serialization)
 * [chevrotain](https://github.com/SAP/chevrotain) Fast parser DSL, no code generation.  Performance [comparison](https://sap.github.io/chevrotain/performance/)
 * [PEG.js](http://pegjs.org/) Parser generator based on parsing expression grammar
-* [jison](http://zaa.ch/jison/) generates bottom-up parsers similar to Bison
 * [nearly.js](https://nearley.js.org/) can handle any grammar you can define in BNF (and more!) using [Nearly](https://en.wikipedia.org/wiki/Earley_parser) algorithm
 * [Arcsecond](https://github.com/francisrstokes/arcsecond) Fantasy Land compliant javascript Parser Combinator library largely inspired by Haskell's Parsec.  [Introduction](https://hackernoon.com/arcsecond-parsing-in-javascript-made-easy-af1894bdcec9)
 * [Ohm](https://github.com/cdglabs/ohm) library and language for building parsers, interpreters, compilers, etc. [Intro article](https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/)
@@ -133,8 +132,6 @@
 * [htmlparser2](https://github.com/fb55/htmlparser2) very fast streaming HTML/XML NodeJS parser, but non-strict
 * [domino](https://github.com/fgnass/domino) W3C DOM Level 4 HTML parser
 * [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) Validate XML, Parse XML to JS/JSON and vise versa.  Uses regex as parser.
-* [NDJson](https://github.com/maxogden/ndjson) Streaming JSON.  [reference article](https://www.bennadel.com/blog/3233-parsing-and-serializing-large-datasets-using-newline-delimited-json-in-node-js.htm)
-* [cherow](https://github.com/cherow/cherow) Fast ECMAScript 2018 parser
 * [js-yaml](https://github.com/nodeca/js-yaml) JS YAML parser/serializer
 
 ### Data Search and Validate
@@ -156,18 +153,12 @@
 * [flexsearch](https://github.com/nextapps-de/flexsearch) fastest and most memory efficient full text search library
 
 ### Analytics, AI Learning
-* [synaptic](https://github.com/cazala/synaptic) architecture-free neural network library for node.js and the browser
 * [brain.js](https://github.com/BrainJS/brain.js) library of Neural Networks written in JavaScript.
 
 ## Persistence
-* [ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) Isomorphic No SQL DB.
-* [LokiJS](http://lokijs.org/#/) A fast, in-memory document-oriented datastore for node.js, browser and cordova
+* [LokiJS](https://github.com/techfort/LokiJS) A fast, in-memory document-oriented datastore for node.js, browser and cordova
 * [RethinkDB](http://rethinkdb.com/) realtime web pushes JSON to your apps [status?](https://news.ycombinator.com/item?id=12649414)
-* [Horizon.io](http://horizon.io/) library built for RethinkDB
-* [TingoDB](https://github.com/sergeyksv/tingodb) JavaScript DB API compatible with MongoDB
-* [NeDB](https://github.com/louischatriot/nedb) JavaScript DB API compatible with MongoDB
 * [localForage](https://localforage.github.io/localForage/) Local storage library for browsers IndexDB and WebSQL
-* [Store.js](https://github.com/marcuswestin/store.js) Local storage with fallback across browsers
 * [Dexie](http://dexie.org/) Local storage IndexDB wrapper library
 * [ClickHouse](https://clickhouse.yandex/) Extremely fast columnar DB [discussion](https://news.ycombinator.com/item?id=11908254)
 * [MonetDB](https://www.monetdb.org/blog/monetdb-embraces-nodejs) columnar DB with native NodeJS support [discussion](https://news.ycombinator.com/item?id=11896105)
@@ -180,7 +171,8 @@
 
 ## Application Framework
 [Flux, Redux, Behavior-Event-State-Tree, Model-View-Update, Model-View-Intent, Nested Dialogues](http://staltz.com/unidirectional-user-interface-architectures.html)
-* [Angular 2](https://github.com/angular/angular) App framework running most of application in web workers [Trending away from Angular 2 towards FP](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)
+
+* [Remix](https://github.com/remix-run/remix) full stack web framework that lets you focus on the user interface
 * [Meteor](https://github.com/meteor/meteor) Fast application development
 * [Cycle.js](http://cycle.js.org/) Functional reactive framework built around RxJS.  Very small codebase.  [Differences Cycle, React, Elm](https://www.reddit.com/r/javascript/comments/3zr6i0/conversation_whats_the_core_differences_between), [CycleJS Talk, good overview of functional and reactive concepts](https://www.youtube.com/watch?v=31URmaeNHSs)
 * [Apollo](http://www.apollostack.com/) manages the flow of data between clients and backends. Based on [GraphQL](https://css-tricks.com/declarative-data-fetching-graphql/)
@@ -193,7 +185,7 @@
     
 
 ## View libraries
-[Performance comparison](https://auth0.com/blog/2016/01/11/updated-and-improved-more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/#results-link) - [Run VDOM benchmarks](http://vdom-benchmark.github.io/vdom-benchmark/) - [JS Web framework benchmarks](http://www.stefankrause.net/wp/)
+[Performance comparison](https://krausest.github.io/js-framework-benchmark/index.html)
 * [React](https://github.com/facebook/react) Virtual DOM with one-way reactive data flow. [Composition best practice](https://discuss.reactjs.org/t/best-practices-for-extending-subclassing-components/1820) - [mixins and HOC](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html) - [React with no configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) [HN Discussion](https://news.ycombinator.com/item?id=12144371) - [Pure functional React](https://twitter.com/bahmutov/status/760321846529097728) - [React Enlightenment](http://www.reactenlightenment.com/)
     * [Hooks and Streams](https://james-forbes.com/#!/posts/hooks-and-streams) article
     * [React compose](https://github.com/acdlite/recompose/) utilities and high-order components
@@ -204,19 +196,14 @@
     * [discussion1](https://news.ycombinator.com/item?id=12614681), [discussion2](https://news.ycombinator.com/item?id=12757946)
     * [Quasar](  http://quasar-framework.org/) cross platform UI library
 * [Inferno](https://github.com/trueadm/inferno) extremely fast virtual dom, React like API and design.  As of 2016/05/26 this may be the fastest vdom implementation.  [HN discussion](https://news.ycombinator.com/item?id=11837082) [HN discussion on Mobile compared with React, Vue, Mithril, Cycle...](https://news.ycombinator.com/item?id=12133695)
-* [Samsara JS](https://github.com/dmvaldman/samsara) Functional reactive library for animating layout
-* [snabbdom](https://github.com/paldepind/snabbdom) extremely small and fast virtual dom
 * [FastDOM](https://github.com/wilsonpage/fastdom) Eliminates layout thrashing by batching DOM measurement and mutation tasks
 * [Incremental-dom](https://github.com/google/incremental-dom) An in-place DOM diffing library vs virtual dom
-* [bliss](http://blissfuljs.com/) smaller more modern jQuery like library
-* [webcomponents](https://github.com/webcomponents/webcomponentsjs) Polyfill library for web components standard
-* [hyperscript](https://github.com/dominictarr/hyperscript) Inline template creation in JavaScript.  [Article](http://lhorie.github.io/mithril-blog/lessons-learned-from-angular.html) discussing advantages of this concept.  Dojo 2 [research item](https://github.com/dojo/meta/issues/11) with many references to hyperscript.
-* [hyperHTML](https://github.com/WebReflection/hyperHTML) A virtual DOM [alternative](https://medium.com/@WebReflection/hyperhtml-a-virtual-dom-alternative-279db455ee0e)
-* [hyperApp](https://github.com/hyperapp/hyperapp)Elm-like state management and a virtual DOM engine
 * [sinuous](https://github.com/luwes/sinuous) Light, fast, reactive UI library
 * [htm](https://github.com/developit/htm) SX alternative using standard tagged templates, with compiler support
 * [lit-html](https://github.com/Polymer/lit-html) An efficient, expressive, extensible HTML templating library for JavaScript
 * [zoid](https://github.com/krakenjs/zoid) cross domain components.  See additional cross domain libraries under [krakenjs](https://github.com/krakenjs)
+* [mikado](https://github.com/nextapps-de/mikado) webs fastest template library for building user interfaces
+* [solidjs](https://github.com/solidjs/solid) declarative, efficient, and flexible JavaScript library for building user interfaces
 
 ## UI
 Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) for reference when choosing a CSS libary
