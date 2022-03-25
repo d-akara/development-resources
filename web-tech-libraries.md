@@ -4,19 +4,12 @@
 
 [Overview JS Testing 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
 
-* [Jasmine](http://jasmine.github.io/) JS testing framework
-* [Mocha](https://mochajs.org/) Mocha is a feature-rich JavaScript test framework
 * [jest](https://github.com/facebook/jest) unit testing, automatic mocking, parallel execution using workers [discussion](https://news.ycombinator.com/item?id=12629743), [discussion2](https://news.ycombinator.com/item?id=13128146)
     * [VS Code Plugin](https://github.com/orta/vscode-jest) live test running in editor
 * [intern](https://github.com/theintern/intern) complete JavaScript software testing system
 * [cypress](https://www.cypress.io/) $ future.  innovative advanced automated testing framework
 * [wallaby](https://wallabyjs.com/) $ realtime test runner with editor integration
 * [AVA](https://github.com/avajs/ava) futuristic test runner
-* [nightwatch](http://nightwatchjs.org/) browser automation testing using Selenium Webdriver [discussion](https://twitter.com/mpjme/status/811184862954737665)
-* [nightmare](https://github.com/segmentio/nightmare) browser automation testing using Electron
-* [TA](https://github.com/tebelorg/TA.Gui) browser recording and automation
-* [zombie](https://github.com/assaf/zombie) fast simulated headless browser testing in nodeJS
-* [puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API with bundled chromium
 * [playwright](https://github.com/microsoft/playwright) Next evolution beyond Puppeteer
 * [testcafe](https://github.com/DevExpress/testcafe) cross platform, cross browser automation without need of WebDriver
 * [appium](http://appium.io/) test/automate iOS, Android, and Windows apps using the WebDriver protocol
@@ -24,25 +17,18 @@
 * [stylelint](http://stylelint.io/) Enforce best practices for stylesheets
 * [eslint](http://eslint.org/) Enforce best practices for JavaScript
     * [eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) Add browser compatibility linting
-* [flow](http://flowtype.org/) powerful static type checking for JavaScript.  [Finds issues even missed in TypeScript](https://gist.github.com/jeffmo/ef9214ca3acfe76c54a237b5710d37be) - [Flow vs TypeScript](http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/) - [Flow React discussion](https://discuss.reactjs.org/t/if-typescript-is-so-great-how-come-all-notable-reactjs-projects-use-babel/4887)
 * [nyc](https://github.com/bcoe/nyc) improvements built on instanbul coverage tool
 * [chai](https://github.com/chaijs/chai) BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [Sinon.js](http://sinonjs.org/) Standalone test spies, stubs and mocks for JavaScript
-* [Kakapo](https://github.com/devlucky/Kakapo.js) client side mocking. [overview](https://medium.freecodecamp.com/dynamic-mocking-with-kakapo-js-bdbd3d7b58e2#.8pi6rtbu5)
-* [Atmo](https://github.com/Raathigesh/Atmo) simple fast server side mocking with UI
 * [WireMock](http://wiremock.org/) advanced server side mocking
 * [MSW](https://github.com/mswjs/msw) Mock Service Worker API mocking library for browser and Node.js.
-* [faker](https://github.com/Marak/faker.js) fake data generator
 
 ## Low level libraries
-* [Closure Library](https://google.github.io/closure-library/api/) Google's common low level JavaScript library
 * [lodash](https://lodash.com/) General utility library performance focused with FP concepts
 * [callbag](https://github.com/staltz/callbag-basics) Tiny and fast reactive/iterable programming library. [Callbags](https://github.com/callbag/callbag/wiki)
 * [lazy](https://github.com/dtao/lazy.js) Similar to lodash, but with all lazy evaluation
 * [stdlib](https://github.com/stdlib-js/stdlib) Standard library for JavaScript and Node.js
-* [sugar](https://sugarjs.com/) Javascript utility library for working with native objects
 * [FPO](https://github.com/getify/fpo) Functional library using named arguments
-* [Highland](https://github.com/caolan/highland) Utility library using high-level streams seamless async and sync
 * [Immutable](http://facebook.github.io/immutable-js/) Fast immutable collection library
 * [Crio](https://github.com/planttheidea/crio) Immutable library compatible with other collection libraries
 * [Collections](https://github.com/montagejs/collections) common data structures with idiomatic interfaces
@@ -65,28 +51,23 @@
 * [indexed-bitfield](https://github.com/mafintosh/indexed-bitfield) Indexed bitfield that allows you to search for bits efficiently
 * [sparse-bitfield](https://github.com/mafintosh/sparse-bitfield) allocates a series of small buffers to support sparse bits without allocating a massive buffer
 * [Rbush](https://github.com/mourner/rbush) high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
-* [Little-loader](https://github.com/walmartlabs/little-loader) Module loader with [broadest](http://daily-javascript.com/articles/little-loader/) browser support
 * [SystemJS](https://github.com/systemjs/systemjs) Loader which supports all module formats and can load dynamically at runtime
-* [Lozad](https://bestof.js.org/projects/lozad) uses intersection observer to more efficiently load resources
+* [Lozad](https://github.com/ApoorvSaxena/lozad.js) uses intersection observer to more efficiently load resources
 * [transducers-js](https://github.com/cognitect-labs/transducers-js) Composable algorithmic transformations
 * [transducers.js](https://github.com/jlongster/transducers.js) Composable algorithmic transformations.  [Tranducers performance](http://jlongster.com/Transducers.js-Round-2-with-Benchmarks)
-* [Stream.js](https://github.com/winterbe/streamjs) Lazy object streaming pipeline for JavaScript
+* [Sequency.js](https://github.com/winterbe/sequency) Lazy object streaming pipeline for JavaScript inspired by Kotlin
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Observables + Operators + Schedulers
-* [jailed](https://github.com/asvd/jailed) Execute JavaScript in secure sandbox
 * [JS-interpreter](https://github.com/NeilFraser/JS-Interpreter) sandboxed JavaScript interpreter in JS
 * [expressions-js](https://github.com/chip-js/expressions-js/blob/master/src/expressions.js) simplified JavaScript expressions into executable functions
-* [can-zone](https://github.com/canjs/can-zone) JavaScript concept of thread local context
-* [zone.js](https://github.com/angular/zone.js) JavaScript concept of thread local context
+* [zone.js](https://github.com/angular/angular/tree/master/packages/zone.js) JavaScript concept of thread local context
 * [nlp-compromise](https://github.com/nlp-compromise/nlp_compromise) NLP JavaScript library
 * [core-js](https://github.com/zloirock/core-js#supported-engines) Polyfills of ES6+ for older JavaScript engines.
 * [cuid](https://github.com/ericelliott/cuid) Collision-resistant ids optimized for horizontal scaling and performance
 * [ulid](https://github.com/ulid/javascript) Universally Unique Lexicographically Sortable Identifier
 * [stamp-it](https://github.com/stampit-org/stampit/) Composable object factories
 * [MixWith](https://github.com/justinfagnani/mixwith.js) Composable classes with [mixins](http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/)
-* [typescript-mixins](https://github.com/nch3v/typescript-mixins) Mixin implementation for typescript
 * [DOMPurify](https://github.com/cure53/DOMPurify) XSS sanitizer for HTML, MathML and SVG
 * [stacktrace.js](https://www.stacktracejs.com/) Generate, parse, and enhance JavaScript stack traces in all web browsers
-* [notate](https://github.com/scottnonnenberg/notate) Making it easier to debug asynchronous errors in javascript
 * [hash-it](https://github.com/planttheidea/hash-it) Create hash for any JS object
 * [deePool](https://github.com/getify/deePool) JS object pool
 * [VocaJS](https://vocajs.com/) JS String library
@@ -94,14 +75,12 @@
 * [Swivel](https://github.com/bevacqua/swivel) Communication channels across pages using service worker
 * [across-tables](https://github.com/wingify/across-tabs) Communcation across cross origin pages
 * [Postal](https://github.com/postaljs/postal.js) message bus library
-* [Mesh](http://mesh.js.org/) message bus library
 * [post-robot](https://github.com/krakenjs/post-robot) Posting across domains in browser pages
 * [post-me](https://github.com/alesgenova/post-me/) Communicate with web Workers and other Windows using a simple Promise based API
 * [Automerge](https://github.com/automerge/automerge) JSON-like data structure that can be modified concurrently and merged again automatically.
 * [html-differ](https://github.com/markedjs/html-differ) library to diff html changes
 * [htmldiff](https://github.com/idesis-gmbh/htmldiff.js) library to diff html changes
 * [jsDiff](https://github.com/kpdecker/jsdiff) text diff library
-* [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) Browser library to make clipboard support consistent
 * [paste.js](https://github.com/layerssss/paste.js) cross browser image pasting from clipboard
 * [pampy.js](https://github.com/santinic/pampy.js) Pattern matching
 * [fast-copy](https://github.com/planttheidea/fast-copy) A blazing fast deep object copier
@@ -117,14 +96,9 @@
 * [Async](https://github.com/caolan/async) Async utilities for node and the browser
 * [Promise-worker](https://github.com/nolanlawson/promise-worker) Communicate with a Web Worker using Promises
 * [Operative](https://github.com/padolsey/operative) run code inline within a web worker
-* [multithread.js](https://github.com/keithwhor/multithread.js) run code inline within a web worker
 * [thaw.js](http://robertleeplummerjr.github.io/thaw.js/) synthetic asynchronous processing
-* [bluebird](https://github.com/petkaantonov/bluebird) Full featured fast promise library
 * [posterus](https://github.com/Mitranim/posterus) Composable async primitives (futures) with true cancelation, control over scheduling, and coroutines
-* [aigle](https://github.com/suguru03/aigle) Fast promise library [competitve](https://hackernoon.com/aigle-vs-bluebird-5ed3becb4c4c) with bluebird
-* [setImmediate](https://github.com/YuzuJS/setImmediate) Access to macro task queue for more efficient setTimeout
 * [Task.js](https://github.com/icodeforlove/task.js/) Distribute across workers for Node and Web
-* [worker-render](https://github.com/canjs/worker-render) run SPA within a web worker
 * [greenlet](https://github.com/developit/greenlet) run async function in a web worker
 * [workerize](https://github.com/developit/workerize) run a module in a web worker
 * [comlink](https://github.com/GoogleChromeLabs/comlink) auto proxy to web worker
