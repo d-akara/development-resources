@@ -347,66 +347,26 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 
 ## WASM Web Assembly
 * [assemblyscript](https://github.com/AssemblyScript/assemblyscript) Limited TypeScript to WASM compiler
-* [Walt](https://github.com/ballercat/walt) JS like syntax for WASM
 * [wasmer](https://github.com/wasmerio/wasmer) High-Performance WebAssembly JIT interpreter
 
 ## Future
-* [tasklets](https://github.com/GoogleChromeLabs/tasklets) Attempt at more efficient use of WebWorkers. [discussion](https://news.ycombinator.com/item?id=15511519)
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
-* [weblas](https://github.com/waylonflinn/weblas) GPU Accelerated JavaScript
-* [Turbo.js](https://turbo.github.io/) GPU Accelerated JavaScript
-* [TurboScript](https://dump.01alchemist.com/2016/12/31/future-webhpc-parallel-programming-with-javascript-the-new-era-about-to-begin/) Parallel computing with JavaScript using shared memory and workers
-* [Jxcore](https://github.com/jxcore/jxcore) NodeJS for mobile and IoT
-* [Infamouse](https://infamous.io/) Performance focused web rendering engine
-* [JanusGraph](http://janusgraph.org/) Scalable distributed graph DB
-* [MapD](http://www.mapd.com/product/) GPU Accelerated SQL
-* [BlazeGraph](https://www.blazegraph.com/) GPU Acclerated RDF Graph DB
-* [BlazingDB](http://blazingdb.com/) GPU Acclerated SQL DB
+* [lume](https://github.com/lume/lume) Performance focused web rendering engine
 * [DGraph](https://github.com/dgraph-io/dgraph/) Scalable, Distributed, Low Latency Graph Database
-* [Falcor](http://netflix.github.io/falcor/) Efficient data fetching by JSON graph
-* [Noms](https://github.com/attic-labs/noms) versioned, forkable, syncable database
-* [Neft](http://www.neft.io/) server, browser and mobile JavaScript native applications
 * [lighthouse](https://github.com/GoogleChrome/lighthouse) progressive web app diagnostics
-* [Black Screen](https://github.com/shockone/black-screen) modern terminal. OSX only at the moment
 * [HyperTerm](https://github.com/zeit/hyperterm) modern terminal. Electron based
 * [Terminus](https://eugeny.github.io/terminus/) modern terminal. Electron based
-* [SkyPort](https://github.com/MJB-code6/SkyPort) offline functionality via service workers
-* [Neft](https://github.com/Neft-io/neft) Native JS on mobile
-* [nbind](https://github.com/charto/nbind#readme) C++ and JavaScript integration
-* [Audio Lab](https://github.com/audio-lab) collection of audio tools
-* [libui](https://github.com/parro-it/libui-node) Native GUI for node
-* [Cycligent](https://www.cycligent.com/git-tool) Git GUI Tool
-* [Allora](https://github.com/GianlucaGuarini/allora) Promisify all JS API's with very small library
 * [Tesseract.js](http://tesseract.projectnaptha.com/) JS OCR
-* [Yarn](https://code.facebook.com/posts/1840075619545360) Next generation package manager similar to Rust's Cargo
-* [Jasonette](http://jasonette.com/) Mobile app building with JSON desclaritive language
-* [Svelte](https://github.com/sveltejs/svelte) compiler UI framework with no runtime
-* [Nidium](https://www.nidium.com/) JS runtime built on SpiderMonkey
-* [Browsix](https://browsix.org/) Run C, C++, Go and Node.js programs as processes in browsers
-* [WebDsp](https://github.com/shamadee/web-dsp) client-side signal processing library utilizing the power of WebAssembly
-* [Lisk](https://lisk.io/) Blockchain applications in JavaScript
-* [Forest](https://github.com/forest-lang/forest-compiler) Forest compiler to WASM
-* [Nexus.js](https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6) Multi threaded JS Server
-* [prepack.io](https://prepack.io/) Optimizer more advanced than Google Closure compiler
-* [DeskGap](https://github.com/patr0nus/DeskGap/) cross-platform desktop app framework based on Node.js and the system webview
-* [Azula](https://github.com/maierfelix/azula) cross-platform GPU HTML rendering
-* [Rome](https://romefrontend.dev/blog/2020/08/08/introducing-rome.html) Rome is designed to replace Babel, ESLint, Webpack, Prettier, Jest, and others
 * [skia-canvas](https://github.com/samizdatco/skia-canvas) Browser Canvas for Node.js
 * [BlueSky](https://blueskycommunity.net/) Decentralized web projects
 
-## Performance
-* [Feather-app](https://github.com/HenrikJoreteg/feather-app) Demonstration of multiple techniques for fast web page render
-* [Basket.js](https://github.com/addyosmani/basket.js) is a script and resource loader for caching and loading scripts using localStorage
-
 ## Tools
 * [Frida](https://github.com/frida/frida) Debugging through injecting JavaScript into native apps
-* [Panopticon](https://panopticon.re/) Low level debugging cross platform
+* [verso](https://gitlab.com/p8n/verso) Low level debugging cross platform
 * [gdbgui](https://github.com/cs01/gdbgui) browser-based frontend to gdb (gnu debugger)
 * [UIforETW](https://github.com/google/UIforETW) Low level performance tracing on Windows
 * [ndb](https://github.com/GoogleChromeLabs/ndb) ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
-* [Devtron](http://electron.atom.io/devtron/) Debugger for Electron
-* [Betwixt](https://github.com/kdzwinel/betwixt) Network debugger using chrome devtools
 * [reveal.js](https://github.com/hakimel/reveal.js) Interactive presentation framework
 * [impress.js](https://github.com/impress/impress.js) presentation framework based on the power of CSS3 transforms and transitions
 * [npm-check](https://github.com/dylang/npm-check) Check for outdated, incorrect or unused dependencies
@@ -420,14 +380,10 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Webpack](https://webpack.github.io/) Very configurable supporting large scale development
 * [Fuse-Box](https://github.com/fuse-box/fuse-box) blazing fast js bundler/loader with a comprehensive API 
 * [Broswerify](http://browserify.org/) Easiest to setup and use module builder
-* [GitUp](http://gitup.co/) OSX graphical Git management
 * [GitKraken](https://www.gitkraken.com/) cross platform graphical Git management
-* [Hammerspoon](http://www.hammerspoon.org/) OSX Automation using Lua
 * [robotN](https://github.com/vcaesar/robotn) Node interface to robotGo cross platform automation library
 * [nut-js](https://github.com/nut-tree/nut.js) Node Desktop automation library in typescript
 * [n8n](https://github.com/n8n-io/n8n) workflow automation visual composition
-* [ripgrep](https://github.com/BurntSushi/ripgrep) Fastest grep implementation in existence. Written in Rust.
-* [VS Code](http://code.visualstudio.com) Seems well positioned to be for JS what Eclipse has been for Java.
 * [Webpack Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer) bundle content as convenient interactive zoomable treemap
 * [Marky](https://github.com/nolanlawson/marky) High performance timer for performance analysis
 * [Pencil](https://github.com/evolus/pencil) UI prototype sketch tool
@@ -438,3 +394,4 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [jscodeshift](https://github.com/facebook/jscodeshift) JavaScript codemod toolkit
 * [gh-pages](https://github.com/tschaub/gh-pages) publish files to a 'gh-pages' branch
 * [volta](https://github.com/volta-cli/volta) toolchain manager for NodeJS development
+* [unplugin](https://github.com/unjs/unplugin) universal interace for build tool plugins
