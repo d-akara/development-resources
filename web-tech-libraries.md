@@ -244,18 +244,15 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [gl-matrix](https://github.com/toji/gl-matrix) Matrix and Vector library for High Performance WebGL
 * [react-three-fiber](https://github.com/pmndrs/react-three-fiber) React and threejs
 * [Konva](http://konvajs.github.io/) 2d canvas drawing animation library
-* [Sketch](https://github.com/soulwire/sketch.js) Cross-Platform JavaScript Creative Coding Framework. [Example work](https://soulwire.co.uk/)
 * [Paper.js](http://paperjs.org/about/) Vector graphics on canvas
 * [SVG.js](https://github.com/wout/svg.js) library for manipulating and animating SVG
-* [Velocity](http://velocityjs.org/) animation library
 * [Anime.js](https://github.com/juliangarnier/anime) animation library
 * [Popmotion](https://github.com/popmotion/popmotion) animiation library using functional API
 * [Kute.js](http://thednp.github.io/kute.js/index.html) impressive performance animation library
+* [AnimXYZ](https://github.com/ingram-projects/animxyz) composable CSS animation library
 * [mojs](https://github.com/legomushroom/mojs) motion graphics library.  [Workflow](https://vimeo.com/185587462) with editing tools.
 * [Aframe](https://github.com/aframevr/aframe/) 3D Web VR
 * [Matter.js](https://github.com/liabru/matter-js) 2D rigid body physics engine for the web
-* [g9](https://github.com/bijection/g9) Automatically interactive graphics for the web
-* [choreographer](https://github.com/christinecha/choreographer-js) Library for complex CSS animations
 * [Opentype.js](http://opentype.js.org/) Draw opentype and truetype fonts on canvas
 * [Jimp](https://github.com/oliver-moran/jimp) Image manipulation library
 * [Chroma.js](https://github.com/gka/chroma.js) Color manipulation library. [Article](https://swizec.com/blog/make-things-pretty-chroma-js/swizec/8233)
