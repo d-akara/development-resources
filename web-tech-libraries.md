@@ -106,6 +106,7 @@
 ### Parsing and Serialization
 * [struct-fu](https://github.com/natevw/struct-fu) Convert between JSON objects and binary buffer data according to a given field layout/structure declaration.  Can handle bitfields.
 * [struct](https://github.com/xdenser/node-struct) Creates a proxy view into a buffer based on a struct definition.  No bitwise data
+* [typed-array-buffer-schema](https://github.com/geckosio/typed-array-buffer-schema) Schema based Object to Buffer converter
 * [corrode](https://github.com/screeny05/corrode) library for reading binary data
 * [lave](https://github.com/jed/lave) Stringify serialize any JS object
 * [devalue](https://github.com/Rich-Harris/devalue) serialize JSON with XSS safe escapes
