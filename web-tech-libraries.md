@@ -167,6 +167,7 @@
 * [knex.js](https://knexjs.org/) SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift. [DB2](https://github.com/henryjw/knex-db2)
 * [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) library for storing user data locally in the browser, as well as connecting to remoteStorage servers such as dropBox and Google Drive
 * [gun](https://github.com/amark/gun) realtime, decentralized, offline-first, mutable graph database engine
+* [orbit-db](https://github.com/orbitdb/orbit-db) Peer-to-Peer Databases for the Decentralized Web
 * [ipfs](https://github.com/ipfs/js-ipfs) JavaScript implementation of the IPFS protocol
 * [prisma](https://www.prisma.io/) toolkit for PostgreSQL, MySQL, SQL Server, and SQLite.  Very positive [opinions](https://news.ycombinator.com/item?id=26887724)
 
