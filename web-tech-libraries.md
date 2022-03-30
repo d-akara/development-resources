@@ -348,6 +348,12 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [assemblyscript](https://github.com/AssemblyScript/assemblyscript) Limited TypeScript to WASM compiler
 * [wasmer](https://github.com/wasmerio/wasmer) High-Performance WebAssembly JIT interpreter
 
+## Web 3 [ProtoSchool Tutorials](https://proto.school/)
+* [ipfs.io](https://js.ipfs.io/) P2P protocol written entirely in JavaScript
+* [Automerge](https://automerge.org/) library of data structures for building collaborative applications
+* [UCANs](https://github.com/ucan-wg/ts-ucan) Auth tokens for a distributed, user-controlled world
+* [fission](https://github.com/fission-suite) Next-gen serverless apps with user controlled data & great DX
+
 ## Future
 * [Neon](https://github.com/rustbridge/neon) Rust abstraction layer for native Node.js modules
 * [Gpujs](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript
