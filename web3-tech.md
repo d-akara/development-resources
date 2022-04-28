@@ -6,6 +6,7 @@
 * [fleek](https://fleek.co/space-sdk/) library that makes distributed, and user-controlled storage available browser and mobile
 * [filecoin](https://docs.filecoin.io/store/) peer-to-peer network that allows anyone to store and retrieve data on the internet
 * [web3.storage](https://web3.storage/) data will end up on a decentralized set of IPFS and Filecoin storage providers
+* [storx](https://www.storx.tech/) encrypt, fragment and then distribute important data across multiple hosting nodes
 * [Automerge](https://automerge.org/) library of data structures for building collaborative applications
 * [UCANs](https://github.com/ucan-wg/ts-ucan) Auth tokens for a distributed, user-controlled world
 * [fission](https://github.com/fission-suite) Next-gen serverless apps with user controlled data & great DX
