@@ -19,3 +19,4 @@
 * [alchemy](https://www.alchemy.com/) relied upon by the majority of the world's top blockchain apps
 * [moralis](https://moralis.io/) Moralis is the fastest path from idea to mass-scale dApp, letting you focus on great experiences rather than heavy lifting
 * [BlueSky](https://blueskycommunity.net/) web3 technology community
+* [Umbrel](https://getumbrel.com/) Run your personal server with a Bitcoin and Lightning node in your home
