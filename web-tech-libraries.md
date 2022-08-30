@@ -44,6 +44,7 @@
 * [Redux](https://github.com/reactjs/redux) State container
 * [Most](https://github.com/cujojs/most/) ultra-high performance monadic reactive streams
 * [optika](https://github.com/phadej/optika) optics for JavaScript.  Functional Programming
+* [ts-pattern](https://github.com/gvergnaud/ts-pattern)  Pattern Matching library for TypeScript with smart type inference
 * [construct-js](https://github.com/francisrstokes/construct-js) declaritive library for creating byte level data structures
 * [structurae](https://github.com/zandaqo/structurae) Fast data structures, Grid, BitField, Pool, Array
 * [FastBitSet](https://github.com/lemire/FastBitSet.js) Speed-optimized BitSet implementation
