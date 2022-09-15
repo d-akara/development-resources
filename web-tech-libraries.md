@@ -362,6 +362,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [skia-canvas](https://github.com/samizdatco/skia-canvas) Browser Canvas for Node.js
 * [BlueSky](https://blueskycommunity.net/) Decentralized web projects
 * [Fly.io](https://fly.io/) Run your full stack apps and databases all over the world. No ops required.
+* [SurrealDb](https://surrealdb.com/) SQL-style query language, real-time queries with highly-efficient related data retrieval
 
 ## Tools
 * [Frida](https://github.com/frida/frida) Debugging through injecting JavaScript into native apps
