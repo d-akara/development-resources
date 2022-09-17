@@ -214,6 +214,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Dragula](https://github.com/bevacqua/dragula) Drag and drop library
 * [Draggable](https://github.com/Shopify/draggable) Drag and drop library from Shopify
 * [Muuri](https://haltu.github.io/muuri/) Drag Drop Filter and Sort Grid
+* [glide data grid](https://github.com/glideapps/glide-data-grid) canvas-based data grid, supporting millions of rows, rapid updating, and native scrolling.
 * [dropzone](https://github.com/enyo/dropzone/) Drag and drop for file uploads
 * [quill](https://github.com/quilljs/quill/) Rich text editor
 * [medium editor](https://github.com/yabwe/medium-editor) ContentEditable API editor
