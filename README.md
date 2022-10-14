@@ -264,6 +264,7 @@
 * [JavaScript Enlightenment](http://javascriptenlightenment.com/) Intermediate level introduction to JS
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html) Detailed deep dive into JS language proper
 * [Exploring ES6](http://exploringjs.com/es6/) Detailed deep dive into JS ES6 language proper
+* [JavaScript in Detail](https://www.scaler.com/topics/javascript/)
 * [Deep JS](https://exploringjs.com/deep-js/toc.html) Theory and techniques
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) Intermediate level guide to new parts in ES6
 * [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) 
