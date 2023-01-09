@@ -29,6 +29,8 @@
 * [CodeBurst.io](https://codeburst.io/) web development articles and tutorials
 * [Google Developers](https://developers.google.com/web/updates/) Google developer news
 * [SitePoint](http://www.sitepoint.com/) Technical articles with broad focus
+* [JavaScript tutorial](https://www.scaler.com/topics/javascript/) Javscript Tutorial in detail
+* [SitePoint](http://www.sitepoint.com/) Technical articles with broad focus
 * [Mozilla Hacks](https://hacks.mozilla.org/articles/) Technical articles focus on emerging technology
 * [Tuts+](http://code.tutsplus.com/) Web Tech Tutorial articles
 * [Scotch.io](http://scotch.io/) Tutorials, courses and articles focus on popular libraries, platforms and tools
