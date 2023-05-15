@@ -220,6 +220,7 @@
 * [leetcode](https://leetcode.com/) platform to help you enhance your skills, expand your knowledge and prepare for technical interviews
 * [brilliant](https://brilliant.org/) Math and computer science
 * [Scaler Topics](https://www.scaler.com/topics/) Free Resources to learn Programming Langauges.
+* [Wiingy](https://wiingy.com/tutoring/subject/css-tutors/) CSS Lessons from Expert.
 
 ### Development playgrounds
 * [Codepen](http://codepen.io/) Social ranking based JS playground
