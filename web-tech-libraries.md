@@ -186,6 +186,7 @@
     * [discussion and resource references for both Relay and Apollo](https://news.ycombinator.com/item?id=12703125)
 * [JSON API](http://jsonapi.org/implementations/#client-libraries-javascript) Alternative to REST and GraphQL.  Need to further assess implementations
 * [workbox](https://workboxjs.org/) JavaScript Libraries for Progressive Web Apps
+* [Plasmo](https://github.com/PlasmoHQ/plasmo) Browser extension framework
     
 
 ## View libraries
@@ -338,6 +339,7 @@ Great [article](https://medium.com/seek-blog/a-unified-styling-language-d0c208de
 * [Carlo](https://github.com/GoogleChromeLabs/carlo) Web rendering surface for Node applications
 * [Tauri](https://github.com/tauri-apps/tauri) Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast
 * [low.js](https://www.lowjs.org/) Node.js with far lower system requirements for microcontroller boards based on the ESP32-WROVER module
+* [Wails](https://github.com/wailsapp/wails) Desktop apps using Go and web tech
 
 ## Mobile
 * [NativeScript](https://www.nativescript.org/) Native mobile apps in JavaScript with low level access to system API's
