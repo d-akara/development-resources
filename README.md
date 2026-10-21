@@ -191,7 +191,7 @@
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) Computer algorithms course
 * [Khan Academy CS](https://www.khanacademy.org/computing/computer-science) Computer science courese
 * [TutorialsPoint](http://www.tutorialspoint.com/codingground.htm) 80+ languages with playgrounds
-* [Learn Git](https://try.github.io/levels/1/challenges/1)
+* [Git Playground](https://coddy.tech/playground/git) Run real git commands in the browser
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [CodeCademy Git](https://www.codecademy.com/learn/learn-git)
 * [Github Learning Lab](https://blog.github.com/2018-04-19-introducing-github-learning-lab/)
@@ -250,7 +250,7 @@
 * [IDEOne](http://ideone.com/) Multiple language playground
 * [dbgr](https://dbgr.cc/) Multi language debugger
 * [Rust](https://play.rust-lang.org/)
-* [Swift](http://swiftlang.ng.bluemix.net/#/repl)
+* [Swift](https://coddy.tech/playground/swift)
 * [SQLFiddle](http://sqlfiddle.com/)
 * [Git](http://pcottle.github.io/learnGitBranching/?NODEMO)
 * [TensorFlow](http://playground.tensorflow.org) Neural network playground
